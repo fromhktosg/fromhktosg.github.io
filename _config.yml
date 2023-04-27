@@ -7,7 +7,6 @@ url: https://fromhktosg.github.io
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: David
 paginate: 30
 disqus: 'demowebsite'
 locale: en_sg
@@ -23,16 +22,6 @@ sass:
   sass_dir: _sass
   style: :compressed
 ganalytics: UA-113961478-1
-
-# Authors
-authors:
-  David:
-    name: 
-    display_name: David
-    avatar: 'assets/images/.png'
-    email: fromhktosg@gmail.com
-    web:
-    description: "Welcome to From HK to SG."
 
 # Social
 social:
