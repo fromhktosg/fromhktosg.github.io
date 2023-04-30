@@ -1,14 +1,13 @@
 title: "From HK to SG"
 email: fromhktosg@gmail.com
 timezone: UTC
-baseurl: ""
+baseurl: "/affiliates-jekyll-theme"
 domain: fromhktosg.github.io
 url: https://fromhktosg.github.io
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 30
-disqus: 'demowebsite'
 locale: en_sg
 lang: en_us
 feed_items: 10
