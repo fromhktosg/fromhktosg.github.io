@@ -32,4 +32,6 @@ Add these two lists of reasons together, and it was enough to pull me to Singapo
 
 Whilst the transition was relatively smooth, it did not come with its own set of apprehensions. Subscribe now to find out in my next post.
 
-![Goodbye SF. My favourite spot in the City near the Presidio](assets/images/presidio.jpg)
+| ![Goodbye SF. My favourite spot in the City near the Presidio]({{ site.baseurl }}/assets/images/presidio.jpg)
+|:--:| 
+|  *Goodbye SF. My favourite spot in the City near the Presidio*  |
