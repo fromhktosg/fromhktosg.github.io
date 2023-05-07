@@ -19,15 +19,17 @@ In my last post, I talked about the push and pull factors that culminated in my 
 
     With an approximate area of [720km²](https://www.worlddata.info/asia/singapore/index.php#:~:text=Singapore%20is%20an%20island%20state,size%20of%20New%20York%20City.), Singapore is smaller than New York City. There’s really not much to do in such a small landmass, hence you’ll see a constant stream of people (particularly expats) venturing out to nearby SEA countries for escapes. There’s a limited amount of nature and altitude on the island (an article for another time) which vastly reduces outdoor opportunities. If you ask what locals do on the weekends, you’ll get the same mix of answers between the ‘mall’, ‘netflix’, and ‘eat out’. Nothing wrong with any of those options but it’s not the most exciting and gets repetitive. To be fair, a small landmass also does not directly translate to boredom (Hong Kong being the best example), but onto my next point…
 
-
-![The view from Henderson Waves whilst on a rare hike](assets/images/top5concerns.jpg)
-
+| ![Henderson]({{ site.baseurl }}/assets/images/top5concerns.jpg)
+|:--:| 
+|  *The view from Henderson Waves whilst on a rare hike*  |
 
 4. Singapore feels artificially constructed
 
     Whilst Lee Kuan Yew’s development of Singapore is an economic masterclass, the country’s modernity came with a laser focus on progress versus preservation in the 60s/70s. Examples include prioritization on standardized housing vs maintaining [kampungs](https://www.timeout.com/singapore/things-to-do/kampung-life-the-last-villages-in-singapore-and-the-stories-behind-them), as well as emphasis on sciences, business, law academically vs the arts. It’s no surprise that this approach was correct and essential to take Singapore to its current world stature, but also resulted in the [‘cultural desert’](https://www.jstor.org/stable/4488510) it was 20 years back, with lingering effects to the present. What I appreciate is that the Singapore government is aware of such shortcomings and has doubled down on integrating the arts into society. All that being said, Singapore’s latest and meticulous developments (from parks to commercial estates to cafes) feel artificial or constructed for Instagram. Whilst the intent is there, the impact may be lacking. On the other hand, Hong Kong has struck more of a balance between development and [preservation](https://www.bbc.com/storyworks/capital/city-of-inspiration/heritage), with its unique heritage interweaving itself across the newer metropolitan landscape. Definitely something for Singapore to learn from. 
 
-![The Marina skyline](assets/images/top5concernsmarina.jpg)
+ ![The Marina skyline]({{ site.baseurl }}/assets/images/top5concernsmarina.jpg)
+|:--:| 
+|  *The Marina skyline*  |
 
 5. Strict laws, over-regulation and censorship
 

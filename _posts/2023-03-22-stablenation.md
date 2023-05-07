@@ -28,9 +28,9 @@ Whilst these values still ring true today, I attribute the crux of Singapore’s
 
 All three of these show up in UN’s 2030 sustainable development goals (#s 2, 9, 10, 11) and culminates into one last important ‘H’ for every nation - ‘hope’.
 
-![UNDP SDGs](assets/images/sdg.png)
-
-Source: [UNDP SDGs](https://sdgs.un.org/goals)
+ ![UNDP]({{ site.baseurl }}/assets/images/sdg.png)
+|:--:| 
+|  *Source: [UNDP SDGs](https://sdgs.un.org/goals)*  |
 
 Let’s dive into each and compare how they fare versus the situation in Hong Kong. For what it’s worth, we’ll save deeper analysis for each factor another time.
 

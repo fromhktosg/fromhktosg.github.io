@@ -57,7 +57,9 @@ Not the biggest factor for most, with a multitude of [caveats](https://www.prope
 ##### Eligible for Singapore citizenship
 PR is the stepping stone to Singapore citizenship. Great for those with weak passports or those who want to settle in the country long term.
 
-![I wouldn't mind permanently seeing this sunset](assets/images/sgpr.jpg)
+ ![Sunset]({{ site.baseurl }}/assets/images/sgpr.jpg)
+|:--:| 
+|  *I wouldn't mind permanently seeing this sunset*  |
 
 #### What are the drawbacks of Singapore PR?
 
