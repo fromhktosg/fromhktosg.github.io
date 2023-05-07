@@ -16,7 +16,9 @@ I left Hong Kong to the States in the early 2010s for College and was lucky enou
 
 + The commute to the South Bay was a waste of time. I traveled from SF to the South Bay Mon- Thurs every week on my company’s shuttles. On average, I took the 6:50AM shuttle to arrive at 8AM and the 4:30PM shuttle to arrive at 6:00PM. As much as I killed time through napping / working / watching YouTube, spending 2.5 hours on the road every week day was not productive
 
-![Hazy days](assets/images/relocationfromsf.jpg)
+| ![Hazy days]({{ site.baseurl }}/assets/images/relocationfromsf.jpg)
+|:--:| 
+|  Hazy days  |
 
 Did I have Singapore set firmly in mind as the location to move to? No. Growing up, Singapore was just another Southeast Asian country. A 陽光海灘 (translation - sunny beach) location. Unassuming. I went there a few times as a child for vacation, and frankly speaking, I can’t remember anything about the place. So how did the shift to Singapore come about?
 
