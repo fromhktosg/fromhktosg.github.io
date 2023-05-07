@@ -2,8 +2,8 @@ title: "From HK to SG"
 email: fromhktosg@gmail.com
 timezone: UTC
 baseurl: "/affiliates-jekyll-theme"
-domain: fromhktosg.github.io
-url: https://fromhktosg.github.io
+# domain: "fromhktosg.github.io"
+# url: "https://fromhktosg.github.io"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
