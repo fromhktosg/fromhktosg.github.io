@@ -18,7 +18,7 @@ I left Hong Kong to the States in the early 2010s for College and was lucky enou
 
 | ![Hazy days]({{ site.baseurl }}/assets/images/relocationfromsf.jpg)
 |:--:| 
-|  Hazy days  |
+|  *Hazy days*  |
 
 Did I have Singapore set firmly in mind as the location to move to? No. Growing up, Singapore was just another Southeast Asian country. A 陽光海灘 (translation - sunny beach) location. Unassuming. I went there a few times as a child for vacation, and frankly speaking, I can’t remember anything about the place. So how did the shift to Singapore come about?
 
