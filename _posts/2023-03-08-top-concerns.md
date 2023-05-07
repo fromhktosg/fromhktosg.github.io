@@ -29,7 +29,7 @@ In my last post, I talked about the push and pull factors that culminated in my 
 
 | ![The Marina skyline]({{ site.baseurl }}/assets/images/top5concernsmarina.jpg)
 |:--:| 
-|  *The view from Henderson Waves whilst on a rare hike*  |
+|  *The Marina skyline*  |
 
 5. Strict laws, over-regulation and censorship
 
