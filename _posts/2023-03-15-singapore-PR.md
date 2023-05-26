@@ -29,7 +29,7 @@ There are 3 main tracks to get Singapore PR. These exclude students applying, or
     + Have made significant contributions to Singapore’s arts and cultural scene, including a strong track record of local engagements at leadership level
     + Have concrete future plans to be involved in Singapore’s arts and cultural sector’
  
- Probably not for most plebeians.
+    Probably not for most plebeians.
 
 3. Professionals/Technical Personnel and Skilled Workers Scheme (PTS)
 
