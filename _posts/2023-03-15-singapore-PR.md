@@ -23,17 +23,17 @@ There are 3 main tracks to get Singapore PR. These exclude students applying, or
 
 2. Foreign Artistic Talent scheme
 
- For those who are talented and can meet all the minimum requirements [below](https://www.nac.gov.sg/support/capability-development/leadership-career-and-artistic-development/foreign-artistic-talent-scheme-(forarts)):
- + ‘Possess relevant training/education in your field of practice
- + Possess relevant professional experience, with outstanding achievements, in the field of Performing Arts, Visual Arts, Literary Arts, Design and/or Media
- + Have made significant contributions to Singapore’s arts and cultural scene, including a strong track record of local engagements at leadership level
- + Have concrete future plans to be involved in Singapore’s arts and cultural sector’
+    For those who are talented and can meet all the minimum requirements [below](https://www.nac.gov.sg/support/capability-development/leadership-career-and-artistic-development/foreign-artistic-talent-scheme-(forarts)):
+    + ‘Possess relevant training/education in your field of practice
+    + Possess relevant professional experience, with outstanding achievements, in the field of Performing Arts, Visual Arts, Literary Arts, Design and/or Media
+    + Have made significant contributions to Singapore’s arts and cultural scene, including a strong track record of local engagements at leadership level
+    + Have concrete future plans to be involved in Singapore’s arts and cultural sector’
  
  Probably not for most plebeians.
 
 3. Professionals/Technical Personnel and Skilled Workers Scheme (PTS)
 
- This is the majority track, for those with Employment Passes (EPs) to apply for PR. I applied through this method as evidently, I did not have the money or artistic talent.
+    This is the majority track, for those with Employment Passes (EPs) to apply for PR. I applied through this method as evidently, I did not have the money or artistic talent.
 
 What’s important to note is that ‘main applicants who are granted PR status under the [Professionals/Technical Personnel and Skilled Workers Scheme or the Investor Scheme](https://www.ica.gov.sg/reside/PR/apply), are exempted from National Service’. Hurrah.
 
@@ -67,10 +67,10 @@ Two primary ones:
 
 1. PRs are subject to Re-Entry Permit ([REP](https://www.ica.gov.sg/reside/PR/apply-REP)) requirements if they wish to leave Singapore for any length of time
 
- REPs are required to re-enter Singapore. They expire every 5 years, so despite PR providing a path to stay in the country on paper, REP is what really determines whether you keep your Singapore PR. Renewal factors include whether you are paying taxes, working in Singapore etc. This ensures those with PR status are actually present in and contributing to Singapore.
+    REPs are required to re-enter Singapore. They expire every 5 years, so despite PR providing a path to stay in the country on paper, REP is what really determines whether you keep your Singapore PR. Renewal factors include whether you are paying taxes, working in Singapore etc. This ensures those with PR status are actually present in and contributing to Singapore.
 
 2. National service liability
- The true bogeyman in the room. ‘[Male applicants](https://www.ica.gov.sg/reside/PR/apply) who are granted PR status as a Foreign Student or under their parents’ sponsorship are required to register for NS upon reaching 16½ years old and will be scheduled for enlistment at the earliest opportunity upon reaching 18 years old’. Be it on a safety or best use of time standpoint, this is the main deterrent for applying to PR amongst my peer group.
+    The true bogeyman in the room. ‘[Male applicants](https://www.ica.gov.sg/reside/PR/apply) who are granted PR status as a Foreign Student or under their parents’ sponsorship are required to register for NS upon reaching 16½ years old and will be scheduled for enlistment at the earliest opportunity upon reaching 18 years old’. Be it on a safety or best use of time standpoint, this is the main deterrent for applying to PR amongst my peer group.
 
 #### What are the factors of a successful PR applicant?
 
