@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Education Showdown: Hong Kong vs. Singapore - Which System Will Come Out on Top in 2023"
+title:  "Education Showdown: Hong Kong vs. Singapore - who is on top in 2023"
 categories: [Education, Academics, Singapore]
 image: assets/images/school.jpg
 ---

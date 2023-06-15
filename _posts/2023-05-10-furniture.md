@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Top Tips for Buying Furniture in Singapore: A 2023 Guide for Expats and Locals"
+title:  "A 2023 furniture buying guide for Singapore expats and locals"
 categories: [Shopping, Furniture, Singapore]
 image: assets/images/ikea.jpg
 ---

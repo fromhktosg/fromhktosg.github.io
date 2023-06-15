@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Singapore Permanent Residency (PR) in my first attempt! Come learn the secrets"
+title:  "Singapore PR in my first attempt! Come learn the secrets"
 categories: [Relocation, Immigration, PR]
 image: assets/images/sgpr.jpg
 ---

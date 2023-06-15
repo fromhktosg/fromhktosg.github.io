@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A comprehensive guide to the best neighbourhoods to live in Singapore"
+title:  "2023 Guide to the best neighbourhoods to live in Singapore"
 categories: [Neighbourhoods, Living, Housing, Singapore]
 image: assets/images/skyline.jpg
 ---
