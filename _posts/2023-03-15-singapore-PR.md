@@ -4,7 +4,7 @@ title:  "Singapore PR in my first attempt! Come learn the secrets"
 categories: [Relocation, Immigration, PR]
 image: assets/images/sgpr.jpg
 ---
-Let’s begin with the obvious disclaimer - I’m not a lawyer. However, I did manage to become a Singapore permanent resident in just one attempt so I’ll be sharing my take on the application process and some tips and tricks I learnt along the way.
+Let’s begin with the obvious disclaimer - I’m not a lawyer. However, I did manage to become a Singapore permanent resident in just one attempt so I’ll be sharing my take on the application process and some tips and tricks I learnt along the way. Before you apply for your PR, do be aware of the benefits and drawbacks of living in Singapore - I cover some of this in my last post [here](https://fromhktosg.github.io/top-concerns/).
 
 One thing I’ll say upfront - don’t bother with immigration agencies. They’re expensive with limited upside and sell you on weird gimmicks like PR success calculators. All my friends who engaged with one regretted their decision and failed to get residency. It’s not a stat sig sample size but it’s telling. Let’s start off with the basics.
 

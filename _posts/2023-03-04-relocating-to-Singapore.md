@@ -4,6 +4,8 @@ title:  How I ended up relocating to Singapore
 categories: [Relocation, San Francisco]
 image: assets/images/relocationfromsf.jpg
 ---
+I've been in Singapore for 5 years and have been an expat who moved to the country from the US. Here's a little about my story - 
+
 I left Hong Kong to the States in the early 2010s for College and was lucky enough to find a job at a reputable tech firm post-graduation. I had an incredible time living in San Francisco - burritos in the Mission, morning walks at the Presidio, you name it. Yet, I knew staying in the US was not something I wanted to do long term. Here are the reasons why:
 
 + I was bored. Life in the Bay area was very chill, but after staying there for 5 years, I felt the desire to ‘go next’. I was eager to explore other countries and was young enough to afford it
@@ -30,7 +32,7 @@ Did I have Singapore set firmly in mind as the location to move to? No. Growing 
 
 Add these two lists of reasons together, and it was enough to pull me to Singapore. Looking back, I am extremely glad I made the decision to come over, and many other reasons have been added to the ‘Why Singapore’ list. Think taxes, safety, healthcare, travel opportunities, convenience. I’ll unpack these another day.
 
-Whilst the transition was relatively smooth, it did not come with its own set of apprehensions. Subscribe now to find out in my next post.
+Whilst the transition was relatively smooth, it did not come with its own set of apprehensions. For all those expats who moved to Singapore, what is your story? I'd love to know why you relocated, be it moving to Singapore for work or moving to Singapore for family. Subscribe now to find out in my next post.
 
 | ![Goodbye SF. My favourite spot in the City near the Presidio]({{ site.baseurl }}/assets/images/presidio.jpg)
 |:--:| 

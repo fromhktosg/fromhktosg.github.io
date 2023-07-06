@@ -4,7 +4,7 @@ title:  "3 essentials that form the stable nation of Singapore"
 categories: [Singapore, housing, food]
 image: assets/images/sdg.png
 ---
-In 1991, the Singapore government introduced five shared values](https://eresources.nlb.gov.sg/history/events/62f98f76-d54d-415d-93a1-4561c776ab97#:~:text=The%20five%20Shared%20Values%20that,5%20Racial%20and%20religious%20harmony). that helped forge a Singaporean identity. These values include 
+In 1991, the Singapore government introduced [five shared values](https://eresources.nlb.gov.sg/history/events/62f98f76-d54d-415d-93a1-4561c776ab97#:~:text=The%20five%20Shared%20Values%20that,5%20Racial%20and%20religious%20harmony). that helped forge a Singaporean identity. These values include 
 
 a) nation before community and society above self
 
@@ -32,7 +32,7 @@ All three of these show up in UN’s 2030 sustainable development goals (#s 2, 9
 |:--:| 
 |  *Source: [UNDP SDGs](https://sdgs.un.org/goals)*  |
 
-Let’s dive into each and compare how they fare versus the situation in Hong Kong. For what it’s worth, we’ll save deeper analysis for each factor another time.
+Let’s dive into each and compare how they fare versus the situation in Hong Kong. For what it’s worth, we’ll save deeper analysis for each factor another time. For what it's worth, many of these benefits are available for expats as well as locals (PRs and citizens), though with more benefits for the latter. If you're wondering what the PR process is like, check out my last post [here](https://fromhktosg.github.io/top-concerns/).
 
 #### Housing
 

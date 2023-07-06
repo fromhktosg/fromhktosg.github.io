@@ -5,7 +5,7 @@ categories: [Relocation, Singapore]
 image: assets/images/top5concerns.jpg
 ---
 
-In my last post, I talked about the push and pull factors that culminated in my move to Singapore. Whilst those reasons undeniably formed a strong case, I did have my fair share of reservations before moving over. These concerns came from various sources - government / company data, conversations with colleagues who moved over, local Singaporeans I knew, research online (cough, hardwarezone) and two earlier visits to the country in the year of the move. The reasons are as follows:
+In my last [post](https://fromhktosg.github.io/relocating-to-Singapore/), I talked about the push and pull factors that culminated in my move to Singapore. Whilst those reasons undeniably formed a strong case, I did have my fair share of reservations before moving over as an expat. These concerns came from various sources - government / company data, conversations with colleagues who moved over, local Singaporeans I knew, research online (cough, hardwarezone) and two earlier visits to the country in the year of the move. The reasons are as follows:
 
 1. A 40% salary pay cut
 
