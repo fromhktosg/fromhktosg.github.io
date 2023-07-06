@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Uncovering the formula to a stable nation - 3 essentials that form the bedrock of Singapore"
+title:  "3 essentials that form the stable nation of Singapore"
 categories: [Singapore, housing, food]
 image: assets/images/sdg.png
 ---
-In 1991, the Singapore government introduced [five shared values](https://eresources.nlb.gov.sg/history/events/62f98f76-d54d-415d-93a1-4561c776ab97#:~:text=The%20five%20Shared%20Values%20that,5%20Racial%20and%20religious%20harmony). that helped forge a Singaporean identity. These values include 
+In 1991, the Singapore government introduced five shared values](https://eresources.nlb.gov.sg/history/events/62f98f76-d54d-415d-93a1-4561c776ab97#:~:text=The%20five%20Shared%20Values%20that,5%20Racial%20and%20religious%20harmony). that helped forge a Singaporean identity. These values include 
 
 a) nation before community and society above self
 
@@ -38,7 +38,7 @@ Let’s dive into each and compare how they fare versus the situation in Hong Ko
 
 Despite ruffles in the past 5 years on rising housing prices, Singapore’s public housing system is a best-in-class example of putting a roof on top of everyone’s head. In fact, the World Bank has lauded Singapore for building the [best public housing program in the world](https://blogs.worldbank.org/sustainablecities/what-about-singapore-lessons-best-public-housing-program-world).
 
-Public housing in Singapore (also called HDBs) began as the government’s way of improving living conditions as the population grew in the [40s](https://www.jstor.org/stable/43621881). Government policies pushed for property ownership, and this ownership of property translated to social stability and eventually into an asset-owning class. TLDR, it’s an ownership into Singapore’s future and prosperity.  
+Public housing in Singapore (also called HDBs) began as the government’s way of improving living conditions as the population grew in the 40s (https://www.jstor.org/stable/43621881). Government policies pushed for property ownership, and this ownership of property translated to social stability and eventually into an asset-owning class. TLDR, it’s an ownership into Singapore’s future and prosperity.  
 
 We won’t be examining public housing minutiae (BTOs, resales, development locations), private housing or the rental market today, but I’d like to highlight the table below as it tells all between public housing in Singapore versus Hong Kong.
 
@@ -46,7 +46,7 @@ We won’t be examining public housing minutiae (BTOs, resales, development loca
 | :---        |    :----:   | :---: |
 | % of citizens with home ownership      | [90%](https://www.bloomberg.com/news/features/2022-06-27/how-much-will-singapore-rents-rise-surging-prices-put-expats-under-pressure#:~:text=Singapore%20abolished%20rent%20controls%20in,Ministry%20of%20National%20Development%20said.)       | [50%](https://www.legco.gov.hk/research-publications/english/2021rb02-socioeconomic-implications-of-home-ownership-for-hong-kong-20210301-e.pdf)     |
 | % in public housing   | [80%](https://www.statista.com/statistics/966747/population-living-in-public-housing-singapore/)     | [45%](https://www.scmp.com/news/hong-kong/society/article/2182106/why-public-housing-shortfall-will-remain-thorn-hong-kongs)      |
-| Income ceiling   | [$14K SGD / month / household](https://www.hdb.gov.sg/cs/infoweb/-/media/doc/PressReleases/corp-pr10092019annex-c.pdf) ($10.4K USD)| [$30.9K HKD / month / family of four](https://www.housingauthority.gov.hk/en/flat-application/income-and-asset-limits/index.html) ($3.9K USD)|
+| Income ceiling   | $14K SGD / month / household ($10.4K USD)| [$30.9K HKD / month / family of four](https://www.housingauthority.gov.hk/en/flat-application/income-and-asset-limits/index.html) ($3.9K USD)|
 
 90% of Singaporean citizens own homes versus 50% of Hong Kong citizens, reflecting the difference in accessibility over various housing opportunities. If we hone in on public housing, the divide grows between both countries. In fact, it showcases Singapore’s commitment to create a minimum quality of living where housing is a universal need. This becomes even more apparent when we cut into the income ceiling for new public housing, with Singapore’s ceiling being 2.6X higher than that of Hong Kong’s. Whilst HK public housing clearly focuses on the lowest income families due to limited supply, the intention and ideology behind committing to a minimum quality of living is missing, further reflected by a high gini coefficient.
 
