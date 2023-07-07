@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3 essentials that form the stable nation of Singapore"
+title:  "3 essentials that make Singapore successful"
 categories: [Singapore, housing, food]
 image: assets/images/sdg.png
 ---

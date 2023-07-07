@@ -35,6 +35,6 @@ In my last [post](https://fromhktosg.github.io/relocating-to-Singapore/), I talk
 
     Singapore has one of the strictest laws of any country. Examples include banning the sale of chewing gum, needing a license for public demonstration, LGBT censorship and prohibiting borrowing your neighbour’s wifi. Capital punishment is legal and caning is a form of corporal punishment. This is extremely unsettling as it feels like one wrong step will have you deported. There’s a lot to unpack around this topic, but after 5 years, I do think there are a lot of merits to Singapore’s strict regime, with the primary one being stability of the country.
 
-Looking back on this list, the first two worries are very valid, whilst the last three have a lot more nuance to them. Other concerns have emerged along the way (Singapore’s a bubble, everything is getting ridiculously expensive), whilst many more have been debunked.
+Looking back on this list, the first two worries are very valid, whilst the last three have a lot more nuance to them. Other concerns have emerged along the way (Singapore’s a bubble, everything is getting ridiculously expensive), whilst many more have been debunked. All that being said, moving to Singapore and living the expat life here has been amazing.
 
 In my next post, I’ll be discussing how I got my PR in my first attempt. Subscribe now so you won’t miss it. 

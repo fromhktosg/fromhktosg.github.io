@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2023 Guide to the best neighbourhoods to live in Singapore"
+title:  "2023 guide to the best Singapore neighbourhoods to live in"
 categories: [Neighbourhoods, Living, Housing, Singapore]
 image: assets/images/skyline.jpg
 ---
@@ -15,7 +15,7 @@ Singapore is a bustling city-state with a diverse range of neighborhoods, each w
 Reminder - this is largely dependent on your individual needs, preferences, and lifestyle
 1. Proximity to work or school: Saves time and money on transportation
 2. Cost of living: The closer to the city center, the more expensive it’ll be. Determine your budget and look for neighborhoods that fit within your financial means
-3. Amenities and facilities: Consider the amenities and facilities that are important to you, such as grocery stores, hawker centers, shopping malls, tennis courts and parks. Look for neighborhoods that offer easy access to the amenities and facilities that you need
+3. Amenities and facilities: Consider the amenities and facilities that are important to you, such as [grocery stores](https://fromhktosg.github.io/grocery/), hawker centers, shopping malls, tennis courts and parks. Look for neighborhoods that offer easy access to the amenities and facilities that you need
 4. Transportation options: Closer to the MRT, more expensive it is. However, it makes commuting around the city more convenient and efficient
 5. Lifestyle and culture: Consider the vibe and atmosphere of the neighborhood to determine whether it is a good fit for your lifestyle and interests
 
@@ -145,5 +145,5 @@ Cons:
 
 Overall, the heartlands of Singapore can offer a comfortable and affordable way of life, with access to all the amenities and facilities needed for daily living. It can be an ideal option for those who prioritize community, convenience, and value for money.
 
-Whether you're looking for a bustling shopping district, a laid-back expat enclave, a historic neighborhood with unique character, or a peaceful residential area surrounded by greenery, Singapore has a neighborhood that's perfect for you. By exploring the top areas in Singapore, you'll be able to find the best places to call home in this vibrant city-state. Which neighbourhood do you live in and why? Subscribe now so you won’t miss out on the next post.
+Whether you're looking for a bustling shopping district, a laid-back expat enclave, a historic neighborhood with unique character, or a peaceful residential area surrounded by greenery, Singapore has a neighborhood that's perfect for you. By exploring the top areas in Singapore, you'll be able to find the best places to call home in this vibrant city-state. Which Singapore neighborhood do you live in and why? Subscribe now so you won’t miss out on the next post.
 

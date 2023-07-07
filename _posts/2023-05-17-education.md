@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "2023 Education Showdown: Hong Kong vs. Singapore - who is on top?"
+title:  "2023 education review: Hong Kong vs. Singapore - who is on top?"
 categories: [Education, Academics, Singapore]
 image: assets/images/school.jpg
 ---
 I have vivid memories of my post-school hours in Hong Kong, where I would slug myself from schools to various tuition centers, immersing myself in a whirlwind of enrichment education. Why? I felt pressured to get ahead of the school curve and be top of the assessment syllabi. It wasn’t my parents who gave me this pressure. It was pressure put on myself.
 
-Education in both Hong Kong and Singapore is seen as a key to success and upward mobility given the emphasis on hard work and achievement. As such, their education systems have been developed to ensure that their citizens are equipped with the necessary skills to compete in the global market. However, while both countries' education systems have similarities, there are also significant differences in terms of their structure, curriculum, and teaching methods. Today, we’ll unpack the education in Singapore versus Hong Kong. We’ll save the discussions on enrichment education for another time.
+Education in both Hong Kong and Singapore is seen as a key to success and upward mobility given the emphasis on hard work and achievement. As such, their education systems have been developed to ensure that their citizens are equipped with the necessary skills to compete in the global market. However, while both countries' education systems have similarities, there are also significant differences in terms of their structure, curriculum, and teaching methods. Today, we’ll unpack the education in Singapore. We’ll save the discussions on enrichment education for another time.
 
 #### Hong Kong’s local education system
 Hong Kong's local education system is a product of the British colonial legacy. It consists of six years of primary education, three years of junior secondary education, and three years of senior secondary education. At the end of senior secondary education, students take the Hong Kong Diploma of Secondary Education (HKDSE) examination, which determines their eligibility for university admission. The HKDSE is considered one of the most competitive high school exams in the world, with students required to achieve high grades in multiple subjects to secure a place in a prestigious university.
@@ -20,7 +20,7 @@ The main similarity between Hong Kong and Singapore's education systems is the e
 #### The differences
 One of the differences is the language of instruction. In Hong Kong, Cantonese is the primary language of instruction, with English taught as a second language. However, with the increasing influence of mainland China, there has been a growing emphasis on Mandarin. In contrast, Singapore's education system is bilingual, with English and Mandarin taught as the two official languages.
 
-In terms of resources, both Hong Kong and Singapore have well-funded education systems. However, Singapore has invested heavily in educational technology, with many schools incorporating digital learning tools and platforms into their curriculum. Hong Kong, on the other hand, has faced criticism for its lack of investment in educational technology, with many schools still relying on traditional teaching methods.
+In terms of resources, both Hong Kong and Singapore have well-funded education systems. However, Singapore has invested heavily in educational technology, with many schools incorporating digital learning tools and platforms into their curriculum. Hong Kong, on the other hand, has faced criticism for its lack of investment in educational technology, with many schools still relying on traditional teaching methods. Montessori schools are also very popular in Singapore if that education system suits your child.
 
 #### Top junior colleges in Singapore that you need to know
 
