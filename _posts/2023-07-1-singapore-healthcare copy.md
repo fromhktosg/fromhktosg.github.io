@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guide to Singapore's Healthcare System: Public vs Private"
+title:  "Guide to Singapore's healthcare system: Public vs Private"
 categories: [Healthcare, hospitals, cost of living, Hong Kong, Singapore]
 image: assets/images/supportsystems.jpg
 ---

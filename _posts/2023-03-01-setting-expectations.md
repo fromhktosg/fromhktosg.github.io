@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What you can expect from my Singapore expat living blog"
+title:  "Expectations of my Singapore expat living blog"
 categories: [Intro, About]
 image: assets/images/settingexpectations.jpg
 ---

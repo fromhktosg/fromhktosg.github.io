@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Game On: Uncovering Singapore's 2023 sports scene"
+title:  "Uncovering Singapore's sports scene and facilities"
 categories: [Sports, Country club, facilities, Hong Kong, Singapore]
 image: assets/images/sports.jpg
 ---
