@@ -2,7 +2,7 @@
 layout: post
 title:  "Tuition addiction: Unpacking tuition in Singapore"
 categories: [Education, tuition, Hong Kong, Singapore, parents]
-image: assets/images/xxxs.jpg
+image: assets/images/bamboo.jpg
 ---
 
 During a casual lunch with a friend, I was taken aback when he revealed that he spends a staggering $1000 SGD per month on tuition for his 5-year-old child, highlighting the extent to which some parents prioritize academic enrichment from an early age. My friend’s kid seemed like a smart one - why drill more knowledge in her from such a young age? In an earlier post, I touched on the education system in Singapore and Hong Kong. Both countries place great emphasis on academic excellence, leading to a thriving tuition landscape in both regions. The perception of tuition being ingrained as a necessity by parents has sparked debates on its potential negative impact on children's well-being and overall education system. In today’s post, we’ll dive into the emergence of tuition, effects the industry has on parents and children and a comparison of the top tuition centers and their marketing tactics in Hong Kong and Singapore. I'd say tuition is more common with locals, but an increasing number of expats in Singapore is exploring this 
