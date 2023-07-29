@@ -2,7 +2,7 @@
 layout: post
 title:  "10 reasons to move to Singapore"
 categories: [Immigration, move, relocation, Singapore]
-image: assets/images/unused.jpg
+image: assets/images/movetosg.jpg
 ---
 
 I have been asked many times what the main reasons are for moving to Singapore. I discussed my personal reasons in an earlier post, but that was based on my pre-move conception of the country. Now, after residing here for 5 years and witnessing the experiences of expats in Singapore, as well as interacting with locals, I can confidently state that there are clear-cut reasons for choosing to move to Singapore. With that in mind, I present to you my top ten reasons for living in Singapore.
