@@ -3,7 +3,6 @@ layout: post
 title:  "Expectations of my Singapore expat living blog"
 categories: [Intro, About]
 image: assets/images/settingexpectations.jpg
-permalink: /settingexpectations
 ---
 My manager has always told me to underpromise and overdeliver. Hence, here's a list of what you can expect from my blog.
 
