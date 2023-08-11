@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title:  "My top 5 concerns before moving to Singapore"
 categories: [Relocation, Singapore]

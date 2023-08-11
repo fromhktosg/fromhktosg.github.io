@@ -5,7 +5,7 @@ permalink: "/about/"
 image: assets/images/aboutme.jpg
 ---
 
-Welcome to my blog, From HK to SG (FHK2SG), your go-to guide for expat living in Singapore.
+Welcome to my blog, From HK to SG (FHK2SG), your go-to guide for expat living in Singapore. 
 
 I was born and raised in Hong Kong and spent 18 golden years growing up there. After a short stint in the States for college and work, I moved to Singapore to pursue a new career opportunity at a big tech company and have since settled into the country for the past 5 years. 
 

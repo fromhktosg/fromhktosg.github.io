@@ -5,11 +5,13 @@ baseurl: ''
 # domain: "fromhktosg.github.io"
 # url: "https://fromhktosg.github.io"
 permalink: "/:title/"
+# permalink: /:lang/:title/
+# permalink: "/:lang/:categories/:year/:month/:day/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 30
 locale: en_sg
-lang: en_us
+# lang: en_us
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
@@ -35,3 +37,9 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-archives
+- jekyll-multiple-languages-plugin
+
+languages: ["en", "zh"]
+default_lang: "en"
+exclude_from_localizations: ["javascript", "images", "css"]
+# exclude_from_localizations: ["assets", "js", "images", "css"]

@@ -79,6 +79,10 @@
             </svg>
             </a>
 
+            <div class="language-switcher">
+              <a href="{{ site.url }}{{ page.url }}" {% if page.lang == 'en' %}class="active"{% endif %}>English</a>
+              <a href="{{ site.url }}/zh{{ page.url }}" {% if page.lang == 'zh' %}class="active"{% endif %}>中文</a>
+            </div>
           </div>
     
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
