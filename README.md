@@ -12,11 +12,11 @@ git pull origin master
 
 git add --all
 git commit -m "your changes messages"
+bundle exec jekyll build
 
 <PUBLISH YOUR UPDATED SITE>
 
 git checkout master
-bundle exec jekyll build
 ls | grep -v '^_site$' | xargs rm -r <OPTIONAL>
 cp -r _site/* .
 git add .
