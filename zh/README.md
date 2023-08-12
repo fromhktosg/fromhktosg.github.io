@@ -9,19 +9,19 @@ git pull origin source
 git pull origin master
 
 <MAKE YOUR WEBSITE CHANGES IN SOURCE>
-
 git add --all
 git commit -m "your changes messages"
+bundle exec jekyll build
 
 <PUBLISH YOUR UPDATED SITE>
 
 git checkout master
-bundle exec jekyll build
 ls | grep -v '^_site$' | xargs rm -r <OPTIONAL>
 cp -r _site/* .
 git add .
 git commit -m "Updated site version <X>"
 git push origin master
+git push origin source
 ```
 
 
