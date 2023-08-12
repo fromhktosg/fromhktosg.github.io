@@ -27,3 +27,4 @@ git add .
 git commit -m "Updated site version at $TIMESTAMP"
 git push origin master
 git push origin source
+git checkout source

@@ -4,8 +4,8 @@ timezone: UTC
 baseurl: ''
 # domain: "fromhktosg.github.io"
 # url: "https://fromhktosg.github.io"
-# permalink: "/:title/"
-permalink: /:lang/:title/
+permalink: "/:title/"
+# permalink: /:lang/:title/
 # permalink: "/:lang/:categories/:year/:month/:day/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
