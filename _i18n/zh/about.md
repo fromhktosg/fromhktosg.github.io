@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-permalink: "/zh/about/"
+title: 關於我
+permalink: "/zh/about"
 image: assets/images/aboutme.jpg
 ---
 

@@ -10,6 +10,18 @@ topmenu:
 - title: Contact
   url: "contact/"
 
+topmenu-zh:
+
+- title: 主頁
+  url: ""
+
+- title: 關於
+  url: "about/"
+
+- title: 聯繫我們
+  url: "contact-zh/"
+
+
 # Footer Menu
 footermenu:
 
