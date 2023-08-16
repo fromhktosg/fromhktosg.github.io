@@ -15,17 +15,20 @@ git commit -m "Changes made at $TIMESTAMP"
 git push origin source
 
 # echo "Building the website..."
-# bundle exec jekyll build
+# gem uninstall google-protobuf -a; BUNDLE_FORCE_RUBY_PLATFORM=true bundle install    # https://github.com/protocolbuffers/protobuf/issues/7070#issuecomment-1370248311
+bundle config set force_ruby_platform true
+bundle install
+bundle exec jekyll build
 
 # echo "Switching to master branch to publish the updated site..."
-# git checkout master
+git checkout master
 
 # # Optionally, uncomment the following line to reset if necessary
 # # ls | grep -v '^_site$' | xargs rm -r
 
-# cp -r _site/* .
-# git add .
-# git commit -m "Updated site version at $TIMESTAMP"
-# git push origin master
+cp -r _site/* .
+git add .
+git commit -m "Updated site version at $TIMESTAMP"
+git push origin master
 # git push origin source
-# git checkout source
+git checkout source

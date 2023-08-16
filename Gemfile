@@ -22,3 +22,4 @@ group :jekyll_plugins do
     gem 'tzinfo'
     gem 'jekyll-multiple-languages-plugin'
 end
+gem "webrick", "~> 1.8"
