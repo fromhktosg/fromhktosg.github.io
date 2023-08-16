@@ -12,6 +12,7 @@ echo "Switching to source branch to make changes..."
 git checkout source
 git add --all
 git commit -m "Changes made at $TIMESTAMP"
+git push origin source
 
 # echo "Building the website..."
 # bundle exec jekyll build
