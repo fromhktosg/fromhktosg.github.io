@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Singapore expat resources now in Chinese"
-categories: [expat, Chinese, move, relocation, Singapore]
-image: assets/images/chinese.jpg
+title:  "Best Singapore travel itinerary for tourists"
+categories: [expat, tourists, itinerary, Singapore]
+image: assets/images/travel.jpg
 ---
 
 Apologies for the gaps in posts - things have been hectic over the last month, and with the introduction of our Chinese language posts, I simply haven't had the time to post new content. However, we are now back!
