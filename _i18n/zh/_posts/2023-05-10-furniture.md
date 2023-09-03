@@ -1,42 +1,35 @@
 ---
 layout: post
-title:  "Furniture buying guide for Singapore expats and locals"
-categories: [Shopping, Furniture, Singapore]
+title:  "探索新加坡的家具天堂：購買指南"
+categories: [購物、家具、新加坡]
 image: assets/images/ikea.jpg
 ---
-Looking to furnish your newly bought home? From modern designer boutiques to charming vintage stores, Singapore offers a diverse range of furniture options for every taste and budget. So, whether you're looking to furnish your new apartment, redecorate your home, or simply want to indulge in some retail therapy, here's a guide to where to buy furniture.
+想要為你的新家增添一些風采嗎？新加坡提供了多種多樣的家具選擇，不論你的品味和預算如何，都能找到心儀之物。無論你是要為新公寓購買傢俱，重新裝飾你的家，還是只是想要度過一個購物愉快的日子，我們為你準備了一份購買家具的完整指南。
 
-| ![Ikea]({{ site.baseurl }}/assets/images/ikea.jpg)
-|:--:| 
-|  *Good ol' Ikea*  |
+#### 招牌家具店
+如果你追求設計感，那麼一定不能錯過時尚的Tiong Bahru社區。在這裡，你將發現一系列高端設計師家具店，提供現代和當代風格的家具設計。Grafunkt提供的流線型、極簡主義的家具完美結合了美感和實用性。而在Commune，你會找到價格實惠的、可持續材料製成的家具，給你帶來充滿時尚感的家居空間。如果你喜愛日式風格的迷人傢俱，絕對不能錯過無印良品（Muji），那裡的簡約優雅設計既時尚又實用。
+即使預算有所限制，也不必灰心。新加坡擁有多家物美價廉的傢俱商店，宜家（IKEA）就是其中之一。在宜家，你可以找到價格實惠、兼具時尚和實用性的傢俱。另一個選擇是FurnitureSG，提供各種價格實惠的傢俱選擇，非常適合裝點你的新家。
 
-#### Signature furniture stores
+#### 迷人的復古風格
+對於熱愛經典復古風格的人來說，新加坡也有眾多迷人的復古店。在Hock Siong & Co.，你會找到各種獨特的復古傢俱，以及奇特的復古裝飾和飾品。最後但同樣重要的是陳文立大廈（Tan Boon Liat Building）。這座建於1930年代的商業大樓位於新加坡Outram地區，被譽為家具展廳和室內設計業務的中心。陳文立大廈提供了從高端設計師傢俱到價格實惠選擇的多樣選項。請注意，其中一些商店需要提前預約，所以別忘了提前打個電話！
 
-If you're in the market for some designer furniture, look no further than the hip neighborhood of [Tiong Bahru](https://fromhktosg.github.io/neighbourhood/). Here, you'll find a range of stylish boutiques offering modern and contemporary furniture designs. At [Grafunkt](https://www.grafunkt.com/), you'll find sleek, minimalist pieces that blend form and function seamlessly. Meanwhile, at [Commune](https://www.thecommunelife.com/), you'll find a range of chic and affordable furniture made from sustainable materials. For a touch of Japanese charm, head over to [Muji](https://www.muji.com/sg/products/list/Furniture%20and%20Interior), where you'll find simple and elegant furniture designs that are both stylish and functional.
+不管你的品味如何，新加坡都有適合你的傢俱。無論你是追求現代風格、經典復古風格，還是價格實惠的選擇，這個城市總能滿足你的需求。不要再猶豫，開始你的購物之旅，讓你的家變得更溫馨舒適！
 
-If you're on a budget, don't despair. Singapore is also home to a range of value furniture stores. One such store is [IKEA](https://www.ikea.com/sg/en/?gclid=EAIaIQobChMIt8SC-Ly__gIVVnV9Ch1SwAhGEAAYASAAEgLBdfD_BwE&gclsrc=aw.ds), which needs no introduction. At IKEA, you'll find a range of affordable furniture pieces that are both stylish and functional. Alternatively, head over to [FurnitureSG](https://www.furnituresg.com.sg/), where you'll find a range of affordable furniture options that are perfect for furnishing your new home.
+#### 購買家具時需要注意以下事項：
++ 舒適無比: 測試椅子、沙發和床墊，確保它們的舒適度和支撐性都足夠。你的傢俱應該是一個讓你放鬆的地方，而不是令你感到不舒適的。
++ 尺寸和比例: 在選購傢俱時，一定要考慮它們的尺寸和比例是否適合你的房間。一件傢俱在展示室中可能看起來很棒，但在小客廳中可能會顯得笨重。確保你的傢俱尺寸合適，與房間中的其他元素協調一致。
++ 功能至上: 考慮傢俱的實際用途是否符合你的需求。如果你有孩子或寵物，選擇容易清潔和耐用的傢俱可能會更明智。如果你在家工作，一張提供長時間坐著所需支撐的辦公椅可能是必不可少的。
++ 價格與品質的平衡: 當然，價格永遠是一個重要因素，但請謹慎平衡價格和品質。儘管你可能認為選擇便宜的傢俱是一個不錯的主意，但如果需要經常更換，長遠來看可能會花更多錢。考慮投資高質量、耐用的傢俱，這樣它們能夠陪伴你更長時間。
++ 送貨和組裝: 別忘了考慮傢俱的送貨和組裝問題。確保商店提供送貨和組裝服務，並將這些成本納入你的預算中，以確保你的新傢俱能夠順利抵達家中。
++ 風格的匹配: 最後但同樣重要的是，確保你的傢俱風格相互匹配。如果需要，你可以尋求室內設計師的建議，來幫助你選擇合適的傢俱，以營造出一個和諧統一的家居風格。
 
-For those who prefer a more vintage aesthetic, Singapore also has a range of charming vintage stores. At [Hock Siong & Co.](https://www.hocksiong.com.sg/), you'll find a range of unique vintage furniture pieces, as well as quirky vintage decor and accessories. Last but not least, the [Tan Boon Liat building](http://www.tanboonliat.com/). The Tan Boon Liat Building is a commercial building located in the Outram area of Singapore. It is known as a hub for furniture showrooms and interior design businesses. The building has a rich history, having been built in the 1930s and originally serving as a warehouse for Chinese goods. In recent years, it has become a popular destination for those looking to shop for furniture, with a wide range of options available from high-end designer pieces to more affordable selections. Some of these stores require reservations ahead of time so remember to call in advance!
+無論你的需求是什麼，這些建議都能幫助你挑選出完美的傢俱，讓你的家變得更加溫馨和舒適。不要再猶豫，開始你的購物之旅，為你的空間增添獨特風采！
 
-If you’re ok with second hand, Carousel is the way to go, though make sure your seller is an honest fella.
+以下是我最愛購買家具的地方：
++ Castlery - 現代簡約風格. 如果你喜歡簡約而現代的家具風格，Castlery絕對是一個不容錯過的選擇。他們的設計總是簡單優雅，完美融入現代生活空間。
++ Crate and Barrel - 品質中高價位的優質家具. Crate and Barrel以提供高品質家具而聞名，雖然價位中高，但你會找到物有所值的家居寶物。這是打造高質感家居的好去處。
++ Harvey Norman - 驚喜之地. Harvey Norman不僅是電子產品的天堂，也是發現驚喜家具的好地方。他們提供多樣的選擇，並經常推出大量購買折扣，讓你的家居變得更加美好。
++ Ikea - 家具店的經典. Ikea，這個經典的家具店，誰都不能忽視。它以實惠的價格和瑞典肉丸聞名，是許多人購買家具的首選之地。
 
-#### What to watch out for when buying furniture
+你最喜歡的家具店是哪些？在下方留言告訴我。別忘了點讚並訂閱，以繼續關注我有關新加坡生活的更多精彩內容。無論你是在裝飾新家還是為現有家居增添風采，這些建議都能幫助你找到理想的傢俱。開始你的家居裝飾之旅吧！
 
-+ Quality - Make sure that the furniture you are purchasing is made of high-quality materials and is built to last. Look for solid wood construction (especially for wardrobes), sturdy joints, and high-quality finishes.
-+ Comfort - Test out chairs, sofas, sofa beds, and mattresses to make sure that they are comfortable and provide adequate support.
-+ Size and Scale - When buying furniture, it's important to consider the size and scale of the piece in relation to the room it will be placed in. A large, bulky sofa may look great in a showroom, but it may overwhelm a small living room. Make sure that the furniture you are purchasing fits the space and complements the other pieces in the room.
-+ Functionality - Consider how the furniture will be used and whether it is functional for your needs. For example, if you have children or pets, you may want to opt for furniture that is easy to clean and durable. If you work from home, you may need a desk or office chair that provides adequate support for long periods of sitting.
-+ Price - Price is always a consideration when making a purchase, but it's important to balance price with quality. While you may be tempted to opt for cheaper furniture, it may end up costing you more in the long run if it needs to be replaced frequently. Consider investing in higher-quality pieces that will last for years to come.
-+ Delivery and Assembly - Finally, consider the logistics of getting the furniture to your home. Make sure that the store offers delivery and assembly services and factor these costs into your budget
-+ Vibe - Make sure your furniture pieces complement each other. Getting an ID can always help with this
-
-#### My favourite places to buy furniture
-
-My furniture combination arises from these stores. Most if not all of these do delivery and assembly so no need to fret if you cannot wield a screwdriver.
-
-+ Castlery - simple and modern 
-+ Crate and barrel - quality furniture at mid to aspirational price points (now closed in Apr 2023)
-+ Harvey Norman - surprising discovery given its usually associated with electronic products. Harvey Norman does provide a solid selection of furniture and often throws in bulk purchasing discounts
-+ Ikea - good ol’ Ikea. The mecca of furniture stores. No one can deny their affordability and tasty swedish meatballs
-
-What are your favourite furniture places? Let me know in the comments below on where you bought your new coffee table, dining table or cabinets. Like and subscribe to follow me on more essentials of Singapore content.
