@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Unlocking Opportunities: job searching guide in Singapore"
-categories: [food, dining, McDonalds, Singapore]
+categories: [employment, job searching, opportunities, Singapore]
 image: assets/images/Mcd.jpg
 ---
 In the current economic climate, job searching can be quite challenging. Both the tech and banking sectors are experiencing layoffs, and start-ups are not as actively hiring, leading to an abundance of talent in the market competing for a limited number of job openings. Singapore's job search landscape is in this sticky state. However if we looked a couple years back, Singapore attracted a plethora of international talent given its robust economy, diverse industries, and business-friendly atmosphere. In our guide today, we'll take a deep dive into the key industries, top companies, sought-after roles, and vital employment regulations you must navigate while pursuing your career aspirations in Singapore. I'll also share some insights from my own job hunt experience here, along with strategies you can employ to carve your path to success.
