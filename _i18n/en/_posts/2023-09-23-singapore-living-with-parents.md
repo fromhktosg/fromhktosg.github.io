@@ -1,50 +1,93 @@
 ---
 layout: post
-title:  "Unlocking Opportunities: job searching guide in Singapore"
-categories: [employment, job searching, opportunities, Singapore]
-image: assets/images/jobsearch.jpg
+title:  "Why do Singaporean adults still live with their parents?"
+categories: [living, housing, parents, Singapore]
+image: assets/images/apartment.jpg
 ---
-In the current economic climate, job searching can be quite challenging. Both the tech and banking sectors are experiencing layoffs, and start-ups are not as actively hiring, leading to an abundance of talent in the market competing for a limited number of job openings. Singapore's job search landscape is in this sticky state. However if we looked a couple years back, Singapore attracted a plethora of international talent given its robust economy, diverse industries, and business-friendly atmosphere. In our guide today, we'll take a deep dive into the key industries, top companies, sought-after roles, and vital employment regulations you must navigate while pursuing your career aspirations in Singapore. I'll also share some insights from my own job hunt experience here, along with strategies you can employ to carve your path to success.
+I left my parents' home at the age of 18 when I moved to the States for college. Interestingly, most of my peers in Hong Kong, as well as my friends in Singapore, continue to live in their family homes if they remained in the same country post college graduation. Even in the case of marriage, a significant percentage of them choose to reside with their families unless they have accumulated enough resources to afford their own place. This trend is notably common in these two Asian countries, in contrast to the United States. Today, we'll delve into the phenomenon of adults living with their parents and explore its advantages and disadvantages. 
 
-#### The appeal of Singapore: Why work here?
-+ Economic prosperity and business friendliness: Singapore's unwavering economic stability and flourishing industries make it a magnet for businesses. The city-state's pro-business policies, minimal taxes, and robust infrastructure create an ideal environment for local and international enterprises alike.
-+ Strategic geographic hub: Nestled at the crossroads of Asia, Singapore acts as a pivotal gateway to the entire region. Its strategic location facilitates seamless trade and business opportunities with neighboring nations
-+ Global financial powerhouse: Singapore shines as a global epicenter of financial services. Hosting a plethora of international banks, investment firms, family offices, and financial institutions, it presents unparalleled prospects in finance, banking, and wealth management
-+ English as a universal language: The widespread use and understanding of English in Singapore foster an environment where expatriates and professionals easily communicate and assimilate into both local society and the workplace
-+ A universe of career possibilities: Singapore's dynamic economy offers an extensive array of job prospects spanning diverse industries, from finance and technology to healthcare and hospitality. More on this later
-+ Exposure to talent from around the world: Singapore provides professionals with the opportunity to build global networks and collaborate with kindred spirits
-+ Conducive business environment: Singapore's streamlined bureaucracy, efficient legal framework, and straightforward business procedures contribute to a fertile ground for establishing and nurturing enterprises
+#### Why do Singaporeans live with their parents?
 
-#### What are the top industries in Singapore?
+An estimated 97% of unmarried individuals between the ages of 15 and 34 lived with their parents in 2013. Whilst this number is from ten years ago, it’s still unfathomable for me to comprehend why someone would loiter at home for such a lengthy time frame. It's a fascinating aspect of Singapore culture that often raises eyebrows among our international friends. Let's unpack the reasons behind this unique lifestyle choice.
 
-Singapore's economy thrives on a diverse range of industries, offering a wide array of career options. Some of the top industries that contribute significantly to the country's GDP and job market include:
++ Cost of living
+Let's not sugarcoat it; living in Singapore can burn a hole in your pocket. With sky-high property prices and rent that can make your eyes water, it's no wonder that many young adults opt to bunk with mum and dad. This financial strategy lets us save our hard-earned cash for other life goals, like furthering our education, kick-starting our careers, or exploring the world. This is the reason I hear the most from my local friends. It makes sense but also strips away from an independent lifestyle that can be priceless. We’ll touch on this later on.
 
-1.  Finance: With its reputation as a global financial hub, Singapore is home to numerous multinational banks, asset management firms, and insurance companies. Opportunities in finance, accounting, risk management, and compliance abound in this sector. Singapore's local banks, such as DBS Bank, OCBC Bank, and United Overseas Bank (UOB), offer diverse career paths. International banks like Citibank, Standard Chartered, and J.P. Morgan have established a strong presence in Singapore. I’d say Finance is still stronger in HK and Shanghai versus Singapore, but the gap is closing
++ Filial piety and family values
+Now, here's where it gets heartwarming. Rooted in Confucian values, it's all about respecting and caring for our parents, especially as they grow older. Living under the same roof is seen as a tangible way to show love and respect. It's like a warm, perpetual family hug that keeps family bonds strong. However, I see staying at home as a poor reason for filial piety, especially amongst the younger generation. You can still be taking care of your parents without living with them.
 
-2. Tech: Singapore places a strong emphasis on digital transformation, making its IT sector a dynamic and rapidly growing industry. Job opportunities exist in software development, cybersecurity, data analytics, and artificial intelligence. Global tech giants like Google, Microsoft, and Facebook have set up regional headquarters in Singapore, attracting talent from around the world. Additionally, local tech companies like Grab and Sea Limited have gained prominence, although they are evidently struggling at the moment
++ A built-in support system
+Who doesn't love a solid support system? Living with family means you've got a tribe to rely on—be it for sage advice, a hand with chores, or simply some good old-fashioned company. In fact, many of us owe our sanity to this network of support. Grandparents often join in on the fun, pitching in with childcare duties and adding extra layers of love to the mix.
 
-3. Bio-med / pharma: Singapore has established itself as a prominent player in the biomedical field. It houses renowned research institutes, pharmaceutical companies, and biotech firms. Job prospects in biomedical research, clinical trials, medical device manufacturing, and pharmaceutical sales are aplenty. Renowned pharmaceutical companies like GlaxoSmithKline (GSK), Novartis, and Pfizer have a significant presence in Singapore. Local healthcare institutions such as Singapore General Hospital (SGH) and National University Hospital (NUH) offer rewarding careers in the healthcare sector too and has decent compensation
++ Practicality and convenience
+Living at home is the epitome of convenience. No more worries about grocery shopping, cooking, or laundry—parents often take the reins. This means more time and energy to dedicate to careers and personal growth. Plus, parents are usually more than happy to lend a helping hand—whether it's whipping up breakfast or offering a ride to work. I hate this reason personally given it just sounds like freeloading.
 
-4. Engineering and Manufacturing: Singapore boasts a strong manufacturing base, encompassing precision engineering, electronics, aerospace, and chemical industries. Job seekers with engineering expertise are in demand, especially in areas such as semiconductor manufacturing, industrial automation, and renewable energy. Companies like Singapore Technologies Engineering (ST Engineering), Flex, and Micron Technology contribute significantly to Singapore's thriving manufacturing sector.
++ Lack of pressure to move out
+Unlike in some Western cultures, where moving out is the badge of adulthood, Singaporeans face zero societal pressure to vacate the family nest. In fact, it's perfectly normal, widely accepted, and definitely no reason to raise an eyebrow. This is something that is changing in Singapore’s societal fabric, and something I want all Singaporeans to challenge.
 
-5. Hospitality and Tourism: As a popular tourist destination, Singapore offers a vibrant hospitality sector with numerous opportunities in hotels, restaurants, and attractions. Well-known hospitality brands such as Marina Bay Sands, Resorts World Sentosa, and Shangri-La Hotels and Resorts provide diverse job opportunities in the hospitality and tourism industry
+And there you have it, folks! Living with parents in Singapore is about more than just saving a few bucks; it's a reflection of our rich cultural values of filial piety, strong family bonds, and unwavering support. Whether it's for financial stability, emotional connection, or the sheer joy of sharing life's moments with loved ones, bunking with Mom and Dad is a lifestyle choice that's here to stay. 
 
-6. Venture Capital: Singapore has become a prominent hub for venture capital, attracting investments and fostering the growth of startups. VC firms offer opportunities in investment analysis, deal sourcing, and portfolio management. Peak XV (ex- Sequoia Capital), Golden Gate Ventures, Vertex Ventures, and Monk's Hill Ventures are among the top venture capital firms with a presence in Singapore
+#### What’s the deal with multi-generational living?
 
-7. Crypto / Blockchain: As cryptocurrencies gain mainstream acceptance, Singapore has positioned itself as a cryptocurrency and blockchain hub. Roles in this sector include blockchain developers, cryptocurrency analysts, and compliance specialists. Companies like Binance, CoinGecko, Huobi, and Zilliqa have established themselves as key players in Singapore's cryptocurrency and blockchain ecosystem. Too bad this industry is in shits right now
+In many Singaporean families, it's common for several generations to reside under one roof, even when parents are old and have children of their own. In fact, the number of resident households increased from 1,145,900 households in 2010 to 1,372,600 households in 2020. Not to go too much into this topic, but root causes of filial piety, economic considerations and practical benefits contribute to such phenomenon.
 
-#### What roles are in top demand?
+#### The flip side and the challenges that come with staying at home
 
-To excel in your job search, it is essential to understand the roles that are currently in high demand in Singapore's competitive job market. Some of the top roles sought after by employers include:
-+ Technology and digital transformation: Software engineers, data scientists, cybersecurity specialists, and UX/UI designers are highly sought after in Singapore's tech-driven economy. Trust me - you want to be in tech given it's the industry with the highest bang for your buck
-+ Finance and accounting: Finance professionals with expertise in risk management, financial analysis and regulatory compliance
-+ Healthcare and bio-med: Medical professionals, research scientists, and pharmaceutical sales representatives
-+ Engineering: Skilled engineers specializing in fields such as electrical, mechanical, and civil engineering
-+ Sales and Marketing: With Singapore's focus on international trade and business development, professionals with sales and marketing expertise are highly sought after to drive growth and expansion.
+Between 1990 and 2020 the number of those under 35 who lived alone or with non-family members grew from 33,400 to 51,300 (The economist). Additionally, local real estate portal PropertyGuru showed seven in 10 respondents between the ages of 22 and 39 were considering moving out. This shows the growing trend of Singaporeans leaving home. Let’s unpack the reasons why.
 
-#### What's the state of the job market right now?
++ Space Squeeze
+Singapore is a tiny red dot on the map, and boy, my friends feel it when they’re all cozying up in the same apartment. With property prices soaring higher than our aspirations, limited living space can be a real buzzkill. Forget personal space; it's more like "Can I please have any space?"
 
-I echoed this in the introduction, but times are tough for the unemployed, as evident from a recent Strait Times report stating that Singapore's labor demand is cooling due to economic uncertainty and global headwinds. This trend is prevalent worldwide. Singapore's rising cost of living and the increasing challenge of obtaining an employment pass sponsorship could lead to a short-term decline in foreign talent. However, I anticipate a robust and opportunistic Singapore job market in the long term. Share your experiences with the Singapore job search market in the comments or via email.
++ Independence
+Living with your parents well into adulthood can make it tough to carve out your own identity. While other twenty- and thirty-somethings around the world are out there solo-traveling, building their empires, or even just decorating their own pads, we might feel like we're in a bit of a holding pattern. I feel maximum 25 years old is the age where one should move out. This way, it feels like you can structure life to your own accord.
 
-Thank you for reading my article - subscribe for more content like this.
++ Dating dilemmas
+Let's talk about the elephant in the room: dating. In a city where the dating game is already challenging, explaining that you live with Mom and Dad can add an extra layer of complexity. It's like a rite of passage—eventually, we all hope to have a place to call our own for those romantic rendezvous. We covered dating in a previous article - it’s much better to have your own abode.
 
++ Parental power
+Ah, the classic "When are you getting married?" and "Why aren't you home yet?" questions that can drive us up the wall. Living under the same roof might mean dealing with a bit more parental pester power than you'd like. They mean well, but sometimes, you just need your own space to breathe. Leaving home equates to being in control of your own life. No monetary ties, no decisions influenced by parents if you don’t want their opinions.
+
++ The boomerang effect
+It's all fun and games until you decide it's time to spread your wings and fly. But what if you've been under your parents' roof for so long that you've forgotten how to adult on your own? The boomerang effect—a return to the nest after an attempt at independence—can be a humbling experience, to say the least. Leaving your parent’s roof doesn’t mean you won’t come back or won’t take care of them either.
+
+#### Additional pull factors of leaving home
+
++ Increasing number of co-living spaces
+Co-living spaces have gained popularity worldwide, offering an affordable, community-oriented housing solution. Singapore could promote the development of such spaces designed for young adults. These environments foster independence while providing essential amenities and a built-in support system. Think Hmlet in Singapore.
+
++ Career opportunities beyond Singapore
+Sometimes, the best way to encourage independence is to expand horizons. Singaporean companies and the government can promote overseas work opportunities, internships, or exchange programs. These experiences not only help young adults gain independence but also broaden their perspectives. Singapore is a huge bubble, hence I always encourage locals here to go abroad if their means can afford it.
+
++ Changing mindsets
+There is a shifting societal norm and a growing emphasis on independence, which will lead to a healthier peer pressure to move out of one's parental home.
+
+Living with your parents as an adult in Singapore can be a double-edged sword. While it offers financial stability, emotional closeness, and an unwavering support system, it also comes with space constraints, identity challenges, and a few extra dating hurdles. But hey, there's no one-size-fits-all answer here. Whether you're nesting with Mom and Dad or spreading your wings into the unknown, the important thing is finding what works for you.
+
+#### Where is the new generation moving to?
+
+Young married Singaporeans often seek neighborhoods that provide a balance between convenience, affordability, and a family-friendly environment. Here are some popular neighborhoods where you can find young married couples in Singapore:
+
+1. Bishan
+Bishan is a mature and well-established residential area in central Singapore. It offers excellent connectivity with the North-South Line and Circle Line MRT stations. The neighborhood has numerous parks, good schools, and a range of amenities, making it attractive to young families.
+2. Punggol
+Punggol, a waterfront town in the northeastern part of Singapore, has seen rapid development in recent years. It offers a tranquil living environment with scenic waterfront views. Young couples are drawn to Punggol for its affordability and the promise of a growing community.
+3. Sengkang
+Sengkang, located adjacent to Punggol, is another family-friendly neighborhood. It features spacious public housing (HDB) flats and various recreational amenities like parks, sports complexes, and malls. The LRT and MRT lines connect Sengkang to other parts of the island.
+4. Woodlands
+Woodlands, situated in the northern region of Singapore, has become increasingly popular among young couples due to its affordability and improving amenities. The upcoming Woodlands Regional Center promises to bring more job opportunities and recreational options to the area.
+5. Tampines
+Tampines is one of Singapore's largest residential towns, known for its well-planned HDB estates. It offers a wide range of amenities, including shopping malls, parks, and schools. The convenient access to public transport and major expressways makes it an attractive choice for young families.
+6. Jurong West
+Jurong West, located in the western part of Singapore, is known for its affordability and proximity to Jurong Lake District, a rapidly developing commercial and leisure hub. It's an ideal choice for couples looking for a mix of urban and suburban living.
+7. Bedok
+Bedok, in the eastern part of Singapore, offers a coastal living experience. The neighborhood has a strong sense of community and boasts numerous dining options, parks, and schools. It is well-connected via the East-West Line.
+8. Bukit Panjang
+Bukit Panjang is situated in the northwestern part of Singapore and is known for its lush greenery and proximity to nature reserves. Young couples looking for a more tranquil setting may find this neighborhood appealing.
+9. Clementi
+Clementi, located in the western part of the island, is a mature estate with good schools and accessibility. It's a popular choice for young families due to its well-rounded amenities.
+10. Hougang
+Hougang, in the northeastern region, is known for its affordability and numerous parks. The upcoming Cross Island Line will further enhance its connectivity.
+
+These neighborhoods offer various housing options, amenities, and a sense of community, making them attractive choices for young married couples in Singapore. The ideal choice depends on factors like budget, lifestyle preferences, and proximity to workplaces and family. As you can see, none of these locations are central or sexy. But hey, they’re practical and works for young families.
+
+Have you considered moving out or already moved out? Let me know. Don’t forget to subscribe to see more content like this.
