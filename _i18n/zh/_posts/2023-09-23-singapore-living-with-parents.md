@@ -1,93 +1,50 @@
 ---
 layout: post
-title:  "Why do Singaporean adults still live with their parents?"
-categories: [living, housing, parents, Singapore]
+title:  "新加坡的成年人為什麼還和父母同住?"
+categories: [生活，住房，父母，新加坡]
 image: assets/images/apartment.jpg
 ---
-I left my parents' home at the age of 18 when I moved to the States for college. Interestingly, most of my peers in Hong Kong, as well as my friends in Singapore, continue to live in their family homes if they remained in the same country post college graduation. Even in the case of marriage, a significant percentage of them choose to reside with their families unless they have accumulated enough resources to afford their own place. This trend is notably common in these two Asian countries, in contrast to the United States. Today, we'll delve into the phenomenon of adults living with their parents and explore its advantages and disadvantages. 
+我18歲時我離開了父母的家，搬到美國讀大學。從那時起，我就沒有和我的父母住在一起了。有趣的是，我發現在香港和新加坡的多數同齡朋友大學畢業後還繼續住在自己父母的家。甚至結了婚的情況下，有相當一部分人選擇和家人住在一起，除非他們已經存夠錢買自己的地方。這種趨勢在這兩個亞洲國家非常普遍，跟美國相比截然不同。今天，我們要深入討論為什麼大人和爸媽同住這件事，並探討它的優缺點。
 
-#### Why do Singaporeans live with their parents?
+#### 新加坡人為何選擇和父母同住？
+在2013年，有約97％的15-34歲未婚仍跟爸媽住在一起。儘管這個數字是十年前的，但我還是難以理解為什麼有人會這麼長時間待在家裡。這是新加坡文化中一個引人注目的現象，在國際朋友中常引發好奇。我們來看看背後的原因。
 
-An estimated 97% of unmarried individuals between the ages of 15 and 34 lived with their parents in 2013. Whilst this number is from ten years ago, it’s still unfathomable for me to comprehend why someone would loiter at home for such a lengthy time frame. It's a fascinating aspect of Singapore culture that often raises eyebrows among our international friends. Let's unpack the reasons behind this unique lifestyle choice.
++ 生活成本: 坦白說，生活在新加坡可能會讓你的錢包大出血。高昂的房價和令人痛苦的租金都是讓許多年輕人選擇繼續跟爸媽住的主要原因。這樣的理財策略可以讓我們把辛苦賺來的錢拿來實現其他生活目標，比如升學深造、開展職業生涯，或者探索世界。這固然有道理，但也會剝奪掉自立生活的樂趣 - 這種經驗是無價的。
++ 孝道和家庭價值觀: 尊重和照顧我們的父母是儒家價值觀的理念。跟爸媽住在一個屋簷下被看作是一種切實的方式來表達愛和尊敬，可以讓家庭關係變得更加緊密。然而，對於年輕一代來說，我覺得住在家裡不應該成為履行孝道的唯一方式。你可以在不跟爸媽住的情況下好好照顧他們。
++ 穩固的支持系統: 誰不喜歡一個穩固的支持系統呢？和家人住在一起意味著你有一個可靠的團隊，不論是尋求智慧建議，幫忙做家務，還是純粹享受老式的陪伴。事實上，我們很多人都要感謝這個支持網絡，讓我們保持理智。祖父母通常也會加入這種樂趣，協助照顧孩子，為生活增添更多的愛。
++ 實用性和方便性: 在家裡生活就是方便的極致體驗。不用再擔心購物、烹飪或洗衣服的事情，因為通常都是父母來操刀。這意味著有更多的時間和精力投入事業和個人成長。此外，父母通常樂意伸出援手，無論是做早餐還是提供車載送你上班。個人而言，我不太喜歡這個理由，因為它聽起來像是在白吃白喝。
++ 沒有搬出去的壓力: 不像一些西方文化中(搬出去是成年的象徵)，新加坡人不會受到社會壓力離開家庭巢穴。事實上，跟爸媽住在一起已被廣泛接受，絕對不值得大驚小怪。這是新加坡社會結構中正在發生變化的事情，也是我希望所有新加坡人挑戰的事情。
 
-+ Cost of living
-Let's not sugarcoat it; living in Singapore can burn a hole in your pocket. With sky-high property prices and rent that can make your eyes water, it's no wonder that many young adults opt to bunk with mum and dad. This financial strategy lets us save our hard-earned cash for other life goals, like furthering our education, kick-starting our careers, or exploring the world. This is the reason I hear the most from my local friends. It makes sense but also strips away from an independent lifestyle that can be priceless. We’ll touch on this later on.
+#### 多代同堂，這是怎麼一回事？
+在許多新加坡家庭中，多代同堂是很常見的，即使父母年事已高，有自己的孩子也是如此。事實上，自2010年以來，居住的家庭數量從114萬5900個家庭增加到2020年的137萬2600個家庭。不過，我們今天不深入討論這主題。
 
-+ Filial piety and family values
-Now, here's where it gets heartwarming. Rooted in Confucian values, it's all about respecting and caring for our parents, especially as they grow older. Living under the same roof is seen as a tangible way to show love and respect. It's like a warm, perpetual family hug that keeps family bonds strong. However, I see staying at home as a poor reason for filial piety, especially amongst the younger generation. You can still be taking care of your parents without living with them.
+#### 住在家裡的另一面和隨之而來的挑戰
+在1990年到2020年間，與非家庭成員或單獨居住的35歲以下人口數量從33,400增加到51,300（經濟學人）。此外，當地的房地產網站PropertyGuru顯示，年齡在22歲到39歲之間的受訪者中，有七成在考慮搬出去。這表明了新加坡人離家的趨勢。讓我們分析一下原因。
 
-+ A built-in support system
-Who doesn't love a solid support system? Living with family means you've got a tribe to rely on—be it for sage advice, a hand with chores, or simply some good old-fashioned company. In fact, many of us owe our sanity to this network of support. Grandparents often join in on the fun, pitching in with childcare duties and adding extra layers of love to the mix.
++ 空間壓力: 新加坡在地圖上只是一個微小的紅點，我的朋友們在同一個公寓中感受到這種擁擠。隨著物業價格飆升超過我們的期望，有限的居住空間會更讓人感到困擾。
++ 獨立性: 仍與父母同住會讓人難以找到自己的身份。當世界各地的二十多歲和三十多歲的人們正在獨自旅行、建立自己的事業，甚至只是佈置自己的住所時，我們可能會感到自己處於一種等待的狀態。我覺得最多應該在25歲時搬出去。這樣，感覺就像你可以按照自己的意願來規劃生活。
++ 約會困擾: 讓我們談談房間裡的大-沒有自己私隱麼樣去約砲?在一個約會本來就具有挑戰性的城市，你與爸媽同住會增加額外的複雜性。就像是一種成年儀式-最終，我們都希望有一個自己的地方來進行浪漫的約會。我們在之前的文章中談到了在[新加坡尋找愛情](https://fromhktosg.github.io/zh/Dating-singapore/)-擁有自己的住所會好得多。
++ 父母的權威:啊，經典的“你什麼時候結婚？”和“為什麼還沒回家？”的問題總是能讓我們不耐煩。和父母住在一起意味著你必須忍受更多父母的煩擾。他們的初衷是好的，但有時候，你只是需要自己的空間來呼吸。離家就等於掌握自己的生活。沒有金錢約束，如果你不想要他們的意見，就不會受到父母的影響。
++ 回巢效應: 如果在父母身邊待了太長時間，以至於忘記了如何獨立生活是一種令人謙卑的經歷。離開父母的屋簷不代表你不會回來，也不代表你不會照顧他們。
 
-+ Practicality and convenience
-Living at home is the epitome of convenience. No more worries about grocery shopping, cooking, or laundry—parents often take the reins. This means more time and energy to dedicate to careers and personal growth. Plus, parents are usually more than happy to lend a helping hand—whether it's whipping up breakfast or offering a ride to work. I hate this reason personally given it just sounds like freeloading.
+#### 離家的其他吸引因素
++ 共同居住空間不斷增加: 共同居住空間在全球范圍內越來越受歡迎，提供了一種負擔得起的以社區為導向的住房解決方案。新加坡可以促進為年輕人設計的這種空間的發展。這些環境促進了獨立，同時提供了基本設施和一個內置的支持系統。新加坡的Hmlet是一個好的例子。
++ 新加坡之外的職業機會: 鼓勵獨立的最佳方法是擴大視野。新加坡的公司和政府可以促進海外工作機會、實習或交換計劃。這些經歷不僅有助於年輕人獲得獨立，還擴大了他們的視野。新加坡是一個巨大的泡泡，所以我總是鼓勵這裡的本地人如果經濟許可的話去國外看看。
++ 改變心態: 社會規範正在轉變，越來越強調獨立，也會逐漸導致更健康的同輩壓力，讓人們離開父母的家。
 
-+ Lack of pressure to move out
-Unlike in some Western cultures, where moving out is the badge of adulthood, Singaporeans face zero societal pressure to vacate the family nest. In fact, it's perfectly normal, widely accepted, and definitely no reason to raise an eyebrow. This is something that is changing in Singapore’s societal fabric, and something I want all Singaporeans to challenge.
+作為新加坡的成年人與父母同住可能是一把雙刃劍。雖然它提供了經濟穩定、情感親近和堅定的支持系統，但也伴隨著空間限制、身份挑戰和一些額外的約會障礙。但嘿，這裡沒有一種適合所有人的答案。無論你是和媽媽爸爸住在一起還是展翅高飛到未知的地方，重要的是找到適合自己的方式。
 
-And there you have it, folks! Living with parents in Singapore is about more than just saving a few bucks; it's a reflection of our rich cultural values of filial piety, strong family bonds, and unwavering support. Whether it's for financial stability, emotional connection, or the sheer joy of sharing life's moments with loved ones, bunking with Mom and Dad is a lifestyle choice that's here to stay. 
+#### 新一代都搬去哪兒了?
+年輕的新加坡夫婦通常尋求方便、負擔得起和適合家庭的社區。以下是一些在新加坡找到年輕夫婦的熱門社區：
++ 碧山: 碧山與北南線和環線地鐵站有優越的連接性，擁有眾多公園、優質學校和各種便利設施，對年輕家庭非常有吸引力。
++ 榜鵝: 榜鵝是新加坡東北部的一個臨水城鎮，在近年來經歷了快速發展。它提供了寧靜的生活環境和風景如畫的水景。年輕夫婦之所以喜歡榜鵝，是因為它的負擔得起和社區不斷壯大的前景。
++ 盛港: 盛港位於榜鵝旁邊，是另一個適合家庭的社區。它擁有寬敞的公共住宅（HDB）單位，以及各種休閒設施，如公園、運動場館和商場。輕軌和地鐵線路將盛港與島上其他地區連接起來。
++ 兀蘭: 兀蘭位於新加坡北部地區，由於其負擔得起的價格和不斷改善的設施，越來越受年輕夫婦的喜愛。即將到來的兀蘭區域中心承諾將為該地區帶來更多的工作機會和休閒選擇。
++ 淡濱尼: 淡濱尼是新加坡最大的住宅區之一，以其精心規劃的HDB住宅區而聞名。它提供了各種便利設施，包括購物中心、公園和學校。便捷的公共交通和主要高速公路進出口使其對年輕家庭非常有吸引力。
++ 裕廊西: 裕廊西位於新加坡西部，以其負擔得起的價格和靠近裕廊湖區的便利性而聞名。對於那些希望融合城市和郊區生活的夫婦來說，這是一個理想的選擇。
++ 勿洛: 勿洛位於新加坡東部，提供了一種沿海生活體驗。這個社區擁有濃厚的社區感，並擁有眾多的餐飲選擇、公園和學校。它通過東西線與其他地區連接得很好。
++ 武吉班讓: 武吉班讓位於新加坡的西北部，以其郁郁蔥蔥的綠地和接近自然保護區而聞名。年輕夫婦如果正在尋找更加寧靜的環境，可能會喜歡這個社區。
++ 金文泰: 金文泰位於島嶼的西部，是一個成熟的地區，擁有優質的學校和便捷的交通。由於設施齊全，它對年輕家庭來說是一個熱門選擇。
++ 后港: 后港位於東北部地區，以其負擔得起的價格和眾多的公園而聞名。即將到來的跨島線將進一步提高其連通性。 
 
-#### What’s the deal with multi-generational living?
-
-In many Singaporean families, it's common for several generations to reside under one roof, even when parents are old and have children of their own. In fact, the number of resident households increased from 1,145,900 households in 2010 to 1,372,600 households in 2020. Not to go too much into this topic, but root causes of filial piety, economic considerations and practical benefits contribute to such phenomenon.
-
-#### The flip side and the challenges that come with staying at home
-
-Between 1990 and 2020 the number of those under 35 who lived alone or with non-family members grew from 33,400 to 51,300 (The economist). Additionally, local real estate portal PropertyGuru showed seven in 10 respondents between the ages of 22 and 39 were considering moving out. This shows the growing trend of Singaporeans leaving home. Let’s unpack the reasons why.
-
-+ Space Squeeze
-Singapore is a tiny red dot on the map, and boy, my friends feel it when they’re all cozying up in the same apartment. With property prices soaring higher than our aspirations, limited living space can be a real buzzkill. Forget personal space; it's more like "Can I please have any space?"
-
-+ Independence
-Living with your parents well into adulthood can make it tough to carve out your own identity. While other twenty- and thirty-somethings around the world are out there solo-traveling, building their empires, or even just decorating their own pads, we might feel like we're in a bit of a holding pattern. I feel maximum 25 years old is the age where one should move out. This way, it feels like you can structure life to your own accord.
-
-+ Dating dilemmas
-Let's talk about the elephant in the room: dating. In a city where the dating game is already challenging, explaining that you live with Mom and Dad can add an extra layer of complexity. It's like a rite of passage—eventually, we all hope to have a place to call our own for those romantic rendezvous. We covered dating in a previous article - it’s much better to have your own abode.
-
-+ Parental power
-Ah, the classic "When are you getting married?" and "Why aren't you home yet?" questions that can drive us up the wall. Living under the same roof might mean dealing with a bit more parental pester power than you'd like. They mean well, but sometimes, you just need your own space to breathe. Leaving home equates to being in control of your own life. No monetary ties, no decisions influenced by parents if you don’t want their opinions.
-
-+ The boomerang effect
-It's all fun and games until you decide it's time to spread your wings and fly. But what if you've been under your parents' roof for so long that you've forgotten how to adult on your own? The boomerang effect—a return to the nest after an attempt at independence—can be a humbling experience, to say the least. Leaving your parent’s roof doesn’t mean you won’t come back or won’t take care of them either.
-
-#### Additional pull factors of leaving home
-
-+ Increasing number of co-living spaces
-Co-living spaces have gained popularity worldwide, offering an affordable, community-oriented housing solution. Singapore could promote the development of such spaces designed for young adults. These environments foster independence while providing essential amenities and a built-in support system. Think Hmlet in Singapore.
-
-+ Career opportunities beyond Singapore
-Sometimes, the best way to encourage independence is to expand horizons. Singaporean companies and the government can promote overseas work opportunities, internships, or exchange programs. These experiences not only help young adults gain independence but also broaden their perspectives. Singapore is a huge bubble, hence I always encourage locals here to go abroad if their means can afford it.
-
-+ Changing mindsets
-There is a shifting societal norm and a growing emphasis on independence, which will lead to a healthier peer pressure to move out of one's parental home.
-
-Living with your parents as an adult in Singapore can be a double-edged sword. While it offers financial stability, emotional closeness, and an unwavering support system, it also comes with space constraints, identity challenges, and a few extra dating hurdles. But hey, there's no one-size-fits-all answer here. Whether you're nesting with Mom and Dad or spreading your wings into the unknown, the important thing is finding what works for you.
-
-#### Where is the new generation moving to?
-
-Young married Singaporeans often seek neighborhoods that provide a balance between convenience, affordability, and a family-friendly environment. Here are some popular neighborhoods where you can find young married couples in Singapore:
-
-1. Bishan
-Bishan is a mature and well-established residential area in central Singapore. It offers excellent connectivity with the North-South Line and Circle Line MRT stations. The neighborhood has numerous parks, good schools, and a range of amenities, making it attractive to young families.
-2. Punggol
-Punggol, a waterfront town in the northeastern part of Singapore, has seen rapid development in recent years. It offers a tranquil living environment with scenic waterfront views. Young couples are drawn to Punggol for its affordability and the promise of a growing community.
-3. Sengkang
-Sengkang, located adjacent to Punggol, is another family-friendly neighborhood. It features spacious public housing (HDB) flats and various recreational amenities like parks, sports complexes, and malls. The LRT and MRT lines connect Sengkang to other parts of the island.
-4. Woodlands
-Woodlands, situated in the northern region of Singapore, has become increasingly popular among young couples due to its affordability and improving amenities. The upcoming Woodlands Regional Center promises to bring more job opportunities and recreational options to the area.
-5. Tampines
-Tampines is one of Singapore's largest residential towns, known for its well-planned HDB estates. It offers a wide range of amenities, including shopping malls, parks, and schools. The convenient access to public transport and major expressways makes it an attractive choice for young families.
-6. Jurong West
-Jurong West, located in the western part of Singapore, is known for its affordability and proximity to Jurong Lake District, a rapidly developing commercial and leisure hub. It's an ideal choice for couples looking for a mix of urban and suburban living.
-7. Bedok
-Bedok, in the eastern part of Singapore, offers a coastal living experience. The neighborhood has a strong sense of community and boasts numerous dining options, parks, and schools. It is well-connected via the East-West Line.
-8. Bukit Panjang
-Bukit Panjang is situated in the northwestern part of Singapore and is known for its lush greenery and proximity to nature reserves. Young couples looking for a more tranquil setting may find this neighborhood appealing.
-9. Clementi
-Clementi, located in the western part of the island, is a mature estate with good schools and accessibility. It's a popular choice for young families due to its well-rounded amenities.
-10. Hougang
-Hougang, in the northeastern region, is known for its affordability and numerous parks. The upcoming Cross Island Line will further enhance its connectivity.
-
-These neighborhoods offer various housing options, amenities, and a sense of community, making them attractive choices for young married couples in Singapore. The ideal choice depends on factors like budget, lifestyle preferences, and proximity to workplaces and family. As you can see, none of these locations are central or sexy. But hey, they’re practical and works for young families.
-
-Have you considered moving out or already moved out? Let me know. Don’t forget to subscribe to see more content like this.
+這些社區提供了各種住房選擇、便利設施和社區感，使它們對新加坡的年輕已婚夫婦來說成為有吸引力的選擇。理想的選擇取決於預算、生活方式偏好以及工作場所和家庭的距離等因素。正如你所看到的，這些地點都不是中心地帶或性感之地。但嘿，它們對年輕家庭來說實用而實際。你有考慮搬出去或已經搬出去了嗎？讓我知道。不要忘記訂閱以查看更多此類內容。
