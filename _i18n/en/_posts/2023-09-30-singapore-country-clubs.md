@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Should I join a Singapore country clubs?"
+title:  "Should I join a Singapore country club?"
 categories: [country clubs, luxury, Singapore]
 image: assets/images/club.jpg
 ---
