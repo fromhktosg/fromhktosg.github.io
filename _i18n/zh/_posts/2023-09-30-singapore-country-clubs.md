@@ -1,92 +1,76 @@
 ---
 layout: post
-title:  "Should I join a Singapore country club?"
-categories: [country clubs, luxury, Singapore]
+title:  "新加坡鄉村俱樂部的奢華指南"
+categories: [鄉村俱樂部, 奢華, 新加坡]
 image: assets/images/club.jpg
 ---
-I played tennis at the Capella a couple weeks back. Whilst it isn’t a country club, the establishment in its grandeur and luxury sure felt like one. Having personally experienced the allure of country clubs while being part of one in Hong Kong, I was naturally drawn to explore what Singapore's country clubs have to offer. Today, we’ll unpack a little about country clubs, including the verdant landscapes and luxurious amenities and weighing the question on everyone's mind: Are they worth it? Join me as we unravel the world of Singaporean country clubs and discover whether these exclusive enclaves truly live up to their reputation.
+幾個星期前，我在新加坡嘉佩乐住所（Capella）打了場網球。儘管它並不是一家鄉村俱樂部，但它的宏偉和奢華確實讓人感覺如此。由於我曾在香港的一家鄉村俱樂部度過了一段時光，親身體驗了鄉村俱樂部的吸引力，自然而然地想探索新加坡的鄉村俱樂部有什麼特色。今天，我們將研究新加坡鄉的村俱樂部，並權衡每個人心中的問題：它們是否值得？
 
-#### What are the 5 C’s that all Singaporeans revere?
+#### 新加坡的5C是什麼？
 
-In the realm of Singaporean culture and lifestyle, the "5 Cs" have long held a special place. Historically symbolizing cash, car, credit card, condominium and country club, these markers of affluence have shaped aspirations and defined success for generations of Singaporeans. These five Cs are:
-+ Cash: Refers to the pursuit of wealth and financial success
-+ Car: Singapore's car prices are among the highest in the world due to significant taxes and fees, making car ownership a status symbol
-+ Credit Card: Self-explanatory, although getting a credit card was much more difficult a generation back
-+ Condo: Owned private real estate versus government housing (HDBs) is much more valuable (and comfortable)
-+ Country Club: Joining an exclusive country club is considered a symbol of prestige
+新加坡文化的5C象徵著現金、汽車、信用卡、公寓和鄉村俱樂部，已塑造了一代又一代新加坡人的志向，定義了成功。這五個C分別是：
++ Cash（現金）：指的是追求財富和財務成功。在新加坡，生活成本可能很高，因此財政穩定和富裕通常被視為成功的重要標誌
++ Car（汽車）：由於高額的稅收和費用，新加坡的汽車價格在全球居高不下，使汽車擁有成為身份的象徵
++ Credit Card（信用卡）：不需多言
++ Condo（公寓）：擁有私人房地產，而不是政府提供的住宅（HDB）
++ Country Club（鄉村俱樂部）：加入專屬鄉村俱樂部被視為威望的象徵
 
-While the concept of the five C's is often taken lightly, many Singaporeans adhere to its philosophy and aspire to 'collect them all.'
+儘管五個C的概念通常不被認真看待，但許多新加坡人仍堅持遵循其理念，並渴望全都要擁有。
 
-#### How did country clubs come about in Singapore?
+#### 鄉村俱樂部是如何興起的？
+鄉村俱樂部的根源可以追溯到殖民地影響和英國傳統。這些俱樂部成為殖民地外籍人士聚集的地方，在這裡避暑納涼、參加娛樂活動，並培養社區感情。幾十年來，這些專屬的避風港已經漸變為更多元化，以迎合新加坡人口的變化和興趣。
 
-The roots of country clubs can be traced back to a time when colonial influences and British traditions shaped Singapore's landscape. These clubs emerged as enclaves where colonial expatriates gathered to escape the tropical heat, indulge in recreational activities, and foster a sense of community. Over the decades, these exclusive retreats have evolved to become more diverse, catering to the changing demographics and interests of Singapore's populace. However, this is also the reason why many country clubs are named after particular countries i.e. The American Club.
+#### 為什麼要加入鄉村俱樂部?
+我在香港加入鄉村俱樂部的會籍期間，主要利用他們的網球設施，每週六天都在那裡進行訓練。事實上，鄉村俱樂部成為了我第三個最經常造訪的地方，僅次於我的學校和家。我許多朋友也經常在那裡聚會。以下是加入鄉村俱樂部有價值的原因：
++ 庇護所式生活：新加坡的鄉村俱樂部為會員提供了一個遠離都市生活喧囂的避風港。它們坐落在郁郁蔥蔥的綠地之間，提供了一個寧靜的綠洲。這是一個時間似乎放慢的地方，日常生活的壓力也漸漸淡去
++ 設施齊全：鄉村俱樂部娛樂設施豐富多樣包括網球場、游泳池、健身房、高爾夫球，甚至馬術設施。這種多樣性確保了各個年齡段的會員都可以找到適合他們興趣和健康水平的活動
++ 美食佳餚：新加坡的鄉村俱樂部以其美食而聞名。從休閒的池畔小吃到優雅的 fine dining 體驗，這些俱樂部擁有各種用餐選擇。會員可以品味各種美食，並在俱樂部廣闊的場地上欣賞美食之旅，通常還伴隨著俱樂部廣闊場地的美景
++ 社交網絡：除了休閒和運動之外，鄉村俱樂部在社交方面發揮了重要作用。它們提供了一個平台，讓來自不同背景的個人建立關係和社交。會籍通常跨越多代，創造了一種社群和連續性的感覺，超越了俱樂部的設施範圍
++ 親子活動：許多鄉村俱樂部認識到家庭團聚的重要性。他們提供親子友好的便利設施，包括兒童遊樂區、針對兒童的活動，甚至教育計劃。這些俱樂部成為不同世代共聚一堂，創造持久回憶的場所
++ 獨特活動和娛樂：鄉村俱樂部經常舉辦獨特的活動，包括盛大晚宴、主題派對和文化慶典
++ 教育和文化計劃：一些鄉村俱樂部組織教育研討會、講座和文化活動，豐富了會員的體驗。這些計劃可以包括藝術展覽、烹飪班等
++ 威望和地位：加入優秀的鄉村俱樂部可以提升一個人的社會地位和聲譽，因為這些俱樂部通常與富裕和成功相關聯
++ 傳統和傳承：一些會員重視與鄉村俱樂部相關聯的傳統和遺產感。會籍通常跨越多代，創造了一種連續性和歸屬感
 
-#### Why should you join a country club?
+#### 頂級鄉村俱樂部
+如果你對加入鄉村俱樂部有了更多信心，以下是新加坡一些頂級鄉村俱樂部：
++ 新加坡島鄉村俱樂部（SICC）：SICC是新加坡歷史最悠久且聲譽最卓越的鄉村俱樂部之一。它有多個場地，包括武吉和島嶼地點。SICC為會員提供高爾夫球場、網球場、游泳池、精緻餐飲和社交活動的訪問權
++ The Tanglin Club：成立於1865年，Tanglin俱樂部是新加坡最古老和最負盛名的俱樂部之一。它為會員提供用餐選擇、運動設施、水療服務以及各種社交活動
++ Sentosa Golf Club：以其擁有海景的壯麗高爾夫球場而聞名，Sentosa Golf Club提供世界一流的高爾夫體驗。它曾主辦過聲譽卓著的高爾夫錦標賽，以其具有挑戰性的球場而著稱
++ Keppel Club：Keppel俱樂部提供一系列運動設施，包括高爾夫、網球和游泳。會員還可以在俱樂部內享受用餐選擇和輕松的氛圍
++ Warren Golf & Country Club：這鄉村俱樂部提供高爾夫、用餐和社交活動。以其風景優美的高爾夫球場和寧靜的環境而著稱。
++ Seletar Country Club：位於Seletar機場附近，這俱樂部提供高爾夫球場、游泳池、網球場和用餐選擇。它具有適合家庭的氛圍，並組織各種活動供會員參加
++ Orchid Country Club：Orchid Country Club以其美麗的風景和高爾夫球場而聞名。它提供廣泛的設施，包括保齡球、游泳和用餐。這個俱樂部具有度假村般的氛圍
++ Raffles Country Club：Raffles Country Club有兩個場地，分別是Lake Course和Palm Course。它提供高爾夫、用餐和活動設施。請注意，部分Palm Course已被收購用於開發，俱樂部將停止在那里運營
++ 美國俱樂部（The American Club）：如果你是美國人，這個俱樂部提供更優惠的會員待遇。位置非常靠近Orchard / Tanglin，我的很多朋友都是這個俱樂部的成員。
++ 英國俱樂部（The British Club）：位於武吉知馬的瑞士俱樂部附近。擁有驚人的水療中心和游泳池設施。
 
-During my membership at a country club in Hong Kong, I dedicated the majority of my time to utilizing their tennis facilities, spending six days a week there for training. In fact, the country club became my third most frequently visited location, following my school and home. A good amount of my friends hung out there too. Looking back, I loved being part of that community. Here’s why there’s merit in joining a country club - 
+這些頂級鄉村俱樂部提供多種設施和社交活動，讓你享受奢華的生活方式。不同的俱樂部有不同的特色，你可以根據自己的興趣和需求選擇最適合你的。無論你是高爾夫球愛好者、享受美食、熱愛社交還是追求寧靜，這些鄉村俱樂部都能滿足你的期望。
 
-+ Sanctuary lifestyle: At their core, country clubs in Singapore serve as sanctuaries, offering members an escape from the hustle and bustle of urban living. They are nestled amidst lush greenery, providing an oasis of tranquility where one can reconnect with nature, unwind, and recharge. It's a place where time seems to slow down, and the stresses of daily life fade into the background
-+ Facilities: One of the defining features of country clubs is their extensive range of recreational facilities. While golf courses remain a hallmark, these clubs have diversified to include tennis courts, swimming pools, gyms, and even equestrian facilities. This diversity ensures that members of all ages can find activities that cater to their interests and fitness levels
-+ Fine dining: From casual poolside snacks to elegant fine dining experiences, these clubs boast a variety of dining options. Members can savor an array of cuisines and delight in gastronomic adventures, often accompanied by scenic views of the club's sprawling grounds
-+ Networking: Beyond leisure and sports, country clubs play a pivotal role as social hubs. They provide a platform for networking and building relationships among individuals from diverse backgrounds. Memberships often span generations, creating a sense of community and continuity that extends beyond the club's facilities
-+ Family activities: Many country clubs recognize the importance of family bonding. They offer family-friendly amenities, including children's play areas, kid-focused activities, and even educational programs. These clubs become places where generations come together to create lasting memories
-+ Exclusive Events and Entertainment: Country clubs often host exclusive events, including gala dinners, themed parties, and cultural celebrations. These gatherings provide members with opportunities to socialize and enjoy unique entertainment experiences
-+ Prestige and Status: Joining a prestigious country club can enhance one's social status and reputation, as these clubs are often associated with affluence and success
-+ Legacy and Tradition: Some members value the sense of tradition and heritage associated with country clubs. Membership often spans generations, creating a sense of continuity and belonging
+#### 會員制度是如何運作的？
 
-#### Top country clubs in Singapore
+來看看房間里的大象 - 會員制度是如何運作的？ 新加坡的鄉村俱樂部通常提供各種類型的會員制度，以滿足個人和家庭多樣化的喜好和需求。這些會員制度通常包括：
++ 普通會員或全面會員：這是最全面和聲譽最高的會員類別，提供對所有俱樂部設施和設備的訪問權，包括高爾夫球場、運動設施、餐飲和社交活動。全體會員通常具有投票權，可能需要支付入會費和月費。有些會員資格是可轉讓的 - 顯然，可轉讓的會員資格費用更高
++ 關聯會員：關聯會員享受大多數全會員的特權，但可能會有限制，如對某些設施的有限訪問權或無投票權。關聯會員通常開放給全體會員的家庭成員或不符合全體會員資格的個人
++ 社交會員或非高爾夫會員：社交會員通常可以訪問俱樂部的餐飲、社交活動和一些娛樂設施，但不能打高爾夫球。這種會員資格適合主要關心俱樂部社交方面的個人或家庭
++ 企業會員：企業會員通常提供給企業和組織。它們為員工和客戶提供對俱樂部設施的訪問權。企業會員也可以在商業活動和會議中使用俱樂部
++ 期限會員：期限會員通常提供特定時間段的會員資格，如一年或兩年。這適用於希望在有限時間內體驗俱樂部而無需長期承諾的個人
++ 家庭會員：家庭會員資格將特權擴展到會員、他們的配偶和受扶養的子女。它提供了一個適合家庭的環境，可訪問面向家庭的設施
++ 體育會員：不用多說
 
-So if you’re a little more convinced in joining one, here are some of the top country clubs in Singapore:
+總結一下，鄉村俱樂部會員制度的費用 -
++ 入門級鄉村俱樂部的入會費可能在5,000新加坡元至10,000新加坡元之間，年度訂閱費約為1,000新加坡元至3,000新加坡元
++ 中級鄉村俱樂部可能需要15,000新加坡元至30,000新加坡元或更多的入會費，年度訂閱費則在2,000新加坡元至5,000新加坡元或更高的範圍內
++ 高級和著名的鄉村俱樂部的入會費可能超過50,000新加坡元，年度訂閱費可能在5,000新加坡元至10,000新加坡元或更高的範圍內
 
-+ Singapore Island Country Club (SICC): SICC is one of the oldest and most renowned country clubs in Singapore. It has multiple locations, including Bukit and Island locations. SICC offers members access to golf courses, tennis courts, swimming pools, fine dining, and social events
-+ The Tanglin Club: Established in 1865, The Tanglin Club is one of Singapore's oldest and most prestigious clubs. It provides members with dining options, sports facilities, spa services, and a variety of social events
-+ Sentosa Golf Club: Known for its stunning golf courses with panoramic views of the sea, Sentosa Golf Club offers a world-class golfing experience. It has hosted prestigious golf tournaments and is recognized for its challenging courses
-+ Keppel Club: Keppel Club offers a range of sports facilities, including golf, tennis, and swimming. Members can also enjoy dining options and a relaxed atmosphere within the club's premises
-+ Warren Golf & Country Club: Situated in the lush Warren Golf Course, this country club offers golfing, dining, and social activities. It's known for its scenic golf course and serene environment
-+ Seletar Country Club: Located near Seletar Airport, this club offers a golf course, swimming pool, tennis courts, and dining options. It has a family-friendly atmosphere and organizes various events for members
-+ Orchid Country Club: Orchid Country Club is known for its beautiful landscapes and golf courses. It offers a wide range of amenities, including bowling, swimming, and dining. The club has a resort-like ambiance.
-+ Raffles Country Club: Raffles Country Club has two locations, Lake Course and Palm Course. It provides golfing, dining, and event facilities. Note that part of the Palm Course was acquired for development, and the club will cease operations there.
-+ Marina Bay Golf Course: While not a traditional country club, Marina Bay Golf Course is known for its stunning location with city skyline views. It offers an 18-hole golf course and dining facilities.
-+ The American club: Better membership deal if you’re American. Really good location near Orchard / Tanglin. A good amount of my friends are a part of this one
-+ The British Club: Near the Swiss Club in Bukit Timah. Has an amazing spa center and pool complex
+#### 那麼，鄉村俱樂部值得加入嗎？
+這取決於情況。最終，這往往更多地涉及地位問題，但如果你在那裡花了大量的時間，而且鄉村俱樂部提供了一個讓你的孩子社交的場所，那麼這是可以辯護的。
 
-#### What are memberships like?
+#### 除了鄉村俱樂部，還有哪些選擇呢？
+也就是那些更注重金錢的人去哪里
++ Hometeam NS 會所：Hometeam NS在新加坡各地運營著會所，提供各種休閒和社交活動的設施。這些會所旨在為國民服務人員（國民服務人員）、他們的家庭和國民服務人員的支持者提供服務。你可以找到各種設施，如供休閒和健身的游泳池、設備齊全的健身房、用於各種活動（如羽毛球和籃球）的運動場，以及提供與家人和朋友一起享用餐點的餐飲選擇。Hometeam NS提供價格合理的會籍，可獲得對這些設施的訪問權，因此對於那些尋求包容和社區導向環境的人來說，這是一個受歡迎的選擇
++ 公寓會所： 人公寓設施：新加坡許多公寓在其建築群內提供專屬會所和設施。這些公寓會所通常僅供居民和他們的客人使用，為休閒和社交聚會提供了便利而私密的場所。根據公寓的不同，你可以找到各種功能，如供居民休息和消暑的游泳池、供健身的設備齊全的健身中心、用於室外聚會的燒烤場以及適合活動和慶祝的功能室。居民可以在自己的公寓社區內享受這些設施，培養歸屬感和便利性
++ 購物中心： 購物療法：新加坡擁有眾多一流的購物中心，它們提供的不僅僅是購物機會。這些購物中心是熱鬧的聚集地，人們在這裡可以沉浸在各種形式的娛樂、餐飲和娛樂活動中。在這些購物中心內，你可以找到娛樂區，那裡有街機遊戲、放映最新電影的影院、提供多樣化美食的美食廣場，以及專為兒童設計的室內遊樂場。像Orchard Central、VivoCity和珠寶樟宜機場這樣的熱門購物中心提供了各種娛樂活動，確保遊客可以度過充實而愉快的一天
++ 社區中心和社區俱樂部： 社區中心（CC）和居民委員會（RC）：新加坡的社區中心（CC）和居民委員會（RC）網絡在促進社區參與和組織各種活動方面發揮著重要作用。這些中心是居民參加社交、文化和娛樂活動的重要場所。社區中心和居民委員會提供健身課程、藝術工作坊、體育活動和文化表演等課程。其中一些中心還設有網球場和籃球場等+ 體育設施，為居民提供體育活動和與鄰居建立聯繫的機會。通常會提供會籍選項，讓居民以合理的價格訪問這些設施和課程，增強社區精神和凝聚力
 
-On to the elephant in the room - how do memberships work?
-
-Country clubs in Singapore typically offer various types of memberships to cater to the diverse preferences and needs of individuals and families. These memberships often include:
-+ Ordinary or Full Membership: This is the most comprehensive and prestigious membership category, providing access to all club facilities and amenities, including golf courses, sports facilities, dining, and social events. Full members often have voting rights and may be required to pay an initiation fee and monthly dues. Some memberships are transferable - obviously, a transferable one is more expensive
-+ Associate Membership: Associate members enjoy most of the privileges of full membership but may have restrictions, such as limited access to certain facilities or no voting rights. Associate memberships are often available to family members of full members or individuals who do not meet the criteria for full membership.
-+ Social or Non-Golfing Membership: Social members typically have access to the club's dining, social events, and some recreational facilities but do not have golfing privileges. This membership category is suitable for individuals or families who are primarily interested in the club's social aspects.
-+ Corporate Membership: Corporate memberships are often offered to businesses and organizations. They provide access to club facilities for employees and clients. Corporate members may also use the club for business events and meetings.
-+ Term Membership: Term memberships are typically offered for a specific duration, such as one or two years. They are suitable for individuals who may want to experience the club for a limited time without a long-term commitment.
-+ Family Membership: Family memberships extend privileges to the member, their spouse, and dependent children. It provides a family-friendly environment with access to family-oriented amenities
-+ Sport membership: Primary access to sports facilities; often without voting rights
-
-To grossly summarize how much a country club membership costs -
-
-+ Entry-level country clubs might have initiation fees ranging from SGD 5,000 to SGD 10,000, with annual subscription fees of around SGD 1,000 to SGD 3,000
-+ Mid-tier country clubs may require initiation fees of SGD 15,000 to SGD 30,000 or more, with annual subscription fees ranging from SGD 2,000 to SGD 5,000 or higher
-+ Premium and prestigious country clubs can have initiation fees exceeding SGD 50,000, and annual subscription fees can be in the range of SGD 5,000 to SGD 10,000 or more
-
-#### So are country clubs worth it?
-
-It depends. Ultimately, it's often more about status, but if you spend a significant amount of time there and a country club offers a place for your children to socialize, it can be justifiable.
-
-#### What alternatives to country clubs are there?
-
-Aka where do those more money conscious or less wealthy go to.
-
-<u>Hometeam NS<u>
-Hometeam NS operates clubhouses across Singapore, providing a range of facilities for recreational and social activities. These clubhouses are designed to cater to NSmen (National Servicemen), their families, and NS supporters. You can find amenities such as swimming pools for leisure and fitness, well-equipped gyms, sports courts for various activities like badminton and basketball, and dining options where you can enjoy meals with family and friends. Hometeam NS offers affordable memberships that grant access to these facilities, making it a popular choice for those seeking an inclusive and community-oriented environment
-
-<u>Condo Clubhouses:<u>
-Private Condo Facilities: Many condominiums in Singapore offer exclusive clubhouses and amenities within their complexes. These condo clubhouses are typically reserved for residents and their guests, providing a convenient and private space for leisure and social gatherings. Depending on the condominium, you may find features like swimming pools for residents to relax and cool off, fully equipped fitness centers for workouts, BBQ pits for outdoor gatherings, and function rooms suitable for events and celebrations. Residents can enjoy these facilities within the comfort of their condo community, fostering a sense of belonging and convenience
-
-<u>Shopping Malls:<u>
-Singapore boasts a plethora of world-class shopping malls that offer more than just shopping opportunities. These malls are vibrant hubs where people gather to indulge in various forms of entertainment, dining, and recreation. Inside these malls, you can find entertainment zones with arcade games, cinemas screening the latest films, food courts serving diverse cuisines, and indoor playgrounds designed for children's enjoyment. Popular malls like Orchard Central, VivoCity, and Jewel Changi Airport provide a wide range of recreational activities, ensuring that visitors can have a full day of fun and relaxation.
-
-<u>Community Centers (CCs) and Community Clubs<u>
-Singapore's network of Community Centers (CCs) and Residents' Committees (RCs) plays a vital role in fostering community engagement and organizing a diverse array of activities. These centers serve as focal points for residents to participate in social, cultural, and recreational events. CCs and RCs offer programs such as fitness classes, art workshops, sports events, and cultural performances. Some of these centers also feature sports facilities like tennis courts and basketball courts, providing opportunities for physical activities and bonding with neighbors. Membership options are often available, allowing residents to access these facilities and programs at reasonable rates, enhancing community spirit and cohesion.
-
-Honestly, the options above sound pretty sound lame compared to a country club, but there’s nothing wrong with being more frugal and responsible. Ultimately, a country club provides its own merits and it's understandable that Singaporeans want to strive to be part of one. I know I will. As usual, don’t forget to subscribe so you don’t miss out on more content!
+老實說，與鄉村俱樂部相比，上面提到的選擇似乎相當乏味，但更節儉和負責任並沒有什麼不對。最終，鄉村俱樂部提供了自己的優勢，可以理解新加坡人想要努力成為其中的一員。我知道我會的。像往常一樣，別忘了訂閱，這樣你就不會錯過更多內容！
