@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Should I join a Singapore country club?"
+title:  "Wedding 101: How to avoid wedding photo scams"
 categories: [wedding, wedding photos, marriage, Singapore]
 image: assets/images/wedding.jpg
 ---
