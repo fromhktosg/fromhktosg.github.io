@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Singapore expat resources now in Chinese"
-categories: [expat, Chinese, move, relocation, Singapore]
+title:  "新加坡外籍人士資源現在有中文版本"
+categories: [外籍人士, 中文, 搬遷, 遷居, 新加坡]
 image: assets/images/chinese.jpg
 ---
 
-We haven't posted for two weeks, but there's a good reason for it. We're excited to announce the official launch of Chinese translations for our cherished posts! Given the numerous requests from our users for content in Chinese alongside English, we're delighted to oblige. To access this feature, simply go to our homepage, locate the language selection option at the top, and choose 中文 (Chinese). It's that simple! Enjoy.
+我們已經有兩周沒有更新文章了，但有個好消息！我們很高興地宣布，現在您可以在我們的網站上找到中文翻譯。由於用戶多次要求中英文內容，我們決定滿足您的需求。只需前往我們的主頁，點選頂部的語言選擇選項，選擇中文，就能輕鬆切換。希望您喜歡這個新功能！
 
