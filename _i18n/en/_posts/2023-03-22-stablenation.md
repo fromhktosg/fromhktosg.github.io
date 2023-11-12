@@ -4,7 +4,7 @@ title:  "3 essentials that make Singapore successful"
 categories: [Singapore, housing, food]
 image: assets/images/sdg.png
 ---
-In 1991, the Singapore government introduced [five shared values](https://eresources.nlb.gov.sg/history/events/62f98f76-d54d-415d-93a1-4561c776ab97#:~:text=The%20five%20Shared%20Values%20that,5%20Racial%20and%20religious%20harmony). that helped forge a Singaporean identity. These values include 
+In 1991, the Singapore government introduced five shared values. that helped forge a Singaporean identity. These values are -
 
 a) nation before community and society above self
 
@@ -32,7 +32,7 @@ All three of these show up in UN’s 2030 sustainable development goals (#s 2, 9
 |:--:| 
 |  *Source: [UNDP SDGs](https://sdgs.un.org/goals)*  |
 
-Let’s dive into each and compare how they fare versus the situation in Hong Kong. For what it’s worth, we’ll save deeper analysis for each factor another time. For what it's worth, many of these benefits are available for expats as well as locals (PRs and citizens), though with more benefits for the latter. If you're wondering what the PR process is like, check out my last post [here](https://fromhktosg.github.io/top-concerns/).
+Let’s dive into each and compare how they fare versus the situation in Hong Kong. We’ll save deeper analysis for each factor another time. For what it's worth, many of these benefits are available for expats as well as locals (PRs and citizens), though with more benefits for the latter. If you're wondering what the PR process is like, check out my [last post](https://fromhktosg.github.io/singapore-PR/).
 
 #### Housing
 
@@ -54,7 +54,7 @@ We won’t be examining public housing minutiae (BTOs, resales, development loca
 
 Resolving hunger ensures a healthier and more productive nation. Singapore’s solution to this is through hawker centers.
 
-What was once a method to provide organized space and increase hygiene standards for street hawkers has now emerged as an integral way of Singaporean life that is recognized on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity. Hawker centers bring well known-local foods of all ethnicities together at an extremely affordable price. 5 years ago, an average chicken rice or bak chor mee (noodles) was priced at $3-3.5 SGD. Nowadays, it nets out at around $5. This is arguably cheaper than cooking on your own unless you’re doing it in bulk, hence why [~25%](https://www.posist.com/restaurant-times/singapore/singapore-foodevolution.html) of Singaporeans dine out daily. 
+What was once a method to provide organized space and increase hygiene standards for street hawkers has now emerged as an integral way of Singaporean life that is recognized on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity. Hawker centers bring well known-local foods of all ethnicities together at an extremely affordable price. 5 years ago, an average chicken rice or bak chor mee (noodles) was priced at $3-3.5 SGD. Nowadays, it nets out at around $5. This is arguably cheaper than cooking on your own unless you’re doing it in bulk, hence why ~25% of Singaporeans dine out daily. 
 
 Hong Kong does have its equivalents, be it cha chaan tengs (茶餐廳), dai pai dongs (大排檔) and cooked food centers (街市熟食中心). Whilst prices are at $7 which is still affordable for the masses, it is a 40% increase vs. Singapore. Given median household incomes are similar between both countries, Singapore trumps with affordability. 
 

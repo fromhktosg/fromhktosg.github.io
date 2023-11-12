@@ -4,7 +4,7 @@ title:  "Singapore PR in my first attempt! Come learn the secrets in my guide"
 categories: [Relocation, Immigration, PR]
 image: assets/images/sgpr.jpg
 ---
-Let’s begin with the obvious disclaimer - I’m not a lawyer. However, I did manage to become a Singapore permanent resident in just one attempt so I’ll be sharing my take on the application process and some tips and tricks I learnt along the way. Before you apply for your PR, do be aware of the benefits and drawbacks of living in Singapore - I cover some of this in my last post [here](https://fromhktosg.github.io/top-concerns/).
+Let’s begin with the obvious disclaimer - I’m not a lawyer. However, I did manage to become a Singapore permanent resident in just one attempt so I’ll be sharing my take on the application process and some tips and tricks I learnt along the way. Before you apply for your PR, do be aware of the benefits and drawbacks of living in Singapore - I cover some of this in my [last post] (https://fromhktosg.github.io/top-concerns/).
 
 One thing I’ll say upfront - don’t bother with immigration agencies. They’re expensive with limited upside and sell you on weird gimmicks like PR success calculators. All my friends who engaged with one regretted their decision and failed to get residency. It’s not a stat sig sample size but it’s telling. Let’s start off with the basics.
 
@@ -19,11 +19,11 @@ There are 3 main tracks to get Singapore PR. These exclude students applying, or
 
 1. Global Investor Program ([GIP](https://www.edb.gov.sg/en/how-we-help/global-investor-programme.html))
 
-    [Apply for PR](https://www.channelnewsasia.com/business/singapore-global-investor-programme-higher-investment-quantum-3317416) by 1) investing $10 million in starting a business, 2) investing $25 million in GIP-selected funds, 3) set up a Singapore-based single family office with at least $200 million AUM. From 2020 - 2022, [~200 PR applications](https://www.channelnewsasia.com/singapore/about-200-individuals-granted-pr-status-through-global-investor-programme-3298491) were approved from the GIP track. Pretty easy for anyone who has money to throw around.
+    Apply for PR by 1) investing $10 million in starting a business, 2) investing $25 million in GIP-selected funds, 3) set up a Singapore-based single family office with at least $200 million AUM. From 2020 - 2022, ~200 PR applications were approved from the GIP track. Pretty easy for anyone who has money to throw around.
 
 2. Foreign Artistic Talent scheme
 
-    For those who are talented and can meet all the minimum requirements [below](https://www.nac.gov.sg/support/capability-development/leadership-career-and-artistic-development/foreign-artistic-talent-scheme-(forarts)):
+    For those who are talented and can meet all the minimum requirements below:
     + ‘Possess relevant training/education in your field of practice
     + Possess relevant professional experience, with outstanding achievements, in the field of Performing Arts, Visual Arts, Literary Arts, Design and/or Media
     + Have made significant contributions to Singapore’s arts and cultural scene, including a strong track record of local engagements at leadership level

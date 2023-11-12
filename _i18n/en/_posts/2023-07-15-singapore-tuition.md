@@ -11,7 +11,7 @@ During a casual lunch with a friend, I was taken aback when he revealed that he 
 
 <u> Hong Kong <u>
 
-The first tuition center in Hong Kong is believed to be Modern Education, established in 1971 by Mr. Lam Wing-kee. Initially, it aimed to provide supplementary education to students who needed extra assistance. Over time, tuition centers gained popularity due to the competitive nature of the education system and the desire for academic excellence. They became more mainstream in the 1980s and 1990s as the demand for additional academic support grew. Today, tuition centers are a common feature of the education landscape in Hong Kong, catering to students of all ages and academic levels.
+The first tuition center in Hong Kong is believed to be Modern Education, established in 1988 by Mr. Ken Ng Kam-Lun. Initially, it aimed to provide supplementary education to students who needed extra assistance. Over time, tuition centers gained popularity due to the competitive nature of the education system and the desire for academic excellence. They became more mainstream in the 1980s and 1990s as the demand for additional academic support grew. Today, tuition centers are a common feature of the education landscape in Hong Kong, catering to students of all ages and academic levels.
 
 <u> Singapore <u>
 
@@ -57,7 +57,7 @@ Covid accelerated the online models, and as shown in kdramas, you’ll get masse
 
 #### Tuition in relations to Gifted Education Program in Singapore
 
-One ting expats in Singapore may not know is that many go through tuition to get into a Gifted Education Program in Singapore. A Gifted Education Program (GEP) is a specialized educational program designed to meet the needs of academically gifted or talented students. It aims to provide a more challenging and enriched learning experience for students who demonstrate exceptional abilities in intellectual, creative, or specific academic domains. Funnily enough, those who get into GEP continue with education
+One ting expats in Singapore may not know is that many go through tuition to get into a Gifted Education Program in Singapore. A Gifted Education Program (GEP) is a specialized educational program designed to meet the needs of academically gifted or talented students. It aims to provide a more challenging and enriched learning experience for students who demonstrate exceptional abilities in intellectual, creative, or specific academic domains. 
 
 The specific structure and implementation of GEP may vary between countries and educational systems. In general, however, the program identifies gifted students through various assessment methods, such as standardized tests, teacher recommendations, or portfolio assessments. Once identified, these students are offered specialized instruction and curriculum that goes beyond the standard curriculum provided to their peers.
 

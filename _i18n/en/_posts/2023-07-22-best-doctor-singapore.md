@@ -5,7 +5,7 @@ categories: [Healthcare, hospitals, doctors, clinics, Singapore]
 image: assets/images/penthouse.jpg
 ---
 
-In an [earlier article](https://fromhktosg.github.io/singapore-healthcare-copy/), I talked about the healthcare system in Singapore and how robust it is, be it in the public or private sector. Since then, a few readers have asked me to recommend my go-to doctors so here’s my curated list of the best doctors, hospitals and clinics in Singapore.
+In an [earlier article](https://fromhktosg.github.io/singapore-healthcare/), I talked about the healthcare system in Singapore and how robust it is, be it in the public or private sector. Since then, a few readers have asked me to recommend my go-to doctors so here’s my curated list of the best doctors, hospitals and clinics in Singapore.
 
 In general, I’m a big fan of Raffles Hospital but have slowly begun seeing more doctors in Gleneagles as I think the nurses at Raffles aren’t that great. P.S. - yes, I have a lot of health problems so I’ve seen a lot of doctors.
 
