@@ -19,7 +19,7 @@ Many italian restaurants are across the island. Most are tasty but way over pric
 + No Menu ($$$): Experience authentic Italian cuisine complemented by excellent service and ambiance. True to its name, you can request dishes not listed on the menu. I personally recommend trying their seafood risotto and lobster ravioli.
 + Publico ($$): A vibrant al fresco restaurant situated in the heart of Robertson Quay, perfect for brunch enthusiasts. I'm a fan of their shakshuka and pasta dishes. It's an ideal spot for a mid-day drink.
 + Pasta Bar ($$$): Indulge in high-quality, fresh pasta dishes in the heart of the city. This is my top choice for seafood pasta in Singapore, thanks to their exceptionally fresh ingredients and al dente pasta
-+ Ristorante Takada: Italian Japanese fusion. High value 
++ Ristorante Takada ($$$): Italian Japanese fusion. High value 
 
 | ![pasta]({{ site.baseurl }}/assets/images/pasta.jpg)
 |:--:| 

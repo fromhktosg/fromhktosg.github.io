@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "婚禮指南101：如何避免婚紗騙局"
+title:  "新加坡婚禮指南101：如何避免婚紗騙局"
 categories: [婚禮,婚紗,婚禮照片,婚姻,新加坡]
 image: assets/images/wedding.jpg
 ---
