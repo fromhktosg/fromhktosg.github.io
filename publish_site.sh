@@ -17,7 +17,7 @@ git push origin source
 # echo "Building the website..."
 # gem uninstall google-protobuf -a; BUNDLE_FORCE_RUBY_PLATFORM=true bundle install    # https://github.com/protocolbuffers/protobuf/issues/7070#issuecomment-1370248311
 bundle config set force_ruby_platform true
-bundle install
+# bundle install
 bundle exec jekyll build
 
 # echo "Switching to master branch to publish the updated site..."
