@@ -10,7 +10,7 @@ echo "Syncing latest code from source and master..."
 
 echo "Switching to source branch to make changes..."
 git checkout source
-git add --all
+git add .
 git commit -m "Changes made at $TIMESTAMP"
 git push origin source
 
