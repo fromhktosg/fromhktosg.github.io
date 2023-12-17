@@ -2,7 +2,7 @@
 layout: post
 title:  "新加坡各種美食的必訪餐廳清單大公開"
 categories: [食物,餐廳,美食,新加坡]
-image: assets/images/korea.jpg
+image: assets/images/korean.jpg
 ---
 最近，我收到了許多有關新加坡美食的問題。我一直認為自己品味獨到，也從來沒相信Google Maps、本地新加坡人，或是本地美食頻道的推薦。因此，我決定為你們所有的美食家們公開自己的清單。
 

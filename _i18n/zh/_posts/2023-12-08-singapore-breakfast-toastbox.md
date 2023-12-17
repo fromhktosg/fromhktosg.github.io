@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "土司工坊(Toast Box) 全面指南 - 新加坡的早餐傳統"
+title:  "土司工坊(Toast Box) 指南 - 新加坡早餐"
 categories: [食物,餐廳,美食,新加坡]
 image: assets/images/tbtb.jpg
 ---
