@@ -1,54 +1,76 @@
 ---
 layout: post
-title:  "Singapore weather and secrets to tracking it"
-categories: [Singapore, weather, rain]
-image: assets/images/weather.jpg
+title:  "Singapore KFC - recommendations, pricing and surprises"
+categories: [Singapore, fast food, kfc, food]
+image: assets/images/kfc.jpg
 ---
-In the heart of Southeast Asia lies the island city-state of Singapore, known for its bustling city life and rich cultural diversity. But there's one more thing that's constant in Singapore - its tropical climate. Located just a stone's throw from the equator, Singapore experiences warm weather all year round, interspersed with sudden bursts of rainfall. In this blog post, we'll explore Singapore's climate and weather patterns, and how it shapes the daily lives of its residents. Whether you're a new resident, a long-time local, or a potential tourist, this guide will help you understand and navigate Singapore's unique weather conditions. So, let's dive right in!
+Welcome back to our blog! Following the success of our article on McDonald's in Singapore, we're now turning our attention to another fast food favorite - Kentucky Fried Chicken (KFC). In this article, we'll be exploring the history of KFC in Singapore, discussing what makes it unique, and highlighting the must-try items on the menu. This piece promises to be as engaging and informative as our previous one, offering a closer look at why KFC has become a staple in Singapore's fast food scene. Let's dive in.
 
-#### What is singapore’s weather and why is it the way it is
+#### History of KFC in Singapore
 
-Singapore is located 137 kilometers north of the Equator and does not experience the four traditional seasons of spring, summer, autumn, and winter. Instead, it has a tropical rainforest climate with no significant changes in temperature due to the proximity to the equator.
+Kentucky Fried Chicken (KFC) first opened its doors in Singapore in 1977. It was the first American fast food chain to set up shop in Singapore. The first KFC restaurant was located at Somerset Road, and it introduced Singaporeans to KFC's signature fried chicken recipe, which was well-received.
 
-Singapore experiences a relatively uniform temperature, humidity, and precipitation throughout the year. The uniform temperature is a result of the city-state's maritime exposure, which moderates the heat. However, the high humidity can make the actual temperature feel hotter than it is. This 'feels-like' temperature, factoring in the humidity, can reach up to 34°C (93°F) in the daytime.
+Over the years, KFC Singapore grew steadily and adapted its menu to local tastes, introducing items like the Curry Crunch Chicken and the Zinger Rice Bowl. Today, KFC has over 80 outlets spread across Singapore, making it one of the most popular fast food chains in the country. In addition to its dine-in and takeaway services, KFC Singapore also offers efficient delivery services, further cementing its popularity among Singaporeans.
 
-While rainfall is a common occurrence throughout the year, the intensity of the rainfall varies. Singapore experiences two monsoon seasons - the Northeast Monsoon from December to early March, and the Southwest Monsoon from June to September. During these periods, rainfall is more frequent and intense with thunderstorms commonly occurring in the late afternoon and early evening.
+Throughout its history in Singapore, KFC has remained committed to serving high-quality food and providing excellent service, contributing to its continued success and popularity.
 
-Despite the generally high humidity and rainfall, Singapore gets plenty of sunshine. It's sunny approximately 50% of the time during daylight hours, equating to about 12 hours of sunlight per day, as the country is located near the Equator.
-Singapore's weather can be quite unpredictable. Even on a sunny day, rain showers can suddenly occur, often brief but heavy. Therefore, it is always advisable for both residents and visitors to be prepared with an umbrella or raincoat when heading outdoors.
+#### Why is KFC so loved in singapore
 
-Overall, the climate in Singapore is warm and humid throughout the year, characterized by abundant rainfall and a significant amount of sunshine.
+The popularity of KFC in Singapore can be attributed to several factors:
++ Familiarity and Consistency: As a global franchise, KFC maintains a consistent taste and quality across its outlets worldwide, making it a reliable choice for many. Singaporeans, like many others around the world, appreciate the familiar taste of KFC's original recipe chicken.
++ Local Adaptation: KFC in Singapore has done a great job of adapting its menu to local tastes. This includes introducing items that cater to the Singaporean palate, such as the Curry Crunch Chicken and the Zinger Rice Bowl, which have been well-received by customers.
++ Marketing and Promotions: KFC Singapore often runs promotions and deals that are attractive to consumers. These include bundle meals and limited-time offerings, which not only provide value for money but also add variety to their menu, keeping customers interested.
++ Convenience: With numerous outlets spread across the island, KFC is easily accessible to most residents in Singapore. In addition, they offer efficient delivery services, making it a popular choice for those who prefer to dine at home.
 
-#### How best to adapt for singapore weather
+It's KFC's ability to provide consistent quality, cater to local tastes, offer attractive promotions, and their widespread presence that makes them so loved in Singapore.
 
-Here are some tips to best prepare for Singapore's weather as a tourist:
-+ Light Clothing: Singapore's weather is hot and humid throughout the year, with temperatures usually between 25°C to 33°C. Light, breathable clothing is recommended. Cotton t-shirts, shorts, skirts, or light trousers are ideal.
-+ Sun Protection: Due to Singapore's equatorial location, the sun can be quite strong. Sunscreen with a high SPF, sunglasses, and a hat or umbrella for sun protection are must-haves when venturing out during the day.
-+ Stay Hydrated: The humidity can make you sweat more than usual, so it's important to keep hydrated. Always carry a water bottle with you and drink frequently.
-+ Umbrella or Raincoat: Rain showers can happen frequently and unexpectedly due to the tropical rainforest climate, so it's a good idea to carry an umbrella or a small, packable raincoat.
-+ Comfortable Footwear: You'll likely be walking a lot as a tourist, and combined with the hot weather, comfortable footwear is essential. Opt for breathable, comfortable shoes or sandals.
-+ Air-Conditioned Places: Plan some indoor activities as well. Singapore has many museums, shopping malls, and restaurants where you can escape the heat.
-+ Adaptation Time: Give yourself time to adapt to the hot and humid climate, especially if you're from a cooler country. Take it easy for the first few days.
+#### KFC must orders
 
-Remember to check the weather forecast often, as it can change rapidly. Despite the heat and humidity, you'll find that the weather won't be a barrier to enjoying what Singapore has to offer.
+In Singapore, KFC's enticing menu beckons with an array of tempting choices, perfect for satisfying diverse cravings:
 
-#### Secret way of tracking singapore weather
+<u>Original Recipe Chicken<u>
+Indulge in the timeless delight of KFC's Original Recipe, a delectable blend of 11 herbs and spices that guarantees a flavor explosion with every bite.
 
-There's no 'secret' way to track Singapore's weather, but there are several reliable sources and methods to keep updated:
-1. Meteorological Service Singapore (MSS): The MSS website provides real-time weather updates, forecasts, and other meteorological information about Singapore.
-2. Weather Apps: Numerous weather apps, such as Weather@SG, AccuWeather, or the Weather Channel, provide real-time updates and forecasts. Remember to set your location to Singapore for accurate information.
-3. National Environment Agency (NEA): NEA's website also monitors and provides updates about Singapore's weather. They also have a mobile app that provides real-time weather updates and forecasts.
-4. News Channels: Local news channels in Singapore often provide weather forecasts and updates, especially during news broadcasts.
-5. Social Media: Some weather agencies and meteorological services have social media accounts where they post regular updates.
+| ![原味雞]({{ site.baseurl }}/assets/images/kfc.jpg)
+|:--:| 
+|  *The OG chicken*  |
 
-Remember, Singapore's weather can change quickly, so it's a good idea to check the forecast regularly throughout the day. Google weather’s decent but NEA is always the best.
+<u>Zinger Burger<u>
+Spice up your meal with the Zinger Burger, where a crispy chicken fillet meets the zing of spicy mayonnaise, creating a harmonious symphony of flavors.
 
-#### Where can you find cold weather in singapore
+<u>Cheesy Mayo Slider<u>
+Experience pure joy in a compact form with the Cheesy Mayo Slider, a delightful snack that combines the richness of cheese with the creaminess of mayo.
 
-In Singapore, which is a tropical country, cold weather is not naturally occurring. However, there are several places where you can experience colder temperatures (not really…).
-+ Shopping Malls: Singapore's shopping malls, which have become an integral part of the urban landscape, are usually air-conditioned and can be quite cold. Some of the best shopping malls in Singapore are Ion Orchard, Vivocity, and Bugis Junction
-+ Switching on the Aircon: At home or in the office, turning on the air conditioning can create a colder environment
-+ Getting out of the country: Self-explanatory
+| ![芝士美乃滋滑堡]({{ site.baseurl }}/assets/images/mayo.jpg)
+|:--:| 
+|  *Mayo burger*  |
 
-Overall, Singapore's weather is known for its tropical rainforest climate, with high temperatures and humidity all year round. The rainy season mainly occurs from November to January, but it can rain at any time of the year. Singapore's weather changes rapidly, so both locals and tourists need to keep a close eye on weather forecasts. Fortunately, there are various tools and methods to track Singapore's weather, including the website of the Meteorological Service Singapore (MSS), weather apps, and the website and apps of the National Environment Agency (NEA). These sources provide real-time weather updates and forecasts, allowing people to make appropriate plans and preparations according to weather changes. Let me know your tips and tricks with Singapore’s weather.
+<u>Breakfast Twister<u>
+Kickstart your day with the Breakfast Twister, a scrumptious wrap filled with morning favorites like eggs and hash browns, ensuring a hearty and satisfying breakfast.
 
+<u>Zinger Stacker<u>
+Elevate your dining experience with the Zinger Stacker, a generous offering of multiple layers of spicy goodness, designed to satiate even the heartiest appetites.
+
+| ![Zinger]({{ site.baseurl }}/assets/images/stacker.jpg)
+|:--:| 
+|  *Zinger stacker*  |
+
+<u>Egg Tarts<u>
+Treat your sweet tooth to KFC's Egg Tarts, a heavenly dessert option that perfectly complements the savory notes of the main course.
+
+| ![Portugese]({{ site.baseurl }}/assets/images/tart.jpg)
+|:--:| 
+|  *Portuguese egg tart*  |
+
+<u>BBQ Pockett Box<u>
+Immerse yourself in a culinary adventure with the BBQ Pockett Box, a curated selection of barbecue-flavored delights, thoughtfully combined for a diverse and satisfying meal experience.
+
+| ![pocket]({{ site.baseurl }}/assets/images/pocket.jpg)
+|:--:| 
+|  *BBQ Pockett Box*  |
+
+#### Watch out for special menu items
+
+Special menu items emerge as limited-time delights that captivate taste buds with innovative twists on the fast-food giant's classic offerings. These special editions, like the Brown Sugar Boba Tea Tart and the Waffle Original Recipe Double Down, showcase KFC's commitment to culinary experimentation and responding to diverse food trends. The Brown Sugar Boba Tea Tart blends the sweetness of brown sugar with the delightful chewiness of boba pearls, creating a unique dessert experience. On the savory side, the Waffle Original Recipe Double Down elevates the iconic Double Down by sandwiching the signature Zinger fillet between two savory waffle patties. These special menu items not only cater to evolving flavor preferences but also add an element of excitement and anticipation for KFC enthusiasts in Singapore.
+
+Personally, I think KFC is alright but compared to all the other fried chicken options in Singapore, it wouldn’t be my first choice. Let me know what are your favourite KFC items and whether you visit this place in Singapore.
