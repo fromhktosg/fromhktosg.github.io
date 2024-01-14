@@ -2,7 +2,7 @@
 layout: post
 title:  "Best bak ku teh recommendations in Singapore"
 categories: [Singapore, bak ku teh, food]
-image: assets/images/bkt.jpg
+image: assets/images/BKT.jpg
 ---
 Nestled within the rich tapestry of Singapore's culinary landscape is a dish that not only tantalizes the taste buds but also echoes the island's cultural heritage - Bak Kut Teh. Translating to "meat bone tea" in Hokkien, this flavorful concoction has woven itself into the fabric of Singaporean cuisine, offering a unique and comforting experience for locals and visitors alike. In this culinary exploration, we embark on a savory journey to uncover the origins, significance, and preparation of Bak Kut Teh, as well as unveil the best spots across the Lion City to savor this aromatic delight.
 
@@ -72,6 +72,10 @@ Overview: A hidden gem that has gained a strong following, Friends Bak Kut Teh i
 
 Location: 30 South Bridge Road, #01-04, Singapore 058673
 Overview: As the name suggests, Legendary Bak Kut Teh lives up to its reputation by serving a legendary bowl of flavorful goodness. With a commitment to quality ingredients and meticulous preparation, this establishment has earned its place among the best in the Bak Kut Teh scene.
+
+| ![BKT2]({{ site.baseurl }}/assets/images/BKT2.jpg)
+|:--:| 
+|  *My typical BKT meal*  |
 
 #### How do you cook bak ku teh at home?
 
