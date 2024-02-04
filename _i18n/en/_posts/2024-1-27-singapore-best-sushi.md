@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "xx"
+title:  "Guide to Singapore's best sushi"
 categories: [Singapore, sushi, food]
 image: assets/images/sushi.jpg
 ---
