@@ -2,7 +2,7 @@
 layout: post
 title:  "Best 2024 Chinese New Year in Singapore Guide"
 categories: [Singapore, festival, shopping, chinese new year, food]
-image: assets/images/sushi.jpg
+image: assets/images/cny.jpg
 ---
 Welcome to our guide on celebrating Chinese New Year in Singapore in 2024. In this blog, we'll provide you with practical insights and essential information to make the most of this festive season in the Lion City. From traditional customs to modern celebrations, join us as we navigate the cultural richness and vibrant atmosphere that Chinese New Year brings to Singapore. Whether you're a local looking for new ways to celebrate or a visitor eager to experience the festivities, this guide aims to be your go-to resource for a meaningful and enjoyable Chinese New Year experience in Singapore. You'll discover how to best celebrate and explore the unique differences in the celebrations compared to Hong Kong. Let's dive into the heart of the celebrations and uncover the unique blend of traditions that make this time of the year truly special in Singapore.
 
@@ -103,7 +103,7 @@ Remember to check specific event schedules closer to the date for the most up-to
 
 #### Popular chinese new year goodies
 
-A couple to highlight - 
+A few to highlight - 
 + Pineapple Tarts: These bite-sized pastries with a sweet pineapple filling symbolize wealth and prosperity. They are a must-have during the festive season.
 + Kueh Bangkit: These light and fragrant coconut cookies are shaped into intricate molds and signify good luck and prosperity. They are known for their melt-in-the-mouth texture.
 + Love Letters (Kuih Kapit):
