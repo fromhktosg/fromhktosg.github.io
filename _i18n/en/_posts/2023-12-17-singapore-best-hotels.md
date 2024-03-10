@@ -30,6 +30,10 @@ When embarking on a journey and choosing a hotel, certain personal touches can m
 + Accessibility: Consider your unique needs, ensuring the hotel is not just a place to stay but one that seamlessly accommodates your journey, regardless of mobility requirements
 + Dining Options: Indulge your palate with hotels that offer more than meals — they provide a culinary journey, whether it's a sumptuous in-house restaurant, delightful room service, or a culinary adventure in the neighborhood
 
+| ![Fullerton]({{ site.baseurl }}/assets/images/fullerton.jpg)
+|:--:| 
+|  *Source - Fullerton hotel lobby*  |
+
 #### Best locations to stay in Singapore
 
 Choosing the best hotel location in Singapore depends on your preferences and the purpose of your visit. Here are some prime areas catering to different needs:

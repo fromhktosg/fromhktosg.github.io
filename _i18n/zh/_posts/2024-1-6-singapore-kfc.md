@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "新加坡肯德基 - 到處都是驚喜"
+title:  "新加坡肯德基 - 價格，推薦，驚喜"
 categories: [食物,餐廳, KFC, 美食,新加坡]
 image: assets/images/kfc.jpg
 ---
@@ -27,11 +27,19 @@ image: assets/images/kfc.jpg
 <u>原味雞<u>
 沉醉在肯德基的原味雞中，這是肯德基獨特的11種香草和香料混合，保證每一口都能爆發出美味
 
+| ![原味雞]({{ site.baseurl }}/assets/images/kfc.jpg)
+|:--:| 
+|  *原味雞*  |
+
 <u>Zinger漢堡<u>
 用Zinger漢堡為你的餐點加點辣味，其中酥脆的雞柳與辣美乃滋的刺激交相呼應，創造出一場和諧的風味交響曲
 
 <u>芝士美乃滋滑堡<u>
 用芝士美乃滋滑堡體驗純粹的喜悅，這是一種美味的小吃，將芝士的豐富口感與美乃滋的滑順口感完美結合。
+
+| ![芝士美乃滋滑堡]({{ site.baseurl }}/assets/images/mayo.jpg)
+|:--:| 
+|  *芝士美乃滋滑堡*  |
 
 <u>早餐扭結捲<u>
 用早餐扭結捲啟動你的一天，這是一種美味的捲餅，充滿了早晨的最愛，如雞蛋和土豆餅，確保豐富而令人滿足的早餐。
@@ -39,11 +47,23 @@ image: assets/images/kfc.jpg
 <u>Zinger Stacker<u>
 用Zinger Stacker提升你的用餐體驗，這是一份慷慨的多層辣味佳餚，設計用來滿足即使是最大胃口的人。
 
-<u>蛋撻<u>
+| ![Zinger]({{ site.baseurl }}/assets/images/stacker.jpg)
+|:--:| 
+|  *Zinger stacker*  |
+
+<u>葡式蛋撻<u>
 讓你的甜蜜牙齒品嚐肯德基的蛋撻，這是一種天堂般的甜點選擇，完美搭配主菜的咸味風味。
+
+| ![Portugese]({{ site.baseurl }}/assets/images/tart.jpg)
+|:--:| 
+|  *Portuguese egg tart*  |
 
 <u>BBQ Pockett Box<u>
 用BBQ Pockett Box沉浸在一場烹飪冒險中，這是一個特選的燒烤風味美食，巧妙組合，打造出豐富多樣且令人滿足的用餐體驗。
+
+| ![pocket]({{ site.baseurl }}/assets/images/pocket.jpg)
+|:--:| 
+|  *BBQ Pockett Box*  |
 
 #### 特別菜單
 特別菜單項目作為有限時間的美味佳餚，通過創新的方式呈現這家快餐巨頭的經典菜品，吸引著味蕾。這些特別版本，如黑糖珍珠奶茶撻和鬆餅原味雙層堡，展示了肯德基對烹飪實驗和應對多樣化飲食趨勢的承諾。黑糖珍珠奶茶撻結合了黑糖的甜味和珍珠奶茶的愉悅嚼勁，創造出獨特的甜點體驗。在鹹味方面，鬆餅原味雙層堡通過將標誌性的辣味扎根片夾在兩個美味的鬆餅餅片之間，提升了標誌性的Double Down。這些特別菜單項目不僅迎合了不斷變化的口味喜好，還為新加坡的肯德基愛好者增添了一份興奮和期待的元素。

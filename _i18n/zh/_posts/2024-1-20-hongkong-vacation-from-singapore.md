@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "極致5天新加坡到香港之旅"
-categories: [新加坡、旅行、香港、度假、行程、指南]
+categories: [新加坡,旅行,香港,度假,行程,指南]
 image: assets/images/hk.jpg
 ---
 
