@@ -2,7 +2,7 @@
 layout: post
 title:  "BreadTalk（麵包物語）指南 - 新加坡本地麵包店"
 categories: [Singapore, breadtalk, bread, food]
-image: assets/images/xxx.jpg
+image: assets/images/breadtalk.jpg
 ---
 歡迎來到 BreadTalk 的終極指南，這是一家本地品牌，已經發展成國際知名，對新加坡的美食界產生了深遠的影響。對許多人來說，BreadTalk 不僅僅是一家麵包店；它是人們選擇早餐的首選地點，也是購買生日蛋糕的首選之地，為特殊場合增添了愉悅的氛圍。在這次探索中，我們將深入了解 BreadTalk 的豐富歷史，揭開它所擁有的多樣化品牌，並深入探討其招牌產品的世界。BreadTalk 是物有所值的嗎？
 
