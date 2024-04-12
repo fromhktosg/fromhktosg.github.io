@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "您的老曾記個人指南 - 新加坡當地小吃聖地"
+title:  "老曾記指南 - 新加坡當地小吃聖地"
 categories: [新加坡，老曾記，餐廳，美食]
 image: assets/images/OCK.jpg
 ---
