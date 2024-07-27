@@ -52,7 +52,7 @@ Whether a Michelin-starred meal is "worth it" comes down to the individual diner
 
 Innovative European cuisines. Classic and clean flavours
 
-| ![Alma]({{ site.baseurl }}/assets/images/alma.jpg)
+| ![Alma]({{ site.baseurl }}/assets/images/Alma.jpg)
 |:--:| 
 |  *Alma*  |
 
@@ -68,7 +68,7 @@ Not my favourite given I struggle to demarcate this between whether the restaura
 
 The OG has closed but now has reopened again. Exquisite and innovative cuisine - check out the scallop skinned cheong fun in the picture. One of the best
 
-| ![whitegrass]({{ site.baseurl }}/assets/images/whitegrass.jpg)
+| ![whitegrass]({{ site.baseurl }}/assets/images/Whitegrass.jpg)
 |:--:| 
 |  *Whitegrass*  |
 
@@ -76,7 +76,7 @@ The OG has closed but now has reopened again. Exquisite and innovative cuisine -
 
 European cuisine with an Asian twist. Some of the best hors d'oeuvre I’ve had in my life
 
-| ![meta]({{ site.baseurl }}/assets/images/meta.jpg)
+| ![meta]({{ site.baseurl }}/assets/images/Meta.jpg)
 |:--:| 
 |  *Meta*  |
 
@@ -84,7 +84,7 @@ European cuisine with an Asian twist. Some of the best hors d'oeuvre I’ve had 
 
 Elevated korean fine dining. Familiar flavours but executed at a whole new level. Highly recommended
 
-| ![Naeum]({{ site.baseurl }}/assets/images/naeum.jpg)
+| ![Naeum]({{ site.baseurl }}/assets/images/Naeum.jpg)
 |:--:| 
 |  *Naeum*  |
 
