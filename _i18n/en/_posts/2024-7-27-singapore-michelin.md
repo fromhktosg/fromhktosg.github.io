@@ -84,7 +84,7 @@ European cuisine with an Asian twist. Some of the best hors d'oeuvre I’ve had 
 
 Elevated korean fine dining. Familiar flavours but executed at a whole new level. Highly recommended
 
-| ![Naeum]({{ site.baseurl }}/assets/images/Naeum.jpg)
+| ![Naeum]({{ site.baseurl }}/assets/images/naeum.jpg)
 |:--:| 
 |  *Naeum*  |
 
