@@ -2,7 +2,7 @@
 layout: post
 title:  "Reviewing Singapore Michelin guide restaurants"
 categories: [Singapore, Michelin, restaurant, food]
-image: assets/images/Naeum.jpg
+image: assets/images/naeum.jpg
 ---
 
 Singapore has firmly established itself as a global gastronomic hub, with a growing number of establishments earning the prestigious Michelin stars. As of 2023, there are 55 Michelin-starred restaurants in the city-state, including 46 one-star, 6 two-star, and 3 three-star establishments. The Michelin Guide has recognized the exceptional quality, creativity, and service that define the finest dining experiences in Singapore. Beyond the top-tier establishments, the Michelin Guide has also shone a spotlight on Singapore's vibrant hawker culture. 
@@ -84,7 +84,7 @@ European cuisine with an Asian twist. Some of the best hors d'oeuvre I’ve had 
 
 Elevated korean fine dining. Familiar flavours but executed at a whole new level. Highly recommended
 
-| ![Naeum]({{ site.baseurl }}/assets/images/Naeum.jpg)
+| ![Naeum]({{ site.baseurl }}/assets/images/naeum.jpg)
 |:--:| 
 |  *Naeum*  |
 
