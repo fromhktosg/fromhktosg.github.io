@@ -1,56 +1,59 @@
 ---
 layout: post
-title:  "Reviewing Singapore Michelin guide restaurants"
-categories: [Singapore, Michelin, restaurant, food]
+title:  "探索新加坡米其林餐飲的精彩世界"
+categories: [新加坡,米其林,新加坡,餐廳,美食]
 image: assets/images/naeum.jpg
 ---
 
-Singapore has firmly established itself as a global gastronomic hub, with a growing number of establishments earning the prestigious Michelin stars. As of 2023, there are 55 Michelin-starred restaurants in the city-state, including 46 one-star, 6 two-star, and 3 three-star establishments. The Michelin Guide has recognized the exceptional quality, creativity, and service that define the finest dining experiences in Singapore. Beyond the top-tier establishments, the Michelin Guide has also shone a spotlight on Singapore's vibrant hawker culture. 
+新加坡已經成為全球公認的美食天堂,這個小島國家的餐飲業在過去幾年裡可謂蒸蒸日上。隨著越來越多餐廳獲得了享負盛名的米其林星級殊榮,新加坡的美食地圖正在被描繪得更加精彩。 截至2023年,新加坡共有55家米其林星級餐廳,其中包括46家一星、6家二星和3家三星餐廳。這些頂級餐廳不僅展現了新加坡廚師們出色的烹飪技藝,也彰顯了這個城市蓬勃發展的飲食文化。米其林指南的評審團對每家餐廳的菜品品質、創意和服務水平都進行了嚴格的考核。能夠獲得米其林星級殊榮,無疑是對新加坡餐飲業的最高肯定。這些餐廳無一例外都提供了頂級的用餐體驗,讓食客大飽口福。
 
-The proliferation of Michelin-starred restaurants in Singapore is a testament to the city's thriving food culture and the exceptional talent of its chefs. Today, we'll explore this dynamic Michelin scene, uncovering the stories behind some of the most celebrated dining destinations in the Lion City. I’ll deliberately exclude the cheap michelin hawker places like Hill Street Tai Hwa Pork Noodle, or those who lost their stars or are now defunct (the three that come to mind are Vianney Massot, Basque kitchen or Jiang nan chun).
+小販文化也備受關注
+除了頂級餐廳,米其林指南也高度重視新加坡獨特的小販文化。這些位於美食中心或夜市的小攤販,往往提供物美價廉的美味佳餚,深受當地人和遊客的喜愛。
+米其林指南的評審團對這些小販美食進行了細緻入微的考察,最終將多家小販攤位列入指南,成為新加坡美食地圖上的亮點。這不僅提升了小販美食的知名度,也讓世界進一步了解新加坡獨特的飲食文化。
 
-#### What is the Michelin guide and what are Michelin restaurants?
+探索餐飲新天地
+無論是米其林星級餐廳,還是傳統小販美食,新加坡的餐飲業都充滿了活力和創意。作為美食愛好者,我們有幸目睹這個城市餐飲業的蓬勃發展,感受到新加坡獨特的飲食魅力。讓我們一起探索這個美食天堂,發現更多令人驚喜的餐飲新天地!
 
-The Michelin Guide has become synonymous with culinary excellence, a hallmark of fine dining that chefs and restaurateurs around the world aspire to attain. However, the origins of this prestigious guide can be traced back to a rather unexpected source – the French tire company, Michelin. In 1900, the Michelin brothers, André and Édouard, published the first edition of the Michelin Guide as a promotional tool to encourage drivers to take more road trips and, in turn, purchase more tires. The guide initially provided practical information for motorists, including maps, locations of gas stations, and recommendations for hotels and restaurants.
+#### 米其林指南的由來與影響?
 
-It wasn't until 1926 that the Michelin Guide began to focus on the culinary aspect, with the introduction of a star-rating system to distinguish exceptional dining establishments. The brothers devised a simple hierarchy – one star meant the restaurant was "very good in its category," two stars indicated it was "worth a detour," and three stars signified it was "worth a special 
-journey."
+米其林指南已經成為美食卓越的代名詞,成為全球廚師和餐廳老闆追求的標誌。然而,這份享負盛名的指南的起源卻可以追溯到一個意想不到的來源 - 法國輪胎公司米其林。
+1900年,米其林兄弟安德烈和愛德華出版了第一版米其林指南,作為一個促進駕駛者多開車旅行,從而購買更多輪胎的營銷工具。這份指南最初為機動車駕駛者提供實用信息,包括地圖、加油站位置和酒店餐廳推薦。
 
-This shift in focus transformed the Michelin Guide into a renowned authority on fine dining, with its anonymous inspectors meticulously evaluating restaurants based on the quality of ingredients, mastery of cooking techniques, and overall dining experience. As the guide expanded its coverage beyond France to include other European countries and, eventually, the United States, the Michelin star became a coveted accolade that chefs and restaurateurs aspired to earn.
-The importance of the Michelin Guide to the fine dining scene cannot be overstated. A Michelin star not only bestows prestige upon a restaurant but also has a tangible impact on its success. Establishments that receive Michelin recognition often experience a surge in demand, with diners eager to experience the exceptional cuisine that has been deemed worthy of the guide's highest honors.
+直到1926年,米其林指南才開始關注美食方面,引入了星級評分系統來區分卓越的餐飲場所。兄弟倆設計了一個簡單的等級制度 - 一星代表"在其類別中非常出色",二星代表"值得繞道而行",三星則意味著"值得特意前往"。這一重點轉移使米其林指南成為了著名的高級餐飲權威,其匿名檢查員會根據食材質量、烹飪技巧掌握和整體用餐體驗等細節對餐廳進行嚴格評估。隨著指南的覆蓋範圍從法國擴展到其他歐洲國家,最終到達美國,米其林星成為了廚師和餐廳老闆們爭相追求的殊榮。
 
-Moreover, the Michelin Guide has played a pivotal role in shaping the culinary landscape, inspiring chefs to push the boundaries of their craft and strive for culinary excellence. The guide's influence has fostered a culture of innovation and creativity, as chefs seek to create dishes that captivate the palates of Michelin inspectors and, ultimately, discerning diners.
-In the end, the Michelin Guide's journey from a humble tire company's promotional tool to the global arbiter of fine dining is a testament to the power of innovation and the enduring allure of culinary excellence. As the guide continues to evolve and expand its reach, its impact on the fine dining scene remains unparalleled, inspiring chefs and restaurateurs to reach new heights of culinary mastery.
+米其林指南對高級餐飲界的重要性是不言而喻的。米其林星不僅為餐廳帶來聲譽,也對其成功產生實際影響。獲得米其林認可的餐廳通常會迎來客流激增,食客們都迫不及待地想體驗被評為最高榮譽的卓越美食。此外,米其林指南在塑造美食格局方面也發揮了關鍵作用,激勵廚師們不斷突破自我,追求烹飪卓越。指南的影響培養了一種創新和創造力的文化,廚師們努力創造出能夠征服米其林檢查員,乃至挑剔食客的佳餚。
 
-#### Why does Singapore have so many Michelin star restaurants?
+總的來說,米其林指南從一家輪胎公司的營銷工具發展成為全球高級餐飲的仲裁者,這證明了創新的力量以及美食卓越的持久魅力。隨著指南不斷發展和擴張版圖,其對高級餐飲界的影響將繼續保持無與倫比,激勵廚師和餐廳老闆們追求更高的烹飪藝術。
 
-There are many reasons to why Singapore is littered with Michelin star restaurants?
+#### 為什麼新加坡擁有如此多的米其林星級餐廳?
 
-+ Vibrant and Diverse Culinary Scene: Singapore has a thriving food culture influenced by various cuisines including Chinese, Malay, Indian, and Peranakan. This diverse culinary landscape provides a strong foundation for exceptional dining experiences that appeal to Michelin inspectors
-+ Focus on Quality and Innovation: Restaurants in Singapore are known for their commitment to using high-quality ingredients, mastering cooking techniques, and showcasing the personality and creativity of their chefs. This attention to detail and innovation is highly valued by the Michelin Guide
-+ Supportive Ecosystem: Singapore regularly hosts food-focused events and attracts high-profile chefs, creating an environment that fosters culinary excellence. The city's status as a global financial center also supports a luxury dining scene that aligns with Michelin's criteria
-+ Michelin's Expansion Strategy: The Michelin Guide's decision to establish a presence in Singapore was influenced by the city's vibrant culinary scene and its potential to attract high-spending clientele. As the guide expanded beyond its traditional European roots, Singapore emerged as an attractive market to evaluate
-+ Commitment to Consistency and Service: Restaurants in Singapore are praised for their ability to maintain consistent quality in both food and service, which are key factors considered by Michelin inspectors. The city's focus on exceptional hospitality also contributes to its success in earning Michelin stars
-+ High willingness to pay: Rich people = larger market for expensive restaurants
+新加坡擁有如此多米其林星級餐廳的原因如下:
++ 充滿活力和多元的美食文化 - 新加坡擁有蓬勃發展的飲食文化,受到中國、馬來西亞、印度和峇峇娘惹等多種烹飪傳統的影響。這種多元的美食格局為卓越的用餐體驗奠定了堅實的基礎,吸引了米其林檢查員的青睞
++ 注重品質和創新: 新加坡的餐廳以使用優質食材、掌握精湛烹飪技巧,以及展現廚師個性和創意而聞名12。這種對細節和創新的重視,正是米其林指南所高度評價的。
++ 良好的生態系統: 新加坡定期舉辦美食相關活動,吸引了眾多知名廚師,營造了一個促進烹飪卓越的環境2。作為一個全球金融中心,新加坡也支持了一個與米其林標準相符的高端餐飲市場
++ 米其林的擴張策略: 米其林指南決定在新加坡設立分部,受到了當地充滿活力的美食文化和吸引高消費客群的潛力的影響2。隨著指南超越其傳統的歐洲根源,新加坡成為了一個理想的市場進行評估
++ 對一致性和服務的承諾: 新加坡的餐廳在食品質量和服務水平的持續性方面備受讚譽,這正是米其林檢查員重點考量的因素12。新加坡對卓越款待的關注也為其獲得米其林星級殊榮做出了貢獻。
 
-#### Why are Michelin restaurants so damn expensive?
+#### 為什麼米其林餐廳如此昂貴?
 
-There are a few key reasons why Michelin-starred restaurants in Singapore can be quite expensive:
-+ Prestige and Exclusivity: Michelin-starred restaurants are considered the pinnacle of fine dining, and this prestige and exclusivity allows them to command premium prices. Diners are often willing to pay higher prices for the Michelin-backed dining experience
-+ High-Quality Ingredients and Preparation: Michelin-starred restaurants use the finest, freshest ingredients and employ highly skilled chefs who have mastered complex cooking techniques. This level of quality and craftsmanship comes at a cost that is reflected in the menu prices
-+ Elaborate Dining Experiences: Many Michelin-starred restaurants in Singapore offer multi-course tasting menus and elaborate dining experiences that can last several hours. The time, effort, and service involved in these experiences contribute to the high prices
-+ Location and Ambiance: Restaurants located in premium areas or with stunning views and elegant decor can also charge higher prices to match the premium setting
-+ Wine Pairings: Adding wine pairings to a Michelin-starred meal can significantly increase the overall cost, as the markups on wine at these establishments can be quite high
+新加坡的米其林星級餐廳之所以如此昂貴,主要有以下幾個原因:
++ 聲譽和排他性: 米其林星級餐廳被視為高級餐飲的巔峰,這種聲譽和排他性使它們能夠收取高昂的價格。食客通常願意為米其林背書的用餐體驗支付更高的費用。
++ 優質食材和精湛烹飪: 米其林星級餐廳使用最優質、最新鮮的食材,並聘請掌握複雜烹飪技巧的高超廚師。這種品質和工藝水平的成本會反映在菜單價格上。
++ 精緻的用餐體驗: 許多新加坡的米其林星級餐廳提供多道菜的品嚐套餐和精心設計的用餐體驗,這可能持續數小時。這些體驗所需的時間、精力和服務水平都會推高價格。
++ 地理位置和環境: 位於優質地段或擁有迷人景觀和優雅裝潢的餐廳,也可能收取更高的價格以匹配其高端的環境。
++ 酒類搭配 為米其林星級餐點添加酒類搭配,也會大幅增加整體費用,因為這些餐廳的酒類價格通常較高。
 
-#### Are michelin restaurants worth it?
+總之,聲譽、優質食材和烹飪、精緻用餐體驗、優越地理位置以及昂貴的酒類搭配,都是造成新加坡米其林星級餐廳價格普遍較高的原因。不過,研究結果也表明,還有一些更加實惠的米其林推薦餐廳,如比布古曼餐廳,能以較低的成本提供米其林級別的用餐體驗。
 
-Whether a Michelin-starred meal is "worth it" comes down to the individual diner's priorities and budget. Personally, I feel most in Singapore are worth it but the lunch sets are a lot more accessible versus the full blown dinners.
+#### 米其林餐廳值得嗎?
 
-#### List of michelin places I’ve been to in singapore
+是否值得光顧米其林星級餐廳,取決於個人的優先考慮和預算。就我個人而言,我認為新加坡大多數米其林餐廳都值得一試,不過午餐套餐會比晚餐套餐更加實惠。
+
+#### 以下是我在新加坡光顧過的一些米其林餐廳
 
 <u>Alma<u>
 
-Innovative European cuisines. Classic and clean flavours
+創新的歐式料理,口味經典而清新
 
 | ![Alma]({{ site.baseurl }}/assets/images/Alma.jpg)
 |:--:| 
@@ -58,7 +61,7 @@ Innovative European cuisines. Classic and clean flavours
 
 <u>Burnt ends<u>
 
-Not my favourite given I struggle to demarcate this between whether the restaurant is an upscale steak establishment or a fine dining place
+我不太喜歡這家,因為很難判斷它是高級牛排館還是正餐餐廳
 
 | ![Burnt]({{ site.baseurl }}/assets/images/Burnt.jpg)
 |:--:| 
@@ -66,7 +69,7 @@ Not my favourite given I struggle to demarcate this between whether the restaura
 
 <u>Whitegrass<u>
 
-The OG has closed but now has reopened again. Exquisite and innovative cuisine - check out the scallop skinned cheong fun in the picture. One of the best
+這家原店已經關閉,但現已重新開業。菜品精緻創新,尤其是那道帶有干貝皮的腸粉,堪稱最佳之選
 
 | ![whitegrass]({{ site.baseurl }}/assets/images/Whitegrass.jpg)
 |:--:| 
@@ -74,7 +77,7 @@ The OG has closed but now has reopened again. Exquisite and innovative cuisine -
 
 <u>Meta<u>
 
-European cuisine with an Asian twist. Some of the best hors d'oeuvre I’ve had in my life
+融合歐式和亞洲元素的料理。這裡供應的前菜是我吃過最好的之一
 
 | ![meta]({{ site.baseurl }}/assets/images/Meta.jpg)
 |:--:| 
@@ -82,7 +85,7 @@ European cuisine with an Asian twist. Some of the best hors d'oeuvre I’ve had 
 
 <u>Nae:um<u>
 
-Elevated korean fine dining. Familiar flavours but executed at a whole new level. Highly recommended
+這家提供高級韓式料理,熟悉的口味卻以全新的方式呈現,非常值得一試
 
 | ![Naeum]({{ site.baseurl }}/assets/images/naeum.jpg)
 |:--:| 
@@ -90,7 +93,7 @@ Elevated korean fine dining. Familiar flavours but executed at a whole new level
 
 <u>Summer palace<u>
 
-Classic Cantonese cuisine. Top notch for Singapore but hard to differentiate its Michelin status versus other top Cantonese restaurants
+正宗的粵式料理,在新加坡算是頂尖水平,不過要區分它的米其林地位和其他頂級粵菜餐廳還是有些困難
 
 | ![summer]({{ site.baseurl }}/assets/images/summer.jpg)
 |:--:| 
@@ -98,10 +101,10 @@ Classic Cantonese cuisine. Top notch for Singapore but hard to differentiate its
 
 <u>Beni<u>
 
-Service was a little average but food was top-notch. Clever Japanese twists to contemporary French cooking
+服務略顯平庸,但菜品卻非常出色。將日式元素巧妙融入當代法式料理
 
 | ![beni]({{ site.baseurl }}/assets/images/beni.jpg)
 |:--:| 
 |  *Beni*  |
 
-So here you go - top Michelin recommendations all at your wallet’s disposal in Singapore. Be sure to check them out 
+總之,以上都是我在新加坡推薦的頂級米其林餐廳,供您選擇。不妨去品嘗一下,看看是否符合您的預算和口味。
