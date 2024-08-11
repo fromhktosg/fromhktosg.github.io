@@ -1,94 +1,127 @@
 ---
 layout: post
-title:  "Singapore Starbucks - unique drinks and merchandise"
-categories: [Singapore, Starbucks, restaurant, food]
-image: assets/images/shiok.jpg
+title:  "Ultimate 4-day vacation from to Bangkok from Singapore"
+categories: [Singapore, Bangkok, vacation, travel]
+image: assets/images/cw.jpg
 ---
+I just came back from Bangkok. Here are my recommendations and guide.
 
-Coffee’s a cult in today’s day and age. Personally, I don’t drink coffee (I prefer to function without caffeine) but I know one too many who can’t avoid two cups of joe a day. Today, we'll explore the Singaporean coffee scene a little, specifically at Starbucks. We'll look at when Starbucks entered the Singapore market, why it has become a beloved brand, and highlight the top items to get at Starbucks this month. 
+Embark on the ultimate four-day trip from Singapore to Bangkok, a journey that highlights the best of both vibrant cities. This blog post will delve into why Bangkok holds a special allure for Singaporeans, from its rich culture to its bustling markets and vibrant nightlife. Discover the myriad of activities Bangkok offers, including exploring ancient temples, enjoying street food, and experiencing the famous floating markets. We’ll also guide you through popular residential areas in Bangkok, perfect for those considering an extended stay. Once you arrive in Singapore, we'll take you on a tour of the city’s premier shopping destinations, showcasing the best malls that promise an unforgettable retail experience. This will be the focus of this article. Whether you're a seasoned traveler or planning your first trip, this guide will ensure you make the most of your adventure from Bangkok to Singapore.
 
-#### Singapore coffee culture
+#### Why do Singaporeans like Bangkok? 
 
-The history of coffee in Singapore is rich and intertwined with the country’s multicultural heritage. Coffee, or "kopi" as it is locally known, has been a significant part of Singaporean life for over a century.
+Here are a few reasons:
++ Affordable Prices: Everything from food to shopping is cheaper in Bangkok, making it a paradise for bargain hunters. It's almost like a holiday for your wallet.
++ Delicious Street Food: Bangkok's street food scene is legendary. Singaporeans love indulging in the variety of flavors that won’t break the bank. Who can resist a good pad thai for 50 THB ($2 SGD) or mango sticky rice for 40 THB ($1.60 SGD)?
++ Shopping Heaven: With countless markets and malls, Bangkok offers a shopping experience that makes Orchard Road seem tame. Chatuchak Weekend Market has over 15,000 stalls, and MBK Center offers seven floors of shopping. Plus, the thrill of haggling is an added bonus.
++ Vibrant Nightlife: From rooftop bars like Sky Bar at Lebua to night markets such as Rot Fai Market, Bangkok’s nightlife is dynamic and diverse. It’s a step up from the usual Clarke Quay scene, offering a mix of high-end and casual venues.
++ Rich Culture: Temples like Wat Arun and Wat Phra Kaew, along with the Grand Palace, provide a break from the usual cityscape. Cultural shows such as the Siam Niramit performance offer a glimpse into Thailand's history and traditions. It's nice to feel cultured once in a while.
++ Relaxation and Wellness: Quality spa treatments and massages are abundant. After all, a good massage in Singapore costs as much as a fancy dinner, so why not indulge?
 
-Coffee was introduced to Singapore in the early 19th century during the British colonial period. It arrived via trade routes established by the British East India Company, which facilitated the movement of goods and cultures between Europe and Southeast Asia. Initially, coffee was a luxury item enjoyed by the colonial elite.
-
-As coffee became more popular, it spread to the local population and evolved into the iconic "kopitiam" culture. Kopitiams, or traditional coffee shops, became a staple in Singaporean society. These establishments were typically run by Chinese Hainanese immigrants who adapted their coffee-making techniques to suit local tastes. Kopitiams served coffee brewed with a unique method involving a sock-like cloth filter, often mixed with condensed milk or sugar to create a strong, sweet beverage.
-
-In particular, the Nanyang coffee style emerged, characterized by the use of dark roasted beans, often roasted with sugar and margarine, to create a distinctive, robust flavor. Nanyang coffee became a beloved local variant, reflecting the blend of cultural influences that shape Singapore’s culinary landscape.
-
-#### Why do Singaporeans love coffee?
-
-Singaporeans' love for coffee can be attributed to several factors:
-
-+ Cultural Heritage: Coffee has long been an integral part of Singaporean culture, with traditional kopitiams serving as communal hubs for socializing and relaxation.
-+ Social Experience: Coffee shops, both traditional and modern, provide a social space where friends, family, and colleagues can gather, chat, and unwind.
-+ Affordability: Traditional kopi in kopitiams is affordable, making it accessible to people from all walks of life.
-+ Modern Trends: The rise of specialty coffee shops and international chains like Starbucks has introduced Singaporeans to new coffee experiences, appealing to the younger generation and coffee enthusiasts.
-+ Caffeine Boost: As in many other cultures, coffee is valued for its stimulating effects, helping Singaporeans stay alert and energized throughout their busy days. Singapore does have a hustle and bustle culture with long working hours so caffeine is essential.
-+ Quality and Craftsmanship: There is a growing appreciation for high-quality, artisanal coffee, with many seeking out well-crafted espresso drinks and single-origin beans.
-
-#### When did Starbucks enter Singapore?
-
-Starbucks made its debut in Singapore on December 14, 1996, with the opening of its first store at Liat Towers on Orchard Road. This marked the beginning of the brand's journey in the country, quickly becoming a favorite among coffee enthusiasts. Over the years, Starbucks expanded its presence across Singapore, opening numerous outlets in various locations including shopping malls, business districts, and suburban areas.
-
-The brand's success in Singapore can be attributed to its ability to adapt to local tastes while maintaining its international appeal. Starbucks introduced unique beverages and food items that catered to Singaporean preferences, such as the locally-inspired Pandan Gula Melaka Frappuccino. Additionally, Starbucks' inviting ambiance and consistent quality made it a popular spot for social gatherings, business meetings, and studying. I cannot emphasize the amount of people I see studying in Starbucks and hogging the tables with no shame. Typical Singapore things.
-
-#### Top items to get in starbucks
-
-All the international favourites are there but here are a couple unique to Singpore.
-
-<u>SHIOK-a-ccino<u>
-A local favorite that blends the rich flavors of espresso with a unique mix of ingredients, creating a uniquely indulgent coffee experience.
-
-| ![shiok]({{ site.baseurl }}/assets/images/shiok.jpg)
+| ![relax]({{ site.baseurl }}/assets/images/relax.jpg)
 |:--:| 
-|  *SHIOK-a-ccino*  |
+|  *Let's Relax Spa*  |
 
-<u>French Vanilla Mille-Feuille Oatmilk Latte<u>
-This drink combines the smooth taste of oat milk with a French vanilla flavor, inspired by the classic mille-feuille pastry.
+#### What’s there to do in Bangkok?
 
-| ![latte]({{ site.baseurl }}/assets/images/latte.jpg)
+Top Things to Do in Bangkok in My Opinion:
++ Shop at Chatuchak Weekend Market: With over 15,000 stalls, this market is a shopper’s paradise. You can find everything from clothing and accessories to home décor and antiques. Just be prepared to navigate through the crowds.
+Explore Shopping Malls: Bangkok is home to some of the most impressive malls in Asia. From the luxurious Siam Paragon to the quirky Terminal 21, there's something for every shopper. More on this later.
++ Cruise Along the Chao Phraya River: Taking a boat ride offers a unique perspective of Bangkok’s skyline. The sunset cruises are particularly enchanting, providing beautiful views of the city as it lights up for the night.
+Indulge in Street Food at Yaowarat (Chinatown): Bangkok’s Chinatown is a haven for food lovers. From savory noodles to sweet desserts, the variety and flavors are endless. Don’t miss the legendary T&K Seafood or the famous mango sticky rice.
++ Visit the Jim Thompson House: This beautifully preserved traditional Thai house is filled with antiques and art. It offers a fascinating glimpse into the life of the American entrepreneur who revitalized the Thai silk industry.
++ Relax at Lumphini Park: This large green space in the heart of the city is perfect for a leisurely stroll or a morning jog. You can also rent a paddleboat or simply enjoy people-watching in this serene environment.
+
+#### Best Areas and Hotels to Stay in Bangkok
+
+1. Siam
+
+Siam Kempinski Hotel Bangkok: Located in the heart of the shopping district, this luxury hotel offers direct access to Siam Paragon Mall. Enjoy spacious rooms and a serene garden setting.
+
+2. Sukhumvit
+
++ The Athenee Hotel: A luxury hotel blending Thai colonial architecture with modern amenities. Situated near the BTS Phloen Chit station, it provides easy access to shopping, dining, and nightlife.
++ Sindhorn Midtown Hotel: A stylish and contemporary hotel with comfortable rooms and excellent facilities, including a rooftop pool. Conveniently located near Chit Lom BTS station.
++ JW Marriott Hotel Bangkok: Located on Sukhumvit Road, this hotel offers luxurious accommodations, a rooftop pool, and multiple dining options.
+
+3. Silom
+
++ Le Meridien Bangkok: Situated in the heart of Silom, this hotel offers contemporary rooms, a stylish spa, and easy access to Patpong Night Market.
++ Shangri-La Hotel, Bangkok: Located along the Chao Phraya River, this hotel offers luxurious rooms, a riverside pool, and excellent dining options.
+
+4. Riverside
+
++ The Peninsula Bangkok: Known for its unparalleled service and beautiful river views. The hotel offers luxurious rooms, a riverside pool, and easy access to the Chao Phraya River.
++ Mandarin Oriental, Bangkok: A historic hotel renowned for its elegance and exceptional service. Enjoy stunning river views, luxurious rooms, and award-winning dining.
++ Anantara Riverside Bangkok Resort: A tropical resort offering spacious rooms, lush gardens, and multiple dining options along the Chao Phraya River.
+
+#### Best malls to visit in Bangkok
+
+<u>EmQuartier<u>
+Why Visit: Part of the EM District, EmQuartier is a modern and luxurious shopping complex featuring high-end brands, gourmet restaurants, and a beautiful rooftop garden. It also boasts a stunning Helix dining zone, offering a wide range of international cuisines in a visually impressive setting.
+
+<u>Emporium<u>
+Why Visit: Adjacent to EmQuartier, Emporium is a well-established shopping mall known for its upscale boutiques, premium brands, and excellent dining options. It also houses the Emporium Department Store, which offers a wide variety of luxury goods.
+
+<u>EmSphere<u>
+Why Visit: The newest addition to the EM District, EmSphere is trendy and hip, attracting younger crowds with its unique concept stores and entertainment options. Don't miss the Butter Bear Café, a cult favourite these days. Make sure you catch the butter bear mascot dance
+
+| ![ems]({{ site.baseurl }}/assets/images/ems.jpg)
 |:--:| 
-|  *French Vanilla Mille-Feuille Oatmilk Latte*  |
+|  *Emsphere*  |
 
-<u>Greeny Drink with Green Grape Yuzu<u>
-A refreshing beverage featuring green grapes and yuzu, offering a tangy and invigorating flavor profile.
+<u>ICONSIAM<u>
+Why Visit: ICONSIAM is a mega-mall located along the Chao Phraya River, offering a mix of luxury brands, local Thai designers, and an impressive array of dining options. It features an indoor floating market and a breathtaking riverside view, making it a destination in itself.
 
-| ![grape]({{ site.baseurl }}/assets/images/grape.jpg)
+<u>CentralWorld<u>
+Why Visit: One of the largest shopping malls in Bangkok, CentralWorld offers an extensive range of shops, from high-end fashion to electronics. The mall also features a vast selection of restaurants, an ice-skating rink, and a multiplex cinema.
+
+| ![cw]({{ site.baseurl }}/assets/images/cw.jpg)
 |:--:| 
-|  *Refreshing*  |
+|  *Central World*  |
 
-###### Food wise -
+<u>Central Embassy<u>
+Why Visit: This luxury mall is known for its sleek, modern design and exclusive brands. Central Embassy offers a curated shopping experience with high-end boutiques, gourmet dining, and the luxurious Park Hyatt Bangkok hotel connected to it.
 
-<u>Nonya Curry Chicken Prata Pie<u>
-A delightful fusion of spicy Nonya curry chicken encased in a flaky prata crust.
+<u>Siam Paragon<u>
+Why Visit: A favorite among both locals and tourists, Siam Paragon houses a vast range of international brands, a large food court, and entertainment options such as an aquarium and an IMAX theater. It’s a one-stop destination for shopping, dining, and leisure.
 
-<u>Laksa Mac and Cheese Pie<u>
-A creamy blend of mac and cheese infused with the rich, aromatic flavors of traditional laksa.
+#### Best restaurants to visit in bangkok
 
-| ![pie]({{ site.baseurl }}/assets/images/pie.jpg)
+<u>Herehai<u>
+
+Known for its authentic crab fried rice, Herehai is a favorite for its down to earth seafood dishes. Their fried rice is fragrant with huge pieces of crab meat. Their shrimp dish, fragrant with crispy garlic.
+
+| ![crab]({{ site.baseurl }}/assets/images/crab.jpg)
 |:--:| 
-|  *Pies with a local twist*  |
+|  *Herehai*  |
 
-And for all you morning people, Starbucks Singapore has a fantastic breakfast deal. $8 for a coffee and a breakfast sandwich / croissant.
+<u>Thong Smith<u>
 
-| ![breakfast]({{ site.baseurl }}/assets/images/breakfast.jpg)
+A highly recommended spot for traditional Thai cuisine, Thong Smith offers a range of classic dishes with a focus on freshness and taste. Boat noodles are superb. Get the most expensive wagyu beef option (it makes a difference). Fried bananas are a hidden secret of the place.
+
+<u>Pizza Massilia<u>
+
+A popular spot for its Italian-inspired pizzas and gourmet dishes, Pizza Massilia is known for its high-quality ingredients and cozy ambiance. All neopolitano of course.
+
+| ![mar]({{ site.baseurl }}/assets/images/mar.jpg)
 |:--:| 
-|  *What a deal*  |
+|  *Pizzzzzza*  |
 
-In addition, Starbucks offers a range of exclusive merchandise and limited-edition items that reflect local culture and add a unique touch to the Starbucks experience. One standout item is the color-changing cups, which feature designs that transform when filled with cold beverages, providing a fun and interactive way to enjoy your drink. Another popular item is the Merlion Starbucks teddy, which celebrates Singapore’s iconic Merlion statue with a cute and collectible plush toy. This special edition teddy is a favorite among both locals and tourists, offering a tangible souvenir of Singapore.
+<u>Bangkok Bold Kitchen<u>
 
-| ![merlion]({{ site.baseurl }}/assets/images/merlion.jpg)
+Known for its bold and innovative takes on traditional Thai dishes, Bangkok Bold Kitchen offers a unique dining experience with a modern twist. I love their appetizers
+
+<u>The Local<u>
+
+Offers a selection of traditional Thai dishes with a focus on local ingredients and authentic flavors, making it a popular choice for an immersive Thai dining experience. This is one of our cult favourites. The dining hall and establishment is gorgeous as well
+
+| ![local]({{ site.baseurl }}/assets/images/local.jpg)
 |:--:| 
-|  *Merlion plushie*  |
+|  *The Local*  |
 
-Starbucks Singapore also engages in exciting collaborations with well-known brands. For instance, they've partnered with Miffy, the beloved Dutch bunny character, to create limited-edition Miffy-themed merchandise. Similarly, the collaboration with LINE Friends has resulted in a range of charming products featuring characters from the popular messaging app, appealing to fans of both Starbucks and LINE.
+<u>Jodd Fairs Market<u>
 
-| ![miffy]({{ site.baseurl }}/assets/images/miffy.jpg)
-|:--:| 
-|  *Starbucks Miffy*  |
+A bustling night market offering a variety of affordable street food and snacks, Jodd Fairs Market is perfect for casual dining and experiencing local flavors. A bit touristy I have to say but worth a stroll
 
-These exclusive items not only enhance the Starbucks experience but also reflect Singapore's vibrant culture and global connections.
-
-So that’s it for today - what’s your favourite Starbucks guilty pleasure? And if you’re a hater, what other coffee ventures do you visit?
+Let us know what are your favourite go-tos in Bangkok - till next time
