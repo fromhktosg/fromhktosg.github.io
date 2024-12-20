@@ -1,127 +1,41 @@
 ---
 layout: post
-title:  "Ultimate 4-day vacation from to Bangkok from Singapore"
-categories: [Singapore, Bangkok, vacation, travel]
-image: assets/images/cw.jpg
+title:  "Mr Bean Breakfast"
+categories: [Singapore, breakfast,Mr Bean,restaurants]
+image: assets/images/bean.jpg
 ---
-I just came back from Bangkok. Here are my recommendations and guide.
+### Intro
+Walking down the bustling streets of Singapore, you can't help but stumble upon a Mr Bean outlet, the ever-popular soy milk and snack chain that's ingrained in the heart of Singaporean society. In this post, we'll delve into the rich history of Mr Bean, exploring how it started and evolved into the beloved brand it is today. We'll also examine the significant role Mr Bean plays in Singaporean society, providing nutritious and convenient options for all. You'll discover the must-try items on their menu that keep customers coming back for more. Lastly, I'll share my personal perspective on Mr Bean (it’s a bit too pricy for its quality) and highlight some worthy alternatives for those looking to explore similar options.
 
-Embark on the ultimate four-day trip from Singapore to Bangkok, a journey that highlights the best of both vibrant cities. This blog post will delve into why Bangkok holds a special allure for Singaporeans, from its rich culture to its bustling markets and vibrant nightlife. Discover the myriad of activities Bangkok offers, including exploring ancient temples, enjoying street food, and experiencing the famous floating markets. We’ll also guide you through popular residential areas in Bangkok, perfect for those considering an extended stay. Once you arrive in Singapore, we'll take you on a tour of the city’s premier shopping destinations, showcasing the best malls that promise an unforgettable retail experience. This will be the focus of this article. Whether you're a seasoned traveler or planning your first trip, this guide will ensure you make the most of your adventure from Bangkok to Singapore.
+### HIstory of mr bean
 
-#### Why do Singaporeans like Bangkok? 
+Mr Bean, a beloved food and beverage chain in Singapore, has an interesting history that dates back to 1995 when it was first established by Kang Puay Seng and Loh Jwee Poh. The brand began with a simple concept: to offer freshly made soya bean drinks and snacks in a quick-service format. Inspired by the traditional hawker-style soya milk stalls, Mr Bean modernized the offering, creating a more convenient and consistent experience. The founders saw an opportunity to bring healthier alternatives to Singapore's fast-paced environment, and their vision quickly resonated with the local population.
 
-Here are a few reasons:
-+ Affordable Prices: Everything from food to shopping is cheaper in Bangkok, making it a paradise for bargain hunters. It's almost like a holiday for your wallet.
-+ Delicious Street Food: Bangkok's street food scene is legendary. Singaporeans love indulging in the variety of flavors that won’t break the bank. Who can resist a good pad thai for 50 THB ($2 SGD) or mango sticky rice for 40 THB ($1.60 SGD)?
-+ Shopping Heaven: With countless markets and malls, Bangkok offers a shopping experience that makes Orchard Road seem tame. Chatuchak Weekend Market has over 15,000 stalls, and MBK Center offers seven floors of shopping. Plus, the thrill of haggling is an added bonus.
-+ Vibrant Nightlife: From rooftop bars like Sky Bar at Lebua to night markets such as Rot Fai Market, Bangkok’s nightlife is dynamic and diverse. It’s a step up from the usual Clarke Quay scene, offering a mix of high-end and casual venues.
-+ Rich Culture: Temples like Wat Arun and Wat Phra Kaew, along with the Grand Palace, provide a break from the usual cityscape. Cultural shows such as the Siam Niramit performance offer a glimpse into Thailand's history and traditions. It's nice to feel cultured once in a while.
-+ Relaxation and Wellness: Quality spa treatments and massages are abundant. After all, a good massage in Singapore costs as much as a fancy dinner, so why not indulge?
+### Role Mr Bean plays in Singapore society
 
-| ![relax]({{ site.baseurl }}/assets/images/relax.jpg)
-|:--:| 
-|  *Let's Relax Spa*  |
+Over the years, Mr Bean has evolved into a household name, with outlets spread across Singapore. The brand has diversified its menu, adding a wide range of soya-based beverages, pancakes, and desserts, all while maintaining its core focus on nutritious, wholesome ingredients. Its commitment to quality and innovation has helped it expand beyond Singapore’s borders, growing into a regional player. Mr Bean's blend of traditional flavors with modern convenience has solidified its place in Singapore's vibrant food culture, becoming a go-to choice for anyone looking for a quick, healthy snack or drink
 
-#### What’s there to do in Bangkok?
+### Mr bean alternatives
 
-Top Things to Do in Bangkok in My Opinion:
-+ Shop at Chatuchak Weekend Market: With over 15,000 stalls, this market is a shopper’s paradise. You can find everything from clothing and accessories to home décor and antiques. Just be prepared to navigate through the crowds.
-Explore Shopping Malls: Bangkok is home to some of the most impressive malls in Asia. From the luxurious Siam Paragon to the quirky Terminal 21, there's something for every shopper. More on this later.
-+ Cruise Along the Chao Phraya River: Taking a boat ride offers a unique perspective of Bangkok’s skyline. The sunset cruises are particularly enchanting, providing beautiful views of the city as it lights up for the night.
-Indulge in Street Food at Yaowarat (Chinatown): Bangkok’s Chinatown is a haven for food lovers. From savory noodles to sweet desserts, the variety and flavors are endless. Don’t miss the legendary T&K Seafood or the famous mango sticky rice.
-+ Visit the Jim Thompson House: This beautifully preserved traditional Thai house is filled with antiques and art. It offers a fascinating glimpse into the life of the American entrepreneur who revitalized the Thai silk industry.
-+ Relax at Lumphini Park: This large green space in the heart of the city is perfect for a leisurely stroll or a morning jog. You can also rent a paddleboat or simply enjoy people-watching in this serene environment.
+Here are some alternatives to Mr Bean for breakfast in Singapore:
 
-#### Best Areas and Hotels to Stay in Bangkok
+1. **Toast Box**: A popular choice for traditional Singaporean breakfast like kaya toast, soft-boiled eggs, and kopi (coffee), providing a nostalgic and quick meal.  
+2. **Ya Kun Kaya Toast**: Known for its iconic kaya toast and soft-boiled eggs, Ya Kun offers a comforting and familiar local breakfast.  
+3. **Fun Toast**: Offering kaya toast with a twist, Fun Toast adds variety to the traditional flavors while keeping it simple and quick.  
+4. **Heavenly Wang**: Known for its retro ambiance, Heavenly Wang serves classic local breakfast options like kaya toast and kopi, perfect for those seeking a bit of nostalgia with their meal.  
+5. **Jollibean**: Specializing in soy-based snacks, Jollibean offers a lighter, protein-packed breakfast alternative with its pancakes and soy milk.  
+6. **Hawker Centers**: For an affordable and authentic local breakfast, hawker centers provide a wide range of dishes like chee cheong fun, mee siam, and nasi lemak at unbeatable prices.
 
-1. Siam
+These options cater to Singaporeans' love for quick, convenient, and affordable breakfast meals, offering variety across traditional and modern flavors.
 
-Siam Kempinski Hotel Bangkok: Located in the heart of the shopping district, this luxury hotel offers direct access to Siam Paragon Mall. Enjoy spacious rooms and a serene garden setting.
+### What to get at mr bean
 
-2. Sukhumvit
+* **Classic Soya Milk** (from $1.60): The cornerstone of Mr Bean’s menu, made fresh daily from non-GMO soybeans. Its smooth texture and light sweetness make it a refreshing choice.  
+* **Pancakes (Red Bean or Peanut)** (from $2.00): Soft and fluffy pancakes filled with your choice of sweet red bean paste or creamy peanut butter—perfect for a light snack.  
+* **Soy Porridge** (from $2.80): A heartier option, this warm and comforting soy porridge combines soybeans with soft grains for a nutritious meal, available in both savory and sweet varieties.  
+* **Sesame Soya Milk** (from $2.20): This unique variation of soya milk has a rich, nutty flavor thanks to the addition of black sesame, giving it an extra layer of taste.  
+* **Rice Bowls** (from $5.80): A more substantial offering, these rice bowls come with toppings like tofu, vegetables, and a light soy-based sauce, blending health and taste for a fulfilling meal.
 
-+ The Athenee Hotel: A luxury hotel blending Thai colonial architecture with modern amenities. Situated near the BTS Phloen Chit station, it provides easy access to shopping, dining, and nightlife.
-+ Sindhorn Midtown Hotel: A stylish and contemporary hotel with comfortable rooms and excellent facilities, including a rooftop pool. Conveniently located near Chit Lom BTS station.
-+ JW Marriott Hotel Bangkok: Located on Sukhumvit Road, this hotel offers luxurious accommodations, a rooftop pool, and multiple dining options.
+Ultimately, I wander into Mr Bean once every month for their custard pancake. Nothing less, nothing more. It’s simple, surprisingly filling and sumptuous. 
 
-3. Silom
-
-+ Le Meridien Bangkok: Situated in the heart of Silom, this hotel offers contemporary rooms, a stylish spa, and easy access to Patpong Night Market.
-+ Shangri-La Hotel, Bangkok: Located along the Chao Phraya River, this hotel offers luxurious rooms, a riverside pool, and excellent dining options.
-
-4. Riverside
-
-+ The Peninsula Bangkok: Known for its unparalleled service and beautiful river views. The hotel offers luxurious rooms, a riverside pool, and easy access to the Chao Phraya River.
-+ Mandarin Oriental, Bangkok: A historic hotel renowned for its elegance and exceptional service. Enjoy stunning river views, luxurious rooms, and award-winning dining.
-+ Anantara Riverside Bangkok Resort: A tropical resort offering spacious rooms, lush gardens, and multiple dining options along the Chao Phraya River.
-
-#### Best malls to visit in Bangkok
-
-<u>EmQuartier<u>
-Why Visit: Part of the EM District, EmQuartier is a modern and luxurious shopping complex featuring high-end brands, gourmet restaurants, and a beautiful rooftop garden. It also boasts a stunning Helix dining zone, offering a wide range of international cuisines in a visually impressive setting.
-
-<u>Emporium<u>
-Why Visit: Adjacent to EmQuartier, Emporium is a well-established shopping mall known for its upscale boutiques, premium brands, and excellent dining options. It also houses the Emporium Department Store, which offers a wide variety of luxury goods.
-
-<u>EmSphere<u>
-Why Visit: The newest addition to the EM District, EmSphere is trendy and hip, attracting younger crowds with its unique concept stores and entertainment options. Don't miss the Butter Bear Café, a cult favourite these days. Make sure you catch the butter bear mascot dance
-
-| ![ems]({{ site.baseurl }}/assets/images/ems.jpg)
-|:--:| 
-|  *Emsphere*  |
-
-<u>ICONSIAM<u>
-Why Visit: ICONSIAM is a mega-mall located along the Chao Phraya River, offering a mix of luxury brands, local Thai designers, and an impressive array of dining options. It features an indoor floating market and a breathtaking riverside view, making it a destination in itself.
-
-<u>CentralWorld<u>
-Why Visit: One of the largest shopping malls in Bangkok, CentralWorld offers an extensive range of shops, from high-end fashion to electronics. The mall also features a vast selection of restaurants, an ice-skating rink, and a multiplex cinema.
-
-| ![cw]({{ site.baseurl }}/assets/images/cw.jpg)
-|:--:| 
-|  *Central World*  |
-
-<u>Central Embassy<u>
-Why Visit: This luxury mall is known for its sleek, modern design and exclusive brands. Central Embassy offers a curated shopping experience with high-end boutiques, gourmet dining, and the luxurious Park Hyatt Bangkok hotel connected to it.
-
-<u>Siam Paragon<u>
-Why Visit: A favorite among both locals and tourists, Siam Paragon houses a vast range of international brands, a large food court, and entertainment options such as an aquarium and an IMAX theater. It’s a one-stop destination for shopping, dining, and leisure.
-
-#### Best restaurants to visit in bangkok
-
-<u>Herehai<u>
-
-Known for its authentic crab fried rice, Herehai is a favorite for its down to earth seafood dishes. Their fried rice is fragrant with huge pieces of crab meat. Their shrimp dish, fragrant with crispy garlic.
-
-| ![crab]({{ site.baseurl }}/assets/images/crab.jpg)
-|:--:| 
-|  *Herehai*  |
-
-<u>Thong Smith<u>
-
-A highly recommended spot for traditional Thai cuisine, Thong Smith offers a range of classic dishes with a focus on freshness and taste. Boat noodles are superb. Get the most expensive wagyu beef option (it makes a difference). Fried bananas are a hidden secret of the place.
-
-<u>Pizza Massilia<u>
-
-A popular spot for its Italian-inspired pizzas and gourmet dishes, Pizza Massilia is known for its high-quality ingredients and cozy ambiance. All neopolitano of course.
-
-| ![mar]({{ site.baseurl }}/assets/images/mar.jpg)
-|:--:| 
-|  *Pizzzzzza*  |
-
-<u>Bangkok Bold Kitchen<u>
-
-Known for its bold and innovative takes on traditional Thai dishes, Bangkok Bold Kitchen offers a unique dining experience with a modern twist. I love their appetizers
-
-<u>The Local<u>
-
-Offers a selection of traditional Thai dishes with a focus on local ingredients and authentic flavors, making it a popular choice for an immersive Thai dining experience. This is one of our cult favourites. The dining hall and establishment is gorgeous as well
-
-| ![local]({{ site.baseurl }}/assets/images/local.jpg)
-|:--:| 
-|  *The Local*  |
-
-<u>Jodd Fairs Market<u>
-
-A bustling night market offering a variety of affordable street food and snacks, Jodd Fairs Market is perfect for casual dining and experiencing local flavors. A bit touristy I have to say but worth a stroll
-
-Let us know what are your favourite go-tos in Bangkok - till next time
+That being said, I find Mr Bean to be quite average. The products aren’t mind-blowing, and while they’re consistent, they don’t stand out in terms of flavor or uniqueness. However, its success is undeniable. There's a strong product-market fit, especially in Singapore, where people appreciate quick, convenient, and healthier snack options. The fact that it's affordable and accessible, combined with the local preference for soy-based products, makes Mr Bean a go-to for many despite its middle-of-the-road offerings. It may not be gourmet, but it fits right into the daily routine of busy Singaporeans. What are your favourites? Let me know

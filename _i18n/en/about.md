@@ -2,7 +2,7 @@
 layout: page
 title: About me
 permalink: "/about/"
-image: assets/images/aboutme.jpg
+image: assets/images/.jpg
 ---
 
 Welcome to my blog, From HK to SG (FHK2SG), your go-to guide for expat living in Singapore. 

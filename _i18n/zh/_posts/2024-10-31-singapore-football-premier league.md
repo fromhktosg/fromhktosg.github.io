@@ -40,7 +40,8 @@ image: assets/images/stadium.jpg
 
 <u>电视<u>
 + StarHub 和 Singtel：这两家新加坡主要的电视提供商都提供英超赛事的转播。他们提供包括直播比赛、重播和精彩片段的套餐，非常方便家庭观众。
-流媒体网站
+
+<u>流媒体网站<u>
 + StarHub TV+：为了提供更灵活的观看体验，StarHub 提供 TV+ 服务，可以在移动设备或智能电视上观看英超比赛，让球迷可以随时随地观看比赛。
 + Singtel CAST：Singtel 在其 CAST 应用上提供英超直播和重播，非常适合希望在手机、平板或笔记本电脑上观看的用户。
 MeWatch：另一个选择是 MeWatch，通过合作伙伴关系提供一些 EPL 内容，有时会展示精彩片段和独家重播。

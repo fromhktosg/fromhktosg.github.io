@@ -1,127 +1,136 @@
 ---
 layout: post
-title:  "Ultimate 4-day vacation from to Bangkok from Singapore"
-categories: [Singapore, Bangkok, vacation, travel]
-image: assets/images/cw.jpg
+title:  "Where to Catch Premier League Football in Singapore"
+categories: [Singapore, football, tv, premier league]
+image: assets/images/stadium.jpg
 ---
-I just came back from Bangkok. Here are my recommendations and guide.
+In today’s article, we’re diving into Singapore's vibrant football scene, where passion for the 
+game runs deep. We’ll explore why football, especially the English Premier League (EPL), is so 
+popular in Singapore, taking a closer look at the unique reasons locals gravitate towards this 
+league over others. We’ll also uncover which Premier League teams enjoy the most fan loyalty here, 
+from Liverpool to Manchester United, and share top spots to catch a game—whether that’s at home on 
+streaming services, at sports bars, or live TV. Let’s get into what makes Singapore’s love for 
+football so compelling.
 
-Embark on the ultimate four-day trip from Singapore to Bangkok, a journey that highlights the best of both vibrant cities. This blog post will delve into why Bangkok holds a special allure for Singaporeans, from its rich culture to its bustling markets and vibrant nightlife. Discover the myriad of activities Bangkok offers, including exploring ancient temples, enjoying street food, and experiencing the famous floating markets. We’ll also guide you through popular residential areas in Bangkok, perfect for those considering an extended stay. Once you arrive in Singapore, we'll take you on a tour of the city’s premier shopping destinations, showcasing the best malls that promise an unforgettable retail experience. This will be the focus of this article. Whether you're a seasoned traveler or planning your first trip, this guide will ensure you make the most of your adventure from Bangkok to Singapore.
+### Why do singaporeans like watching football
 
-#### Why do Singaporeans like Bangkok? 
+Singapore’s fervor for football is deeply ingrained in its history and culture, making it the 
+nation’s most popular sport. This enthusiasm dates back to the colonial era when British 
+expatriates introduced the game to Singapore. British soldiers and residents would play matches 
+that attracted local fans and soon became an accessible pastime for locals. As Singapore 
+transitioned from colony to independent nation, football only grew in significance. With the 
+launch of the Malaysia Cup in the 1970s and 1980s, football ignited a sense of national pride and 
+unity, as Singapore’s local teams competed against regional rivals. It was during this era that 
+the sport took on a new role—not just as a game, but as a platform for Singaporeans to come 
+together, cheer on their team, and build a sense of community and shared identity.
 
-Here are a few reasons:
-+ Affordable Prices: Everything from food to shopping is cheaper in Bangkok, making it a paradise for bargain hunters. It's almost like a holiday for your wallet.
-+ Delicious Street Food: Bangkok's street food scene is legendary. Singaporeans love indulging in the variety of flavors that won’t break the bank. Who can resist a good pad thai for 50 THB ($2 SGD) or mango sticky rice for 40 THB ($1.60 SGD)?
-+ Shopping Heaven: With countless markets and malls, Bangkok offers a shopping experience that makes Orchard Road seem tame. Chatuchak Weekend Market has over 15,000 stalls, and MBK Center offers seven floors of shopping. Plus, the thrill of haggling is an added bonus.
-+ Vibrant Nightlife: From rooftop bars like Sky Bar at Lebua to night markets such as Rot Fai Market, Bangkok’s nightlife is dynamic and diverse. It’s a step up from the usual Clarke Quay scene, offering a mix of high-end and casual venues.
-+ Rich Culture: Temples like Wat Arun and Wat Phra Kaew, along with the Grand Palace, provide a break from the usual cityscape. Cultural shows such as the Siam Niramit performance offer a glimpse into Thailand's history and traditions. It's nice to feel cultured once in a while.
-+ Relaxation and Wellness: Quality spa treatments and massages are abundant. After all, a good massage in Singapore costs as much as a fancy dinner, so why not indulge?
+Football is now widely considered the most popular sport in Singapore. Its popularity spans across 
+all demographics and is fueled by both local and international influences. Many Singaporeans are 
+avid fans of the English Premier League (EPL), and matches are regularly broadcast in local sports 
+bars, homes, and community venues, with major events often drawing large crowds. The Singapore 
+Premier League also plays a key role in fostering local talent and football culture, further 
+adding to the sport's appeal.
 
-| ![relax]({{ site.baseurl }}/assets/images/relax.jpg)
+Additionally, other sports like badminton and basketball are popular recreational activities, but 
+football consistently ranks at the top, both as a spectator sport and a recreational activity. 
+Football’s accessibility, with fields available across neighborhoods and schools, makes it easy 
+for people to play, and it serves as a unifying force in Singapore's multicultural society.
+
+### Why premier league over other leagues
+
+Singaporeans tend to prefer the English Premier League (EPL) over other leagues due to a mix of 
+historical ties, the league’s high entertainment value, and its accessibility. Historically, as a 
+former British colony, Singapore has long been influenced by British culture, including football, 
+and this connection fostered early interest in English football that has only grown over time. The 
+EPL itself is known for its high intensity, competitive spirit, and talent diversity, with 
+world-class players from around the globe competing, which gives the matches a global appeal. 
+Additionally, the EPL has been heavily marketed in Asia, particularly in Singapore, where it is 
+broadcast in real-time with local commentary, making it easy for fans to follow.
+
+| ![prem]({{ site.baseurl }}/assets/images/prem.jpg)
 |:--:| 
-|  *Let's Relax Spa*  |
+|  *Premier league teams*  |
 
-#### What’s there to do in Bangkok?
+###  Top premier league teams that Singaporean support
 
-Top Things to Do in Bangkok in My Opinion:
-+ Shop at Chatuchak Weekend Market: With over 15,000 stalls, this market is a shopper’s paradise. You can find everything from clothing and accessories to home décor and antiques. Just be prepared to navigate through the crowds.
-Explore Shopping Malls: Bangkok is home to some of the most impressive malls in Asia. From the luxurious Siam Paragon to the quirky Terminal 21, there's something for every shopper. More on this later.
-+ Cruise Along the Chao Phraya River: Taking a boat ride offers a unique perspective of Bangkok’s skyline. The sunset cruises are particularly enchanting, providing beautiful views of the city as it lights up for the night.
-Indulge in Street Food at Yaowarat (Chinatown): Bangkok’s Chinatown is a haven for food lovers. From savory noodles to sweet desserts, the variety and flavors are endless. Don’t miss the legendary T&K Seafood or the famous mango sticky rice.
-+ Visit the Jim Thompson House: This beautifully preserved traditional Thai house is filled with antiques and art. It offers a fascinating glimpse into the life of the American entrepreneur who revitalized the Thai silk industry.
-+ Relax at Lumphini Park: This large green space in the heart of the city is perfect for a leisurely stroll or a morning jog. You can also rent a paddleboat or simply enjoy people-watching in this serene environment.
+Here are the top Premier League teams Singaporeans support and why:
 
-#### Best Areas and Hotels to Stay in Bangkok
++ Manchester United: With a storied legacy as one of the world’s most successful clubs, Manchester 
+United captured fans worldwide, particularly during the '90s and 2000s. The club's dominance under 
+Sir Alex Ferguson, high-profile players, and global media presence have made it a fan favorite in 
+Singapore.
 
-1. Siam
++ Liverpool: Known for its passionate fan base, Liverpool’s recent resurgence, including their 
+2019–20 league title win, rekindled local support. The historic rivalry with Manchester United and 
+iconic elements like Anfield and “You’ll Never Walk Alone” anthem resonate deeply with 
+Singaporeans.
 
-Siam Kempinski Hotel Bangkok: Located in the heart of the shopping district, this luxury hotel offers direct access to Siam Paragon Mall. Enjoy spacious rooms and a serene garden setting.
++ Arsenal: Known for its attacking style, Arsenal’s legacy under Arsène Wenger, especially the 
+unbeaten “Invincibles” season in 2003–04, attracted loyal fans. Singaporeans appreciate Arsenal’s 
+focus on youth development, style of play, and resilience as a consistent top contender.
 
-2. Sukhumvit
++ Chelsea: The club’s transformation into an EPL powerhouse after significant investment brought 
+multiple titles and Champions League success. Singaporeans admire Chelsea’s modern success, 
+high-profile players, and dynamic play style, establishing it as one of the most supported teams 
+locally.
 
-+ The Athenee Hotel: A luxury hotel blending Thai colonial architecture with modern amenities. Situated near the BTS Phloen Chit station, it provides easy access to shopping, dining, and nightlife.
-+ Sindhorn Midtown Hotel: A stylish and contemporary hotel with comfortable rooms and excellent facilities, including a rooftop pool. Conveniently located near Chit Lom BTS station.
-+ JW Marriott Hotel Bangkok: Located on Sukhumvit Road, this hotel offers luxurious accommodations, a rooftop pool, and multiple dining options.
++ Manchester City: Investment in the 2010s under Sheikh Mansour transformed City into a major title contender. With Pep Guardiola’s leadership and an exciting roster of players, the club’s recent successes appeal to a new generation of Singaporeans seeking thrilling, high-quality football.
 
-3. Silom
+These teams each provide Singaporean fans with distinct rivalries, histories, and playstyles, 
+making Premier League football a beloved part of local sports culture.
 
-+ Le Meridien Bangkok: Situated in the heart of Silom, this hotel offers contemporary rooms, a stylish spa, and easy access to Patpong Night Market.
-+ Shangri-La Hotel, Bangkok: Located along the Chao Phraya River, this hotel offers luxurious rooms, a riverside pool, and excellent dining options.
+### Where do you watch premier league in Singapore
 
-4. Riverside
+If you’re in Singapore and looking to catch the Premier League, you’ve got plenty of options. 
+Here’s where you can tune in:
 
-+ The Peninsula Bangkok: Known for its unparalleled service and beautiful river views. The hotel offers luxurious rooms, a riverside pool, and easy access to the Chao Phraya River.
-+ Mandarin Oriental, Bangkok: A historic hotel renowned for its elegance and exceptional service. Enjoy stunning river views, luxurious rooms, and award-winning dining.
-+ Anantara Riverside Bangkok Resort: A tropical resort offering spacious rooms, lush gardens, and multiple dining options along the Chao Phraya River.
+<u>TV<u>
++ StarHub and Singtel: Both major TV providers in Singapore offer Premier League coverage. They 
+offer packages that include live games, replays, and highlights, making it a convenient option for 
+home viewers.  
 
-#### Best malls to visit in Bangkok
+<u>Streaming Sites<u>
++ StarHub TV+: For streaming flexibility, StarHub offers TV+ with Premier League matches on mobile devices or smart TVs, allowing fans to watch games on the go or at home.  
++ Singtel CAST: Singtel offers Premier League streaming on their CAST app, which includes live  broadcasts and replays, ideal for those wanting to stream on their phone, tablet, or laptop.  
++ MeWatch: Another option is MeWatch, which offers some EPL content via partnerships, sometimes  featuring highlights and exclusive replays.
 
-<u>EmQuartier<u>
-Why Visit: Part of the EM District, EmQuartier is a modern and luxurious shopping complex featuring high-end brands, gourmet restaurants, and a beautiful rooftop garden. It also boasts a stunning Helix dining zone, offering a wide range of international cuisines in a visually impressive setting.
+<u>Pubs<u>
++ Molly Malone’s: This Irish pub in the heart of Singapore’s CBD is a favorite among football fans, especially during big Premier League matchups.  
++ Boomarang Bistro & Bar: Located along the Singapore River, Boomarang often screens EPL games and is popular with both locals and expats.  
++ Harry’s: With multiple locations across Singapore, Harry’s is known for its sports screenings, 
+offering a relaxed environment with food and drinks for EPL nights.
 
-<u>Emporium<u>
-Why Visit: Adjacent to EmQuartier, Emporium is a well-established shopping mall known for its upscale boutiques, premium brands, and excellent dining options. It also houses the Emporium Department Store, which offers a wide variety of luxury goods.
+These venues offer options for solo viewing, gatherings with friends, or joining other fans for a 
+lively pub experience on game night. Check in with your local supporter’s club as well to see 
+where gatherings will be.
 
-<u>EmSphere<u>
-Why Visit: The newest addition to the EM District, EmSphere is trendy and hip, attracting younger crowds with its unique concept stores and entertainment options. Don't miss the Butter Bear Café, a cult favourite these days. Make sure you catch the butter bear mascot dance
+And of course, there are your regular cheeky streaming links on reddit if you want to watch a game.
 
-| ![ems]({{ site.baseurl }}/assets/images/ems.jpg)
-|:--:| 
-|  *Emsphere*  |
+### When are premier league games on?
 
-<u>ICONSIAM<u>
-Why Visit: ICONSIAM is a mega-mall located along the Chao Phraya River, offering a mix of luxury brands, local Thai designers, and an impressive array of dining options. It features an indoor floating market and a breathtaking riverside view, making it a destination in itself.
+Premier League games are typically scheduled as follows:
++ Weekends: Most matches are held on Saturdays and Sundays, with kick-off times usually around 12:30 PM, 3:00 PM, and 5:30 PM (GMT).
++ Midweek Fixtures: Occasionally, there are midweek matches on Tuesdays and Wednesdays, generally 
+starting at 7:30 PM or 8:00 PM (GMT).
++ Holiday Fixtures: The Premier League also hosts matches during the holiday season, particularly on Boxing Day (December 26\) and New Year’s Day.
++ For the most accurate and up-to-date information on specific match timings, it’s best to check the official Premier League website.
 
-<u>CentralWorld<u>
-Why Visit: One of the largest shopping malls in Bangkok, CentralWorld offers an extensive range of shops, from high-end fashion to electronics. The mall also features a vast selection of restaurants, an ice-skating rink, and a multiplex cinema.
+### What other international tournaments or leagues are there?
 
-| ![cw]({{ site.baseurl }}/assets/images/cw.jpg)
-|:--:| 
-|  *Central World*  |
+Here are some prominent international tournaments and leagues besides the Premier League:
 
-<u>Central Embassy<u>
-Why Visit: This luxury mall is known for its sleek, modern design and exclusive brands. Central Embassy offers a curated shopping experience with high-end boutiques, gourmet dining, and the luxurious Park Hyatt Bangkok hotel connected to it.
+<u>International Tournaments<u> 
++ FIFA World Cup: Held every four years, featuring national teams from around the world.  
++ UEFA European Championship (Euros): A quadrennial tournament for national teams in Europe.  
++ Copa América: The main international tournament for South American national teams, held every four years.  
++ AFC Asian Cup: The premier national team competition in Asia, occurring every four years.
 
-<u>Siam Paragon<u>
-Why Visit: A favorite among both locals and tourists, Siam Paragon houses a vast range of international brands, a large food court, and entertainment options such as an aquarium and an IMAX theater. It’s a one-stop destination for shopping, dining, and leisure.
+<u>Club Competitions<u>
 
-#### Best restaurants to visit in bangkok
++ UEFA Champions League: The top club competition in Europe, featuring the best teams from various leagues.  
++ UEFA Europa League: The secondary club competition in Europe, open to teams that do not qualify for the Champions League.  
++ Bundesliga: The top tier of German football.  
++ Serie A: The highest professional football league in Italy.  
++ La Liga: The top professional league in Spain.
 
-<u>Herehai<u>
-
-Known for its authentic crab fried rice, Herehai is a favorite for its down to earth seafood dishes. Their fried rice is fragrant with huge pieces of crab meat. Their shrimp dish, fragrant with crispy garlic.
-
-| ![crab]({{ site.baseurl }}/assets/images/crab.jpg)
-|:--:| 
-|  *Herehai*  |
-
-<u>Thong Smith<u>
-
-A highly recommended spot for traditional Thai cuisine, Thong Smith offers a range of classic dishes with a focus on freshness and taste. Boat noodles are superb. Get the most expensive wagyu beef option (it makes a difference). Fried bananas are a hidden secret of the place.
-
-<u>Pizza Massilia<u>
-
-A popular spot for its Italian-inspired pizzas and gourmet dishes, Pizza Massilia is known for its high-quality ingredients and cozy ambiance. All neopolitano of course.
-
-| ![mar]({{ site.baseurl }}/assets/images/mar.jpg)
-|:--:| 
-|  *Pizzzzzza*  |
-
-<u>Bangkok Bold Kitchen<u>
-
-Known for its bold and innovative takes on traditional Thai dishes, Bangkok Bold Kitchen offers a unique dining experience with a modern twist. I love their appetizers
-
-<u>The Local<u>
-
-Offers a selection of traditional Thai dishes with a focus on local ingredients and authentic flavors, making it a popular choice for an immersive Thai dining experience. This is one of our cult favourites. The dining hall and establishment is gorgeous as well
-
-| ![local]({{ site.baseurl }}/assets/images/local.jpg)
-|:--:| 
-|  *The Local*  |
-
-<u>Jodd Fairs Market<u>
-
-A bustling night market offering a variety of affordable street food and snacks, Jodd Fairs Market is perfect for casual dining and experiencing local flavors. A bit touristy I have to say but worth a stroll
-
-Let us know what are your favourite go-tos in Bangkok - till next time
+Happy footballing everyone.
