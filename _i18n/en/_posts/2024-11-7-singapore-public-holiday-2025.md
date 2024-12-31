@@ -4,7 +4,6 @@ title:  "Public holidays in Singapore in 2025"
 categories: [Singapore, public holidays, vacation]
 image: assets/images/hol1.jpg
 ---
-### Intro
 
 In today’s guide, we’ll dive into Singapore’s public holidays, covering not only the exact dates 
 for 2025 but also shedding light on why each religion receives equal recognition in the holiday 

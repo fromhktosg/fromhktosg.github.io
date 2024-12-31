@@ -4,7 +4,6 @@ title:  "Sentosa"
 categories: [Singapore, sentosa, vacation, travel]
 image: assets/images/cw.jpg
 ---
-**Intro**
 
 In this post, I’ll dive into all things Sentosa—its fascinating history as a former military base, 
 what makes it a standout destination, and the attractions that draw millions each year. I’ll also 
