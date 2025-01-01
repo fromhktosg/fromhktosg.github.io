@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blind boxes"
+title:  "Your guide to blind boxes and Pop Mart in Singapore"
 categories: [Singapore, blind boxes]
 image: assets/images/box.jpg
 ---

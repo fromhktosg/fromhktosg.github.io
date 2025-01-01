@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sentosa"
+title:  "Visitor's guide to Sentosa Singapore"
 categories: [Singapore, sentosa, vacation, travel]
 image: assets/images/cw.jpg
 ---

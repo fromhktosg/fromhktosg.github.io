@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "圣淘沙"
+title:  "新加坡圣淘沙游客指南"
 categories: [新加坡, 圣淘沙, 度假, 旅行]
 image: assets/images/cw.jpg
 ---

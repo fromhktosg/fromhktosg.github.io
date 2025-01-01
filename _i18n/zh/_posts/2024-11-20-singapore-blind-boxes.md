@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "盲盒"
+title:  "新加坡盲盒和泡泡玛特指南"
 categories: [新加坡, 盲盒]
-image: assets/images/cw.jpg
+image: assets/images/box.jpg
 ---
 #### **简介**
 
