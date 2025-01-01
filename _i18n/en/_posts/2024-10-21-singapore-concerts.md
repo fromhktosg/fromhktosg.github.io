@@ -2,7 +2,7 @@
 layout: post
 title:  "Concerts in Singapore"
 categories: [Singapore, concerts, tickets, music]
-image: ssets/images/concert.jpg
+image: assets/images/concert.jpg
 ---
 Earlier this year, Singapore hosted a Jay Chou concert and Andy Lau concert. These are both titans 
 in the mandarin singing world. Concerts in Singapore offer a vibrant mix of musical experiences, 
