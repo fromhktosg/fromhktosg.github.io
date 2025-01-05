@@ -2,7 +2,7 @@
 layout: post
 title:  "Guide to Singapore IB (International Baccalaureate) education"
 categories: [Singapore, education, IB, international baccalaureate]
-image: assets/images/IB.jpg
+image: assets/images/ib.jpg
 ---
 
 In an earlier post, we touched on the Singapore education system versus Hong Kong’s education system. In today’s post, we’ll discuss the International Baccalaureate (IB) program specifically. This rigorous two-year diploma program, emphasizing critical thinking and global perspectives, is now offered at leading institutions like Anglo-Chinese School (Independent) and St. Joseph's Institution International. While the IB's inquiry-based approach differs from Singapore's structured local system, both paths offer distinct challenges and opportunities for academic excellence, making the choice less about difficulty and more about finding the right educational fit. Let’s dive in.
