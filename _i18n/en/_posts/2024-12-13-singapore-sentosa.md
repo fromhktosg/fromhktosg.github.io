@@ -2,7 +2,7 @@
 layout: post
 title:  "Visitor's guide to Sentosa Singapore"
 categories: [Singapore, sentosa, vacation, travel]
-image: assets/images/cw.jpg
+image: assets/images/sent.jpg
 ---
 
 In this post, I’ll dive into all things Sentosa—its fascinating history as a former military base, 
