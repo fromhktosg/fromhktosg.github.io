@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unveiling the Pinnacle of Luxury in Singapore's Best Hotels"
+title:  "Guide to Singapore's Best Luxury Hotels"
 categories: [hotels, W, Fullerton, shangri-la, Singapore]
 image: assets/images/wroom.jpg
 ---

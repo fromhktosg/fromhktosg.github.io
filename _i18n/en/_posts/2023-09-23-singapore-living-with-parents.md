@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why do Singaporean adults still live with their parents?"
+title:  "Why do Singaporeans live with their parents?"
 categories: [living, housing, parents, Singapore]
 image: assets/images/apartment.jpg
 ---

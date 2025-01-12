@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Complete guide to the best online grocery shopping in Singapore"
+title:  "Guide to best online grocery shopping in Singapore"
 categories: [online shopping, shopping, grocery, Singapore]
 image: assets/images/butter.jpg
 ---

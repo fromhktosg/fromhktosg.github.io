@@ -111,4 +111,4 @@ time for rest and celebration. This approach helps position Singapore as a compe
 business-friendly hub in the global economy, reducing potential disruptions in the workplace while 
 still allowing for important cultural recognition.
 
-What’s your favourite holiday? Let us know. [Here] (https://fromhktosg.github.io/singapore-flights/) are our other travel recs if interested!
+What’s your favourite holiday? Let us know.

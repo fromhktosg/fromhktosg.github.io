@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hong Kong versus Singapore: same food items, different taste"
+title:  "Guide to Hong Kong versus Singapore"
 categories: [Food, hawker center, restaurants, surprise, Hong Kong, Singapore]
 image: assets/images/chasiu.jpg
 ---

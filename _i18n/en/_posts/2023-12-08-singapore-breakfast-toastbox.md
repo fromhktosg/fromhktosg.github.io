@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Comprehensive Guide to Toast Box - Singapore’s breakfast heritage"
+title:  "Guide to Toast Box - Singapore’s breakfast heritage"
 categories: [food, restaurants, cuisine, Singapore]
 image: assets/images/tbtb.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Expert guide for holiday destinations out of Singapore in 2023"
+title:  "Guide for holiday destinations out of Singapore"
 categories: [Flights, Hong Kong, Cathay Pacific, Singapore Airlines, Singapore]
 image: assets/images/plane1.jpg
 ---

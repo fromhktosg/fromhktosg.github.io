@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Singapore Starbucks - unique drinks and merchandise"
+title:  "Guid to Singapore starbucks drinks"
 categories: [Singapore, Starbucks, restaurant, food]
 image: assets/images/shiok.jpg
 ---

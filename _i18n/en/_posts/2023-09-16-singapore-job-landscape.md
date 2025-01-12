@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unlocking Opportunities: job searching guide in Singapore"
+title:  "Guide to Job Searching in Singapore"
 categories: [employment, job searching, opportunities, Singapore]
 image: assets/images/jobsearch.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Singapore PR in my first attempt! Come learn the secrets in my guide"
+title:  "Guide to Singapore PR in one attempt"
 categories: [Relocation, Immigration, PR]
 image: assets/images/sgpr.jpg
 ---

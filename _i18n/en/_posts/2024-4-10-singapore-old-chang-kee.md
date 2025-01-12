@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Your personal guide to Old Chang Kee - Singapore’s local snack spot"
+title:  "Your guide to Old Chang Kee - Singapore’s snack spot"
 categories: [Singapore, Old Chang Kee, restaurant, food]
 image: assets/images/ock.jpg
 ---
