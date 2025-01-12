@@ -5,7 +5,9 @@ categories: [Singapore, Old Chang Kee, restaurant, food]
 image: assets/images/ock.jpg
 ---
 
-Welcome to Old Chang Kee, a culinary staple in Singapore known for its delicious snacks and treats. With a rich history and enduring charm, Old Chang Kee has been satisfying cravings and delighting taste buds for decades. Join us as we explore the story behind this beloved Singaporean institution and its flavorful offerings. Discover what to order at this classic eatery and indulge in a taste of tradition
+Welcome to Old Chang Kee, a culinary staple in Singapore known for its delicious snacks and treats. With a rich history and enduring charm, Old Chang Kee has been satisfying cravings and delighting taste buds for decades.
+
+Join us as we explore the story behind this beloved Singaporean institution and its flavorful offerings. Discover what to order at this classic eatery and indulge in a taste of tradition
 
 #### History of old chang kee
 

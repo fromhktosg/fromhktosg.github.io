@@ -4,7 +4,9 @@ title:  "A Comprehensive Guide to Toast Box - Singapore’s breakfast heritage"
 categories: [food, restaurants, cuisine, Singapore]
 image: assets/images/tbtb.jpg
 ---
-In the bustling food scene of Singapore, where the fusion of flavors and culinary diversity takes center stage, there's a charming establishment that has been quietly preserving the essence of local breakfast culture since 2005 – Toast Box. Let's take a delightful journey through the history and cultural impact of this beloved café, where tradition meets the aromatic allure of freshly brewed coffee. Then, I’ll reveal my go-to options at this establishment. Let’s get started.
+In the bustling food scene of Singapore, where the fusion of flavors and culinary diversity takes center stage, there's a charming establishment that has been quietly preserving the essence of local breakfast culture since 2005 – Toast Box.
+
+Let's take a delightful journey through the history and cultural impact of this beloved café, where tradition meets the aromatic allure of freshly brewed coffee. Then, I’ll reveal my go-to options at this establishment. Let’s get started.
 
 #### History of toast box
 

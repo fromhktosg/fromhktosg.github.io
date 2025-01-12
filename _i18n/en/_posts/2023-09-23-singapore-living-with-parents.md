@@ -4,7 +4,9 @@ title:  "Why do Singaporean adults still live with their parents?"
 categories: [living, housing, parents, Singapore]
 image: assets/images/apartment.jpg
 ---
-I left my parents' home at the age of 18 when I moved to the States for college. Interestingly, most of my peers in Hong Kong, as well as my friends in Singapore, continue to live in their family homes if they remained in the same country post college graduation. Even in the case of marriage, a significant percentage of them choose to reside with their families unless they have accumulated enough resources to afford their own place. This trend is notably common in these two Asian countries, in contrast to the United States. Today, we'll delve into the phenomenon of adults living with their parents and explore its advantages and disadvantages. 
+I left my parents' home at the age of 18 when I moved to the States for college. Interestingly, most of my peers in Hong Kong, as well as my friends in Singapore, continue to live in their family homes if they remained in the same country post college graduation.
+
+Even in the case of marriage, a significant percentage of them choose to reside with their families unless they have accumulated enough resources to afford their own place. This trend is notably common in these two Asian countries, in contrast to the United States. Today, we'll delve into the phenomenon of adults living with their parents and explore its advantages and disadvantages. 
 
 #### Why do Singaporeans live with their parents?
 

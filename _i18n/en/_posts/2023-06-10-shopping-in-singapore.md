@@ -4,7 +4,9 @@ title:  "Guide to the best shopping malls in Singapore"
 categories: [Shopping, Hong Kong, Malls, Loyalty program, Singapore]
 image: assets/images/ion.jpg
 ---
-Shopping malls have become an integral part of Singapore's urban landscape, with their ubiquitous presence contributing significantly to the city's social, economic, and cultural fabric. These vast complexes have become more than mere retail destinations, but rather serve as multifaceted hubs of activity where Singaporeans can meet, shop, dine, and socialize. In this post we will delve into the critical role that shopping malls play, the popular malls in town and overall shopping strategy in Singapore. 
+Shopping malls have become an integral part of Singapore's urban landscape, with their ubiquitous presence contributing significantly to the city's social, economic, and cultural fabric.
+
+These vast complexes have become more than mere retail destinations, but rather serve as multifaceted hubs of activity where Singaporeans can meet, shop, dine, and socialize. In this post we will delve into the critical role that shopping malls play, the popular malls in town and overall shopping strategy in Singapore. 
 
 #### Why are shopping malls everywhere in Singapore
 

@@ -5,7 +5,9 @@ categories: [Singapore, breadtalk, bread, food]
 image: assets/images/breadtalk.jpg
 ---
 
-Welcome to the ultimate guide on BreadTalk, a local brand that has grown into an international presence, making a lasting impact on Singapore's food scene. To many, BreadTalk is not just a bakery; it's the go-to breakfast location and the preferred place to buy cakes for birthdays, adding a touch of delight to special occasions. In this exploration, we'll journey through the rich history of BreadTalk, unravel the diverse range of brands it owns, and delve into the world of its signature items. Is BreadTalk good value? 
+Welcome to the ultimate guide on BreadTalk, a local brand that has grown into an international presence, making a lasting impact on Singapore's food scene.
+
+To many, BreadTalk is not just a bakery; it's the go-to breakfast location and the preferred place to buy cakes for birthdays, adding a touch of delight to special occasions. In this exploration, we'll journey through the rich history of BreadTalk, unravel the diverse range of brands it owns, and delve into the world of its signature items. Is BreadTalk good value? 
 
 #### History of Breadtalk
 

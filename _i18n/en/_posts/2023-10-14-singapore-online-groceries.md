@@ -4,7 +4,9 @@ title:  "Complete guide to the best online grocery shopping in Singapore"
 categories: [online shopping, shopping, grocery, Singapore]
 image: assets/images/butter.jpg
 ---
-In my previous post, we delved into the world of Singapore's finest grocery stores and supermarkets. But let's face it, in this age of technological marvels, even the simplest tasks have evolved. Many of us have embraced the convenience of online grocery shopping, making our lives even more hassle-free. Let's embark on a journey to uncover the top online grocery options that Singapore has to offer for all us lazy people.
+In my previous post, we delved into the world of Singapore's finest grocery stores and supermarkets.
+
+But let's face it, in this age of technological marvels, even the simplest tasks have evolved. Many of us have embraced the convenience of online grocery shopping, making our lives even more hassle-free. Let's embark on a journey to uncover the top online grocery options that Singapore has to offer for all us lazy people.
 
 #### Why shop for groceries online?
 

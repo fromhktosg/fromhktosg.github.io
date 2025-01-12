@@ -30,9 +30,9 @@ image: assets/images/penthouse.jpg
 
 風濕科醫生（過敏科） - [Dr Chong Yong Yeow](https://www.rafflesmedicalgroup.com/doctor/dr-chong-yong-yeow/) (萊佛士醫院)
 
-皮膚科醫生（皮膚科） - [Dr Tan Siew Kiang](https://www.rafflesmedicalgroup.com/doctor/dr-tan-siew-kiang/) (Raffles Hospital), [Dr Tan Wei Sheng](https://www.dermatologyandco.sg/) (Dermatology and co)
+皮膚科醫生（皮膚科） - Dr Tan Siew Kiang (Raffles Hospital), [Dr Tan Wei Sheng](https://www.dermatologyandco.sg/) (Dermatology and co)
 
-心理健康輔導 - [Ms Saras Atre](https://www.rafflesmedicalgroup.com/doctor/ms-saras-atre/)（萊佛士醫院）
+心理健康輔導 - Ms Saras Atre（萊佛士醫院）
 
 手術 - [Dr Wong Kutt Sing](https://www.rafflesmedicalgroup.com/doctor/dr-wong-kutt-sing/)（萊佛士醫院）
 

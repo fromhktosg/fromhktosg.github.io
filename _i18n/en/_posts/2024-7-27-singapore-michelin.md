@@ -5,7 +5,9 @@ categories: [Singapore, Michelin, restaurant, food]
 image: assets/images/beni.jpg
 ---
 
-Singapore has firmly established itself as a global gastronomic hub, with a growing number of establishments earning the prestigious Michelin stars. As of 2023, there are 55 Michelin-starred restaurants in the city-state, including 46 one-star, 6 two-star, and 3 three-star establishments. The Michelin Guide has recognized the exceptional quality, creativity, and service that define the finest dining experiences in Singapore. Beyond the top-tier establishments, the Michelin Guide has also shone a spotlight on Singapore's vibrant hawker culture. 
+Singapore has firmly established itself as a global gastronomic hub, with a growing number of establishments earning the prestigious Michelin stars. As of 2023, there are 55 Michelin-starred restaurants in the city-state, including 46 one-star, 6 two-star, and 3 three-star establishments.
+
+The Michelin Guide has recognized the exceptional quality, creativity, and service that define the finest dining experiences in Singapore. Beyond the top-tier establishments, the Michelin Guide has also shone a spotlight on Singapore's vibrant hawker culture. 
 
 The proliferation of Michelin-starred restaurants in Singapore is a testament to the city's thriving food culture and the exceptional talent of its chefs. Today, we'll explore this dynamic Michelin scene, uncovering the stories behind some of the most celebrated dining destinations in the Lion City. I’ll deliberately exclude the cheap michelin hawker places like Hill Street Tai Hwa Pork Noodle, or those who lost their stars or are now defunct (the three that come to mind are Vianney Massot, Basque kitchen or Jiang nan chun).
 

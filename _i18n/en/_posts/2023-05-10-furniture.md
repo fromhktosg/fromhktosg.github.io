@@ -4,7 +4,9 @@ title:  "Furniture buying guide for Singapore expats and locals"
 categories: [Shopping, Furniture, Singapore]
 image: assets/images/ikea.jpg
 ---
-Looking to furnish your newly bought home? From modern designer boutiques to charming vintage stores, Singapore offers a diverse range of furniture options for every taste and budget. So, whether you're looking to furnish your new apartment, redecorate your home, or simply want to indulge in some retail therapy, here's a guide to where to buy furniture.
+Looking to furnish your newly bought home? From modern designer boutiques to charming vintage stores, Singapore offers a diverse range of furniture options for every taste and budget.
+
+So, whether you're looking to furnish your new apartment, redecorate your home, or simply want to indulge in some retail therapy, here's a guide to where to buy furniture.
 
 | ![Ikea]({{ site.baseurl }}/assets/images/ikea.jpg)
 |:--:| 

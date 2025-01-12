@@ -5,7 +5,7 @@ categories: [hotels, W, Fullerton, shangri-la, Singapore]
 image: assets/images/wroom.jpg
 ---
 
-In the resplendent panorama of Singapore's iconic skyline, a splendid tapestry of opulence and hospitality awaits the discerning traveler, promising an extraordinary sojourn like no other. Join us as we delve into the lap of luxury, exploring a curated selection of the city-state's most exquisite hotels, each boasting its unique charm and allure. Oh, and learn more about how you can snag a great hotel deal.
+Join us as we delve into the lap of luxury, exploring a curated selection of the city-state's most exquisite hotels, each boasting its unique charm and allure. Oh, and learn more about how you can snag a great hotel deal.
 
 #### Why are hotels so expensive in Singapore
 

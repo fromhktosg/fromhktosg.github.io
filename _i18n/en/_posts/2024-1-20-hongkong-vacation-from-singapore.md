@@ -4,7 +4,9 @@ title:  "Ultimate 5-day trip to Hong Kong from Singapore"
 categories: [Singapore, travel, Hong Kong, vacation, itinerary, guide]
 image: assets/images/hk.jpg
 ---
-Embark on an unforgettable journey through the bustling streets and vibrant neighborhoods of Hong Kong, a perennial favorite among Singaporeans for its captivating allure. Our ultimate 5-day travel guide invites you to discover the harmonious blend of tradition and modernity in this enchanting city where East meets West. Join us as we navigate the iconic landmarks, savor culinary delights, and dive into the cultural tapestry that defines Hong Kong. Whether you're a history enthusiast, a foodie, or a thrill-seeker, our meticulously crafted itinerary promises an immersive experience, uncovering hidden gems and must-visit spots. Get ready to explore Hong Kong like never before!
+Embark on an unforgettable journey through the bustling streets and vibrant neighborhoods of Hong Kong, a perennial favorite among Singaporeans for its captivating allure. Our ultimate 5-day travel guide invites you to discover the harmonious blend of tradition and modernity in this enchanting city where East meets West.
+
+Join us as we navigate the iconic landmarks, savor culinary delights, and dive into the cultural tapestry that defines Hong Kong. Whether you're a history enthusiast, a foodie, or a thrill-seeker, our meticulously crafted itinerary promises an immersive experience, uncovering hidden gems and must-visit spots. Get ready to explore Hong Kong like never before!
 
 #### Getting to Hong Kong
 

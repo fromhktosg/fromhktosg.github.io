@@ -4,7 +4,9 @@ title:  "Singapore McDonald's - an unexpected dining option"
 categories: [food, dining, McDonalds, Singapore]
 image: assets/images/Mcd.jpg
 ---
-I have a friend who visits their local McDonalds whenever he travels abroad. He’s not poor, but let’s just say he’s a little obnoxious and insistent. When he visited Singapore a few weeks back, he could not shut up about how high quality the McDonalds is here. With a localized menu and somewhat well-executed food items, McDonalds is seen as a medium-end eatery in SIngapore given hawker center food is cheaper (sometimes up to 50% cheaper). Today, we’ll unpack McDonalds in Singapore, why it’s such a beloved institution and how to order from McDonalds Singapore so you won’t miss out on the goodness.
+I have a friend who visits their local McDonalds whenever he travels abroad. He’s not poor, but let’s just say he’s a little obnoxious and insistent.
+
+When he visited Singapore a few weeks back, he could not shut up about how high quality the McDonalds is here. With a localized menu and somewhat well-executed food items, McDonalds is seen as a medium-end eatery in SIngapore given hawker center food is cheaper (sometimes up to 50% cheaper). Today, we’ll unpack McDonalds in Singapore, why it’s such a beloved institution and how to order from McDonalds Singapore so you won’t miss out on the goodness.
 
 McDonald's made its entry into Singapore in 1979. The first McDonald's restaurant in Singapore was opened on March 8, 1979, at Liat Towers along Orchard Road, one of the city-state's main shopping districts. The introduction of McDonald's in Singapore marked the beginning of the fast-food industry's development in the country and brought about significant changes in the local dining scene. Since then, McDonald's has expanded its presence in Singapore, opening numerous locations across the country, including standalone restaurants, outlets in shopping malls, and drive-thru locations. Today, McDonald's is a well-established and widely recognized fast-food chain in Singapore, serving a variety of menu items tailored to local tastes alongside their global offerings.
 

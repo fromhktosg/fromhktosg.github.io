@@ -4,7 +4,9 @@ title:  "Singapore PR in my first attempt! Come learn the secrets in my guide"
 categories: [Relocation, Immigration, PR]
 image: assets/images/sgpr.jpg
 ---
-Let’s begin with the obvious disclaimer - I’m not a lawyer. However, I did manage to become a Singapore permanent resident in just one attempt so I’ll be sharing my take on the application process and some tips and tricks I learnt along the way. Before you apply for your PR, do be aware of the benefits and drawbacks of living in Singapore - I cover some of this in my [last post] (https://fromhktosg.github.io/top-concerns/).
+Let’s begin with the obvious disclaimer - I’m not a lawyer. However, I did manage to become a Singapore permanent resident in just one attempt so I’ll be sharing my take on the application process and some tips and tricks I learnt along the way.
+
+Before you apply for your PR, do be aware of the benefits and drawbacks of living in Singapore - I cover some of this in my [last post] (https://fromhktosg.github.io/top-concerns/).
 
 One thing I’ll say upfront - don’t bother with immigration agencies. They’re expensive with limited upside and sell you on weird gimmicks like PR success calculators. All my friends who engaged with one regretted their decision and failed to get residency. It’s not a stat sig sample size but it’s telling. Let’s start off with the basics.
 
@@ -65,12 +67,12 @@ PR is the stepping stone to Singapore citizenship. Great for those with weak pas
 
 Two primary ones:
 
-1. PRs are subject to Re-Entry Permit ([REP](https://www.ica.gov.sg/reside/PR/apply-REP)) requirements if they wish to leave Singapore for any length of time
+1. PRs are subject to Re-Entry Permit (REP) requirements if they wish to leave Singapore for any length of time
 
     REPs are required to re-enter Singapore. They expire every 5 years, so despite PR providing a path to stay in the country on paper, REP is what really determines whether you keep your Singapore PR. Renewal factors include whether you are paying taxes, working in Singapore etc. This ensures those with PR status are actually present in and contributing to Singapore.
 
 2. National service liability
-    The true bogeyman in the room. ‘[Male applicants](https://www.ica.gov.sg/reside/PR/apply) who are granted PR status as a Foreign Student or under their parents’ sponsorship are required to register for NS upon reaching 16½ years old and will be scheduled for enlistment at the earliest opportunity upon reaching 18 years old’. Be it on a safety or best use of time standpoint, this is the main deterrent for applying to PR amongst my peer group.
+    The true bogeyman in the room. Male applicants who are granted PR status as a Foreign Student or under their parents’ sponsorship are required to register for NS upon reaching 16½ years old and will be scheduled for enlistment at the earliest opportunity upon reaching 18 years old’. Be it on a safety or best use of time standpoint, this is the main deterrent for applying to PR amongst my peer group.
 
 #### What are the factors of a successful PR applicant?
 

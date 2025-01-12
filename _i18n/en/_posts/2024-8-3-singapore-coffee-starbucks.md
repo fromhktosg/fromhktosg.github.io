@@ -5,7 +5,9 @@ categories: [Singapore, Starbucks, restaurant, food]
 image: assets/images/shiok.jpg
 ---
 
-Coffee’s a cult in today’s day and age. Personally, I don’t drink coffee (I prefer to function without caffeine) but I know one too many who can’t avoid two cups of joe a day. Today, we'll explore the Singaporean coffee scene a little, specifically at Starbucks. We'll look at when Starbucks entered the Singapore market, why it has become a beloved brand, and highlight the top items to get at Starbucks this month. 
+Today, we'll explore the Singaporean coffee scene a little, specifically at Starbucks. We'll look at when Starbucks entered the Singapore market, why it has become a beloved brand, and highlight the top items to get at Starbucks this month. 
+
+Coffee’s a cult in today’s day and age. Personally, I don’t drink coffee (I prefer to function without caffeine) but I know one too many who can’t avoid two cups of joe a day. 
 
 #### Singapore coffee culture
 

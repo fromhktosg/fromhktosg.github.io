@@ -4,7 +4,9 @@ title:  "Best bak ku teh recommendations in Singapore"
 categories: [Singapore, bak ku teh, food]
 image: assets/images/BKT.jpg
 ---
-Nestled within the rich tapestry of Singapore's culinary landscape is a dish that not only tantalizes the taste buds but also echoes the island's cultural heritage - Bak Kut Teh. Translating to "meat bone tea" in Hokkien, this flavorful concoction has woven itself into the fabric of Singaporean cuisine, offering a unique and comforting experience for locals and visitors alike. In this culinary exploration, we embark on a savory journey to uncover the origins, significance, and preparation of Bak Kut Teh, as well as unveil the best spots across the Lion City to savor this aromatic delight.
+Nestled within the rich tapestry of Singapore's culinary landscape is a dish that not only tantalizes the taste buds but also echoes the island's cultural heritage - Bak Kut Teh.
+
+Translating to "meat bone tea" in Hokkien, this flavorful concoction has woven itself into the fabric of Singaporean cuisine, offering a unique and comforting experience for locals and visitors alike. In this culinary exploration, we embark on a savory journey to uncover the origins, significance, and preparation of Bak Kut Teh, as well as unveil the best spots across the Lion City to savor this aromatic delight.
 
 #### What is bak ku teh
 

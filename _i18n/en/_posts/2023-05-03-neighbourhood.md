@@ -4,7 +4,9 @@ title:  "Guide to the best Singapore neighbourhoods to live in"
 categories: [Neighbourhoods, Living, Housing, Singapore]
 image: assets/images/skyline.jpg
 ---
-Singapore is a bustling city-state with a diverse range of neighborhoods, each with its own unique features and attractions. Whether you're a family with children, a young professional, or a retiree, there's a neighborhood in Singapore that's perfect for you. In this guide, we'll take a look at the best neighborhoods to live in Singapore, what makes them stand out, and why they're great places to call home. We’ll take an expat lens to this article given we’re assuming locals are already living in their existing family homes.
+Singapore is a bustling city-state with a diverse range of neighborhoods, each with its own unique features and attractions. Whether you're a family with children, a young professional, or a retiree, there's a neighborhood in Singapore that's perfect for you.
+
+In this guide, we'll take a look at the best neighborhoods to live in Singapore, what makes them stand out, and why they're great places to call home. We’ll take an expat lens to this article given we’re assuming locals are already living in their existing family homes.
 
 | ![skyline]({{ site.baseurl }}/assets/images/skyline.jpg)
 |:--:| 

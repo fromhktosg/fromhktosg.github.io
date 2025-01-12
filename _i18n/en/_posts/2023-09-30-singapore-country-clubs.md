@@ -4,7 +4,9 @@ title:  "Should I join a Singapore country club?"
 categories: [country clubs, luxury, Singapore]
 image: assets/images/club.jpg
 ---
-I played tennis at the [Capella](https://fromhktosg.github.io/singapore-best-hotels/) a couple weeks back. Whilst it isn’t a country club, the establishment in its grandeur and luxury sure felt like one. Having personally experienced the allure of country clubs while being part of one in Hong Kong, I was naturally drawn to explore what Singapore's country clubs have to offer. Today, we’ll unpack a little about country clubs, including the verdant landscapes and luxurious amenities and weighing the question on everyone's mind: Are they worth it? Join me as we unravel the world of Singaporean country clubs and discover whether these exclusive enclaves truly live up to their reputation.
+I played tennis at the [Capella](https://fromhktosg.github.io/singapore-best-hotels/) a couple weeks back. Whilst it isn’t a country club, the establishment in its grandeur and luxury sure felt like one.
+
+Having personally experienced the allure of country clubs while being part of one in Hong Kong, I was naturally drawn to explore what Singapore's country clubs have to offer. Today, we’ll unpack a little about country clubs, including the verdant landscapes and luxurious amenities and weighing the question on everyone's mind: Are they worth it? Join me as we unravel the world of Singaporean country clubs and discover whether these exclusive enclaves truly live up to their reputation.
 
 #### What are the 5 C’s that all Singaporeans revere?
 

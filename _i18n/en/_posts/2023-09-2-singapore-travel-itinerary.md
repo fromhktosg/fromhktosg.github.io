@@ -5,9 +5,9 @@ categories: [expat, tourists, itinerary, Singapore]
 image: assets/images/travel.jpg
 ---
 
-Apologies for the gaps in posts - things have been hectic over the last month, and with the introduction of our Chinese language posts, I simply haven't had the time to post new content. However, we are now back!
+A few of my friends have been visiting Singapore and have asked me to create an itinerary for them. Many ask whether there are things to do in Singapore.
 
-A few of my friends have been visiting Singapore and have asked me to create an itinerary for them. Many ask whether there are things to do in Singapore. The answer is yes and no. Singapore is a small but mighty city-state that offers a world of experiences within its compact borders. Despite its size, this dynamic metropolis is packed with iconic landmarks, cultural enclaves, stunning gardens, delectable cuisine, and much more. Overall, I recommend 3 days as the optimal amount of time to spend in Singapore. Anything more and you’ll be struggling to find things to do. Here's the itinerary below. Note - we’ll save a more in-depth restaurant / bars guide for another time.
+The answer is yes and no. Singapore is a small but mighty city-state that offers a world of experiences within its compact borders. Despite its size, this dynamic metropolis is packed with iconic landmarks, cultural enclaves, stunning gardens, delectable cuisine, and much more. Overall, I recommend 3 days as the optimal amount of time to spend in Singapore. Anything more and you’ll be struggling to find things to do. Here's the itinerary below. Note - we’ll save a more in-depth restaurant / bars guide for another time.
 
 #### Day 1:
 

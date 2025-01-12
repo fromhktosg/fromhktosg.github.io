@@ -4,7 +4,9 @@ title:  "Wedding 101: How to avoid wedding photo scams"
 categories: [wedding, wedding photos, marriage, Singapore]
 image: assets/images/wedding.jpg
 ---
-In recent years, the institution of marriage has undergone significant changes in Singapore, reflecting shifting societal values, economic factors, and individual choices. While marriage remains a vital aspect of Singaporean culture, it's worth examining the trends and factors that have shaped the current landscape. Heads-up, marriage is not for everyone. Some even think it’s a scam. This isn’t an article about why you should or should not get married. By all means, do whatever that works for you. However, we will discuss how marriage has been shifting in Singapore, as well as what you should look out for when taking your wedding photos. In that regard, we are here to make sure you don’t get scammed by pesky wedding photographers.
+In recent years, the institution of marriage has undergone significant changes in Singapore, reflecting shifting societal values, economic factors, and individual choices.
+
+While marriage remains a vital aspect of Singaporean culture, it's worth examining the trends and factors that have shaped the current landscape. Heads-up, marriage is not for everyone. Some even think it’s a scam. This isn’t an article about why you should or should not get married. By all means, do whatever that works for you. However, we will discuss how marriage has been shifting in Singapore, as well as what you should look out for when taking your wedding photos. In that regard, we are here to make sure you don’t get scammed by pesky wedding photographers.
 
 #### Let’s begin with the shifts in the marriage landscape
 

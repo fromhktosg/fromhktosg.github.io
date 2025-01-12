@@ -4,7 +4,9 @@ title:  "Singapore weather and secrets to tracking it"
 categories: [Singapore, weather, rain]
 image: assets/images/weather.jpg
 ---
-In the heart of Southeast Asia lies the island city-state of Singapore, known for its bustling city life and rich cultural diversity. But there's one more thing that's constant in Singapore - its tropical climate. Located just a stone's throw from the equator, Singapore experiences warm weather all year round, interspersed with sudden bursts of rainfall. In this blog post, we'll explore Singapore's climate and weather patterns, and how it shapes the daily lives of its residents. Whether you're a new resident, a long-time local, or a potential tourist, this guide will help you understand and navigate Singapore's unique weather conditions. So, let's dive right in!
+In the heart of Southeast Asia lies the island city-state of Singapore, known for its bustling city life and rich cultural diversity. But there's one more thing that's constant in Singapore - its tropical climate.
+
+Located just a stone's throw from the equator, Singapore experiences warm weather all year round, interspersed with sudden bursts of rainfall. In this blog post, we'll explore Singapore's climate and weather patterns, and how it shapes the daily lives of its residents. Whether you're a new resident, a long-time local, or a potential tourist, this guide will help you understand and navigate Singapore's unique weather conditions. So, let's dive right in!
 
 #### What is singapore’s weather and why is it the way it is
 

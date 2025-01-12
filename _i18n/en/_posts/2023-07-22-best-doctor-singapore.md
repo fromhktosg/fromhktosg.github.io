@@ -31,9 +31,9 @@ All of the ones I went to are subpar but Raffles hospital is the best of the lot
 
 + Rheumatologist (allergies) - [Dr Chong Yong Yeow](https://www.rafflesmedicalgroup.com/doctor/dr-chong-yong-yeow/) (Raffles Hospital)
 
-+ Dermatologist (skin) - [Dr Tan Siew Kiang](https://www.rafflesmedicalgroup.com/doctor/dr-tan-siew-kiang/) (Raffles Hospital), [Dr Tan Wei Sheng](https://www.dermatologyandco.sg/) (Dermatology and co)
++ Dermatologist (skin) - Dr Tan Siew Kiang (Raffles Hospital), [Dr Tan Wei Sheng](https://www.dermatologyandco.sg/) (Dermatology and co)
 
-+ Counseling (mental health) - [Ms Saras Atre](https://www.rafflesmedicalgroup.com/doctor/ms-saras-atre/) (Raffles Hospital)
++ Counseling (mental health) - Ms Saras Atre (Raffles Hospital)
 
 + Surgery / Colorectal - [Dr Wong Kutt Sing](https://www.rafflesmedicalgroup.com/doctor/dr-wong-kutt-sing/) (Raffles hospital) 
 

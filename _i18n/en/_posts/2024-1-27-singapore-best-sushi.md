@@ -4,7 +4,9 @@ title:  "Guide to Singapore's best sushi"
 categories: [Singapore, sushi, food]
 image: assets/images/sushi.jpg
 ---
-Welcome people. Today, we're delving into the fascinating world of sushi in Singapore, including a look at sushi's history in Singapore, why sushi is pricy on this island, the bustling landscape of sushi joints in Singapore and my personal recommendations and blacklist. Whether you're a seasoned sushi lover or just starting your culinary adventure, this is your ultimate guide.Join us as we explore sushi in Singapore, answering questions, sharing insights, and providing recommendations for an unforgettable culinary experience.
+Welcome people. Today, we're delving into the fascinating world of sushi in Singapore, including a look at sushi's history in Singapore, why sushi is pricy on this island, the bustling landscape of sushi joints in Singapore and my personal recommendations and blacklist.
+
+Whether you're a seasoned sushi lover or just starting your culinary adventure, this is your ultimate guide.Join us as we explore sushi in Singapore, answering questions, sharing insights, and providing recommendations for an unforgettable culinary experience.
 
 #### How sushi was brought into singapore
 

@@ -5,7 +5,9 @@ categories: [Sports, Country club, facilities, Hong Kong, Singapore]
 image: assets/images/sports.jpg
 ---
 
-In an earlier article, we discussed the lack of things to do in Singapore. Well, one activity that many locals engage in is sports. Sports facilities in a nation showcase its commitment to promoting health and well-being, investing in infrastructure development, nurturing a sporting culture, and fostering community engagement and social inclusion. Today, we will delve into sports facilities in Singapore, exploring their purpose, accessibility for the public and private sectors, and the top venues available.
+In an earlier article, we discussed the lack of things to do in Singapore. Well, one activity that many locals engage in is sports.
+
+Sports facilities in a nation showcase its commitment to promoting health and well-being, investing in infrastructure development, nurturing a sporting culture, and fostering community engagement and social inclusion. Today, we will delve into sports facilities in Singapore, exploring their purpose, accessibility for the public and private sectors, and the top venues available.
 
 #### Singapore's Commitment to Sports
 

@@ -4,7 +4,9 @@ title:  "Top restaurants in Singapore by cuisine"
 categories: [food, restaurants, cuisine, Singapore]
 image: assets/images/korean.jpg
 ---
-Lately, I've been receiving numerous questions about the culinary scene in Singapore and my favorite go-to restaurants. I've always considered myself someone with a refined palate, and I've never quite found satisfaction in the recommendations from Google Maps, local Singaporeans, or local food blogs and YouTube channels. Therefore, I've made the decision to curate my own list for all you epicureans out there.
+Lately, I've been receiving numerous questions about the culinary scene in Singapore and my favorite go-to restaurants.
+
+I've always considered myself someone with a refined palate, and I've never quite found satisfaction in the recommendations from Google Maps, local Singaporeans, or local food blogs and YouTube channels. Therefore, I've made the decision to curate my own list for all you epicureans out there.
 
 #### Some ground rules
 

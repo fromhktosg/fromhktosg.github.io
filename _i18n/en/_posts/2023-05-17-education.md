@@ -4,7 +4,9 @@ title:  "2023 education review: Hong Kong vs. Singapore - who is on top?"
 categories: [Education, Academics, Singapore]
 image: assets/images/school.jpg
 ---
-I have vivid memories of my post-school hours in Hong Kong, where I would slug myself from schools to various tuition centers, immersing myself in a whirlwind of enrichment education. Why? I felt pressured to get ahead of the school curve and be top of the assessment syllabi. It wasn’t my parents who gave me this pressure. It was pressure put on myself.
+I have vivid memories of my post-school hours in Hong Kong, where I would slug myself from schools to various tuition centers, immersing myself in a whirlwind of enrichment education.
+
+Why? I felt pressured to get ahead of the school curve and be top of the assessment syllabi. It wasn’t my parents who gave me this pressure. It was pressure put on myself.
 
 Education in both Hong Kong and Singapore is seen as a key to success and upward mobility given the emphasis on hard work and achievement. As such, their education systems have been developed to ensure that their citizens are equipped with the necessary skills to compete in the global market. However, while both countries' education systems have similarities, there are also significant differences in terms of their structure, curriculum, and teaching methods. Today, we’ll unpack the education in Singapore. We’ll save the discussions on enrichment education for another time.
 
