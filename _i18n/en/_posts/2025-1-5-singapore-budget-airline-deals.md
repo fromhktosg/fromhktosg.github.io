@@ -144,4 +144,5 @@ While budget airlines remain generally safe, passengers should stay informed abo
 
 ### Should you fly on budget airlines?
 
-My golden rule is any flight above 6 hours, I’m not flying budget. I’m just too old for an uncomfy seat and when I go on vacation, I want to make sure I enjoy the whole journey. Let me know if you guys have any preferences
+My golden rule is any flight above 6 hours, I’m not flying budget. I’m just too old for an uncomfy seat and when I go on vacation, I want to make sure I enjoy the whole journey. Let me know if you guys have any preferences. [Here] (https://fromhktosg.github.io/singapore-flights/) are our other travel recs if interested!
+

@@ -5,7 +5,7 @@ categories: [Singapore, holiday, chinese new year, CNY 2025]
 image: assets/images/cny2025.jpg
 ---
 
-Chinese New Year is one of the most widely celebrated festivals in Singapore, reflecting the country's rich cultural heritage and deep-rooted traditions—because what better way to start the year than with weeks of feasting and fireworks? Marking the beginning of the lunar calendar, this festive occasion is a time for family reunions, vibrant decorations, and joyous celebrations (and perhaps a little competition over who gives the best red packets). With Singapore's diverse population, Chinese New Year is a key highlight in the nation's calendar, offering a blend of cultural practices and modern festivities that are almost impossible to escape. Let's unpack Singapore 2025 Chinese New Year.
+Chinese New Year is one of the most widely celebrated festivals in Singapore, reflecting the country's rich cultural heritage and deep-rooted traditions—because what better way to start the year than with weeks of feasting and fireworks? Marking the beginning of the lunar calendar, this festive occasion is a time for family reunions, vibrant decorations, and joyous celebrations (and perhaps a little competition over who gives the best red packets). With Singapore's diverse population, Chinese New Year is a key highlight in the nation's calendar, offering a blend of cultural practices and modern festivities that are almost impossible to escape. Let's unpack Singapore 2025 Chinese New Year. [Here's] (https://fromhktosg.github.io/singapore-chinese-new-year) our 2024 guide in case you missed anything!
 
 ### How do public holidays look like in 2025?
 

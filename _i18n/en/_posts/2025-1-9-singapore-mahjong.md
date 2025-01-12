@@ -196,4 +196,4 @@ Disney Mahjong Set
 + Availability: Released in collaboration with Disney Stores or regional campaigns.
 + Price: S$200–S$500.
 
-Happy mahjonging!
+Happy mahjonging! Enjoy in Chinese new year [2025](https://fromhktosg.github.io/singapore-chinese-new-year-2025-CNY/)!

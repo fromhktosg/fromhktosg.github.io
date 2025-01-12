@@ -90,4 +90,4 @@ Hougang, in the northeastern region, is known for its affordability and numerous
 
 These neighborhoods offer various housing options, amenities, and a sense of community, making them attractive choices for young married couples in Singapore. The ideal choice depends on factors like budget, lifestyle preferences, and proximity to workplaces and family. As you can see, none of these locations are central or sexy. But hey, they’re practical and works for young families.
 
-Have you considered moving out or already moved out? Let me know. Don’t forget to subscribe to see more content like this.
+Have you considered moving out or already moved out? Let me know. Don’t forget to subscribe to see more content like this. If you want to know what's a good neighbourhood to be in, [here](https://fromhktosg.github.io/neighbourhood/) you go!

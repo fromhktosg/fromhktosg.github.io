@@ -105,4 +105,4 @@ Burger King offers its own version of prosperity burgers, featuring flame-grille
 
 These fast-food chains provide a variety of festive options during Chinese New Year, allowing you to enjoy seasonal flavors and exclusive merchandise beyond McDonald's offerings.
 
-Happy munching for CNY!
+Happy munching for CNY! Here's what we love in the evergreen [McDonald's](https://fromhktosg.github.io/singapore-mcdonalds/) menu!

@@ -56,4 +56,4 @@ These signature items showcase BreadTalk's commitment to pushing culinary bounda
 
 Depends on who you are. In my opinion, I find BreadTalk to be on the expensive side, and I believe that the quality of ingredients and the level of artistry in their creations may not fully justify the higher prices. Breads, cakes and pastries are all average. I’d rather visit my local bakery or Paris Baguette instead (which is higher price but way higher quality). 
 
-Let me know what are your favourites for BreadTalk in case I missed anything.
+Let me know what are your favourites for BreadTalk in case I missed anything. Learn more about [Toastbox] (https://fromhktosg.github.io/singapore-breakfast-toastbox/) too, a similar delight!

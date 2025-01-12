@@ -124,4 +124,4 @@ Offers a selection of traditional Thai dishes with a focus on local ingredients 
 
 A bustling night market offering a variety of affordable street food and snacks, Jodd Fairs Market is perfect for casual dining and experiencing local flavors. A bit touristy I have to say but worth a stroll
 
-Let us know what are your favourite go-tos in Bangkok - till next time
+Let us know what are your favourite go-tos in Bangkok - till next time. [Here] (https://fromhktosg.github.io/singapore-flights/) are our other travel recs if interested!

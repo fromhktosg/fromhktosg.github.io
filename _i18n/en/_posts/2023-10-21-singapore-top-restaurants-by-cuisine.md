@@ -104,4 +104,4 @@ There are plenty of korean food places along the Tanjong Pagar stretch, and they
 |:--:| 
 |  *Obba Jajang's signature Jjampong and jjangmyeon. Yum*  |
 
-Singapore’s a culinary haven with lots of options. I hope my go-tos help you narrow down on food establishments that are of the best value. Let me know what your go-tos are - I’d love to shore up my list. 
+Singapore’s a culinary haven with lots of options. I hope my go-tos help you narrow down on food establishments that are of the best value. Let me know what your go-tos are - I’d love to shore up my list. If interested, [here's] (https://fromhktosg.github.io/singapore-michelin/) my Michelin recommendations

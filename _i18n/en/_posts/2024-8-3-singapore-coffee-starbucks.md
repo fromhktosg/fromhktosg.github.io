@@ -91,4 +91,4 @@ Starbucks Singapore also engages in exciting collaborations with well-known bran
 
 These exclusive items not only enhance the Starbucks experience but also reflect Singapore's vibrant culture and global connections.
 
-So that’s it for today - what’s your favourite Starbucks guilty pleasure? And if you’re a hater, what other coffee ventures do you visit?
+So that’s it for today - what’s your favourite Starbucks guilty pleasure? And if you’re a hater, what other coffee ventures do you visit? If you're feeling some Kopi instead, check out [Toastbox] (https://fromhktosg.github.io/singapore-breakfast-toastbox/)!

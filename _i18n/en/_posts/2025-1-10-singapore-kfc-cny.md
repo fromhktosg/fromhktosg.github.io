@@ -62,4 +62,4 @@ KFC Singapore’s collaboration with Mofusand is a great example of how modern b
 
 KFC’s limited-edition Mofusand merchandise is available for a limited time, so if you want to snag one of these exclusive items, be sure to head over to your nearest KFC or order online before they’re gone. This collaboration proves that even in the world of fast food, there’s room for a little extra cuteness, making your Chinese New Year celebrations even more special.
 
-Happy KFC-ing!
+Happy KFC-ing! [Here's] (https://fromhktosg.github.io/singapore-mcdonalds-cny/) our McDonald's recommendations in case you prefer!

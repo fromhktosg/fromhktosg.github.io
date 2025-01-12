@@ -59,7 +59,7 @@ Singapore offers a wide range of hotel options to suit various preferences and b
 
 <u>5 stars<u>
 
-Luxury
+[Luxury](https://fromhktosg.github.io/singapore-best-hotels/)
 + Marina Bay Sands
 + The Ritz-Carlton, Millenia Singapore
 + The Fullerton Bay Hotel

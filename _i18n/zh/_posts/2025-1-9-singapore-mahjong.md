@@ -164,5 +164,5 @@ Marvel主题麻将套装
 + 发行情况：与迪士尼商店或区域性活动合作发售。
 + 价格：S$200–S$500。
 
-祝大家麻将玩得开心！
+祝大家麻将玩得开心！在[2025年春节](https://fromhktosg.github.io/zh/singapore-chinese-new-year/)尽情享受吧！
 

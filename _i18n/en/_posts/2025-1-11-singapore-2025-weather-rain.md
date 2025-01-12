@@ -5,7 +5,7 @@ categories: [Singapore, weather, rain, fires]
 image: assets/images/rain2.jpg
 ---
 
-It seems like the weather in Singapore can't decide if it's sunny or monsoon season – but that's just another day in the tropical paradise, right? In this article, we'll dive into the frequent rain, why it feels like we live in a sauna, and how to keep track of the forecast without consulting a crystal ball. Meanwhile, we'll take a peek at global weather chaos, from wildfires in LA to what the future holds for both Singapore's unpredictable skies and the planet's increasingly bizarre climate.
+It seems like the [weather](https://fromhktosg.github.io/singapore-weather/) in Singapore can't decide if it's sunny or monsoon season – but that's just another day in the tropical paradise, right? In this article, we'll dive into the frequent rain, why it feels like we live in a sauna, and how to keep track of the forecast without consulting a crystal ball. Meanwhile, we'll take a peek at global weather chaos, from wildfires in LA to what the future holds for both Singapore's unpredictable skies and the planet's increasingly bizarre climate.
 
 ### Why is it raining so much in Singapore?
 

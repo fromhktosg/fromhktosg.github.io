@@ -104,4 +104,4 @@ Service was a little average but food was top-notch. Clever Japanese twists to c
 |:--:| 
 |  *Beni*  |
 
-So here you go - top Michelin recommendations all at your wallet’s disposal in Singapore. Be sure to check them out 
+So here you go - top Michelin recommendations all at your wallet’s disposal in Singapore. Be sure to check them out. [Here's] (https://fromhktosg.github.io/singapore-top-restaurants-by-cuisine/) our top restaurant list if interested! 

@@ -65,4 +65,4 @@ International Schools: International schools also perform well but generally hav
 + NPS International School: Average score of 38.1 points.
 + Many international schools cater to a broader range of students, including those new to the IB curriculum, which may impact average scores.
 
-Personally, I’d recommend IB as a way to shift away from the harsher local curriculum and to have a more recognized gateway into international. Let me know what you guys think though
+Personally, I’d recommend IB as a way to shift away from the harsher local curriculum and to have a more recognized gateway into international. Let me know what you guys think though. [Here's] (https://fromhktosg.github.io/education/) our earlier evaluation of Singapore's education vs that of Hong Kong's education!

@@ -165,4 +165,4 @@ You just can't go wrong with these
 + 1 plate of scallop sushi
 + 3 plates of seasonal sushi
 
-What are your favourites? Let me know.
+What are your favourites? Let me know. Here's our best [sushi](https://fromhktosg.github.io/singapore-best-sushi/) list in case you missed!

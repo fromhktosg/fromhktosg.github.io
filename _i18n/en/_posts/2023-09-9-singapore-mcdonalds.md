@@ -64,4 +64,4 @@ Experience flavor-packed fries with McDonald's Shaker Fries! These golden and cr
 |:--:| 
 |  *Shake shake, shake shake, shake it*  |
 
-Surprise your taste buds with the delightful offerings at Singapore McDonald's! For more tasty adventures, remember to subscribe and stay tuned.
+Surprise your taste buds with the delightful offerings at Singapore McDonald's! For more tasty adventures, remember to subscribe and stay tuned. If you want a proper restaurant list, [here](https://fromhktosg.github.io/singapore-top-restaurants-by-cuisine/) you go!

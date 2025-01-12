@@ -21,7 +21,7 @@ image: assets/images/hol1.jpg
 + 排灯节 (Diwali) - 2025年10月20日，星期一
 + 圣诞节 - 2025年12月25日，星期四
 
-这些日期包括四个长周末，方便人们计划短途旅行或度假。
+这些日期包括四个长周末，方便人们计划短途旅行或[度假](https://fromhktosg.github.io/zh/singapore-flights/)。
 
 | ![hol2]({{ site.baseurl }}/assets/images/hol2.jpg)
 |:--:| 
