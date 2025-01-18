@@ -114,3 +114,4 @@ Signature Item: St. Regis Signature Scones with Clotted Cream – Light, flaky s
 
 Each of these locations offers a distinctive high tea experience, combining unique settings, exquisite teas, and indulgent food to create an unforgettable afternoon of luxury in Singapore.
 
+Happy tea-ing!
