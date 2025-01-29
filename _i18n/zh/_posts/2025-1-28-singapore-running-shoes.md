@@ -1,237 +1,190 @@
 ---
 layout: post
-title:  "Guide to running shoes in Singapore"
-categories: [Singapore, shopping, running, shoes]
+title:  "新加坡跑步鞋指南"
+categories: [新加坡, 购物, 跑步, 鞋类]
 image: assets/images/run.jpg
 ---
 
-Running: the activity we love to hate but can’t seem to quit, especially when it comes to sweating through Singapore’s tropical heat. Whether you’re chasing fitness goals, a personal best, or just running away from your problems (figuratively, of course), it turns out this daily grind does wonders for your body—science says so. But let’s not forget the unsung heroes of every runner’s journey: the shoes that take the pounding. From cross-country terrains to casual park jogs, there’s a dizzying array of running shoes tailored for every style and purpose. And with brands like Adidas, Hoka, Nike, and Brooks battling it out, picking the best pair might just be the most exhausting part of your fitness journey.
+跑步：我们又爱又恨的活动，尤其是在新加坡的热带气候下，汗流浃背。然而，不管你是为了健身目标、个人最佳成绩，还是单纯地逃避生活中的烦恼（当然是比喻的方式），这项日常锻炼对身体的好处可是科学证明的。但别忘了，每个跑步者旅程中的无名英雄：那些承受重压的鞋子。从越野到公园慢跑，各种款式的跑步鞋应有尽有，适合不同的跑步需求。而在阿迪达斯、Hoka、耐克和Brooks等品牌的激烈竞争中，挑选一双最合适的鞋子，可能是你健身之旅中最耗费体力的部分。
 
-### Why do people like running in Singapore?
+### 为什么新加坡人喜欢跑步？
 
-People in Singapore seem to enjoy running for a mix of reasons, ranging from practical to personal (and occasionally questionable). For one, it’s a convenient way to stay fit without needing a gym membership—just lace up your shoes and step outside. The scenic running paths, like East Coast Park and Marina Bay, provide stunning views that almost make you forget you’re sweating buckets in 30°C humidity. Some people enjoy the sense of accomplishment, whether it’s completing a 5K or just surviving the first kilometer without collapsing. And let’s not overlook the social aspect—Singapore’s running clubs and marathons make it feel less like exercise and more like a community event where everyone’s suffering together.
+新加坡人喜欢跑步的原因有很多，从实用到个人（偶尔还有些让人质疑的原因）。首先，跑步是一个便捷的保持健康的方式，不需要健身房会员——只需穿上跑鞋走出家门即可。像东海岸公园和滨海湾等风景如画的跑步路径，能让你几乎忘记自己在30°C高温湿度下汗流浃背。有些人喜欢完成跑步后的成就感，无论是跑完5公里，还是仅仅成功地撑过第一公里没有倒下。更别提社交方面——新加坡的跑步俱乐部和马拉松赛事让跑步不再只是锻炼，而是一个大家一起“痛苦”的社区活动。
 
-### What does running once a day help with on a scientific angle?
+### 跑步每天一次对身体有什么科学益处？
 
-Running once a day isn’t just about looking good in your workout gear; it actually brings some impressive scientific benefits, backed by stats. It can reduce the risk of cardiovascular disease by up to 30%, according to research from the British Journal of Sports Medicine, as it strengthens your heart and improves blood circulation. Regular running also releases endorphins—those magical “feel-good” chemicals—which is why 82% of runners report improved moods after their workouts. It burns about 100 calories per mile on average, making it a great way to maintain a healthy weight while strengthening bones and improving muscle tone. Plus, studies show that people who exercise regularly, including running, are 60% less likely to experience anxiety or depression, proving that a daily jog is essentially a mental health booster on top of everything else.
+每天跑步一次不仅仅是为了让你穿上运动服看起来更好，它实际上有一些令人印象深刻的科学益处，且有统计数据支持。根据《英国运动医学杂志》的研究，跑步能降低最多30%的心血管疾病风险，因为它有助于加强心脏并改善血液循环。定期跑步还会释放内啡肽——这种“让人感觉良好”的化学物质，这也是为什么82%的跑步者表示运动后心情有所改善的原因。跑步平均每英里消耗约100卡路里，使其成为保持健康体重的理想方式，同时还能增强骨骼和改善肌肉线条。此外，研究还表明，经常锻炼的人，包括跑步者，患焦虑或抑郁症的可能性降低60%，证明了每天跑步不仅有助于身体健康，还是一种心理健康的提升。
 
-### Best running paths in Singapore
+### 新加坡最佳跑步路径
 
-Here’s a breakdown of some of the best running paths in Singapore, sorted by geographic area:
+以下是按地理区域划分的新加坡一些最佳跑步路径：
 
-<u>Central<u>
+<u>中央区域<u>
 
-+ Marina Bay Sands to Gardens by the Bay: A scenic route featuring waterfront views, Supertrees, and Singapore’s iconic skyline.
-+ Singapore Botanic Gardens: A UNESCO World Heritage Site with lush greenery and well-paved paths for runners.
-+ Fort Canning Park: A historic park with challenging uphill routes for those looking to add some elevation.
++ 滨海湾金沙至滨海湾花园: 一条风景如画的路线，沿途有水滨美景、超级树和新加坡标志性的天际线。
++ 新加坡植物园: 联合国教科文组织世界遗产，绿树成荫、路面平整，适合跑步者。
++ 福康宁公园: 一座历史悠久的公园，有挑战性的上坡路线，适合想要增加爬坡训练的人。
 
-<u>East<u>
+<u>东部<u>
 
-+ East Coast Park: The ultimate beachfront running trail, stretching over 15 km, with sea breezes to keep you company.
-+ Bedok Reservoir Park: A calm, circular 4.3 km loop surrounded by water, perfect for interval training or leisurely runs.
++ 东海岸公园: 最理想的海滨跑步路线，超过15公里长，伴随着海风让你更加舒适。
++ 碧土蓄水池公园: 一个平静的环形4.3公里路径，四周环水，非常适合间歇训练或悠闲跑步。
 
-<u>West<u>
+<u>西部<u>
 
-+ Jurong Lake Gardens: A peaceful spot with scenic boardwalks and running trails, ideal for nature lovers.
-+ Bukit Batok Nature Park: A quieter park with hilly terrain for a good cardio workout.
++ 裕廊湖滨花园: 一个宁静的地方，有风景如画的栈道和跑步小道，适合自然爱好者。
++ 武吉巴督自然公园: 一座安静的公园，地势起伏，适合进行有效的有氧运动。
 
-<u>North<u>
+<u>北部<u>
 
-+ Lower Seletar Reservoir Park: A tranquil route by the water, with shaded paths and a jetty for a post-run cool-down.
-+ Admiralty Park: A mix of natural and urban trails, with some paths running through mangroves.
++ Upper Seletar 水池公园: 一条沿水而行的宁静路线，有遮阴的小道，和一个栈桥可以在跑步后放松一下。
++ 海军公园: 自然与城市混合的小道，一些路径穿越红树林。
 
-<u>Northeast<u>
+<u>东北部<u>
 
-+ Punggol Waterway Park: A scenic riverside route with well-maintained paths and lush landscaping.
-+ Coney Island: A rustic, unpaved trail for a slightly more adventurous running experience.
++ 榜鹅水道公园: 一条风景宜人的河边路线，铺设良好的路径和郁郁葱葱的景观。
++ 哥尼岛: 一条未铺设的小径，提供稍微有点冒险的跑步体验。
 
-These paths cater to all levels, from casual joggers to serious marathon trainers, so you’ll find your perfect match no matter where you’re located.
+这些路径适合各个水平的跑步者，从轻松跑步者到认真训练的马拉松选手，无论你身处何地，都能找到适合你的跑步路线。
 
-### Top Types of Running Shoes (And When to Use Them)
+### 跑步鞋的主要类型（以及何时使用它们）
 
-Neutral Running Shoes: Best for runners with a natural gait and minimal pronation.
-+ Features: Balanced cushioning, flexibility, and lightweight designs.
+<u>中性跑步鞋<u>
 
-Stability Running Shoes: Ideal for overpronators (feet roll inward excessively while running).
-+ Features: Added arch support and structured midsoles for better alignment.
+适合自然步态和最小过度内旋的跑者。
+特点：均衡的缓震、灵活性和轻便设计。
 
-Trail Running Shoes: Perfect for off-road adventures on trails, mud, or rocky terrain.
-+ Features: Aggressive tread, reinforced durability, and water resistance.
+<u>稳定性跑步鞋<u>
 
-Cushioned/Maximalist Running Shoes: Great for long-distance runners or those needing extra comfort.
-+ Features: Maximum shock absorption and soft midsoles to reduce joint impact.
+理想选择对于内旋过度的跑者（跑步时双脚过度向内翻）。
+特点：增强的弓形支撑和结构化的中底，帮助更好的对齐。
 
-Racing Flats/Sprint Shoes: Designed for speed, whether it’s a sprint or a race day.
-+ Features: Lightweight, minimal cushioning, and fast responsiveness.
+<u>越野跑步鞋<u>
 
-### Criteria for rating running shoes
+非常适合在小径、泥地或岩石地形上进行越野冒险。
+特点：具有攻击性花纹的鞋底、加固耐用性和防水性。
 
-1. Comfort
+<u>缓震/最大缓冲跑步鞋<u>
 
-How the shoe feels during short and long runs, including padding and fit.
+适合长跑者或需要额外舒适性的跑者。
+特点：最大程度的减震和柔软的中底，减少关节冲击。
 
-2. Cushioning
+<u>竞速跑鞋/短跑鞋<u>
 
-The level of shock absorption to protect joints and provide a smooth ride.
+专为速度而设计，适用于短跑或比赛日。
+特点：轻便、最小的缓震设计和快速响应性。
 
-3. Durability
+### 跑步鞋评分标准
 
-How well the shoe holds up over time, especially with frequent use.
+1. 舒适性
 
-4. Traction
+鞋子在短跑和长跑中的舒适度，包括垫层和贴合感。
 
-Grip quality on various surfaces, from pavements to trails.
+2. 缓震性
 
-5. Support
+减震能力的水平，以保护关节并提供平稳的跑步体验。
 
-Arch support and stability features to match different running gaits.
+3. 耐用性
 
-6. Weight
+鞋子在长期使用中的表现，特别是在频繁使用的情况下。
 
-How light or heavy the shoe feels, impacting speed and fatigue levels.
+4. 抓地力
 
-7. Breathability
+在各种表面上的抓地力质量，从人行道到小径。
 
-Airflow and material quality to keep feet cool and prevent blisters.
+5. 支撑性
+弓形支撑和稳定性特性，以适应不同的跑步步态。
 
-8. Price-to-Performance Ratio
+6. 重量
 
-Whether the shoe’s features justify its price for casual or serious runners.
+鞋子给人的重量感，影响跑步的速度和疲劳程度。
 
-### Running Shoe Brands and Sub-Brands
+7. 透气性
 
-<u>Adidas<u>
+鞋子的空气流通性和材料质量，以保持双脚凉爽并防止起水泡。
 
-Ultraboost: Known for its plush cushioning and responsive feel, perfect for long-distance runs.
-Adizero: Lightweight and fast, designed for performance and speed, ideal for competitive runners.
-Solar: Offers a balance of comfort and stability, suitable for everyday runners.
-Terrex: Built for trail running with durable materials and extra grip for tough terrains.
+8. 性价比
 
-<u>Hoka<u>
+鞋子的特性是否值得其价格，适合休闲跑者或专业跑者。
 
-Clifton: Cushioned, lightweight shoes with a soft ride, designed for road runners.
-Bondi: Known for its maximalist cushioning, ideal for runners seeking ultimate comfort on long runs.
-Speedgoat: Trail-specific shoes that provide exceptional grip and stability for off-road runs.
-Mach: Lightweight with responsive cushioning, built for speed and efficiency on both road and track.
-Arahi: Stability shoes offering structured support without sacrificing cushioning, perfect for overpronators.
+### 跑步鞋品牌和子品牌
 
-<u>Nike<u>
+<u>阿迪达斯 (Adidas)<u>
 
-Air Zoom Pegasus: Versatile and durable, ideal for both beginners and experienced runners looking for a reliable shoe.
-ZoomX Vaporfly: High-performance shoes built for elite runners, designed for speed with a lightweight, responsive feel.
-React Infinity: Known for its soft cushioning and stability, making it great for injury prevention.
-Wildhorse: A rugged trail running shoe with a durable upper and aggressive tread for off-road adventures.
+Ultraboost: 以奢华的缓震和响应感著称，适合长跑。
+Adizero: 轻便且快速，专为性能和速度设计，理想选择为竞争性跑者。
+Solar: 提供舒适和稳定性的平衡，适合日常跑者。
+Terrex: 为越野跑设计，采用耐用材料并提供额外抓地力，适合艰难地形。
+
+<u>霍卡 (Hoka)<u>
+
+Clifton: 缓震且轻便，设计适合路跑者，提供柔软的骑行感。
+Bondi: 以最大化缓震著称，适合寻求极致舒适的长跑者。
+Speedgoat: 专为越野跑设计，提供卓越的抓地力和稳定性，适合越野跑。
+Mach: 轻便且具有响应性的缓震，适合在公路和跑道上追求速度和效率的跑者。
+Arahi: 提供结构化支撑而不牺牲缓震的稳定性鞋款，适合过度内旋的跑者。
+
+<u>耐克 (Nike)<u>
+
+Air Zoom Pegasus: 多功能且耐用，适合初学者和有经验的跑者，寻找可靠的鞋款。
+ZoomX Vaporfly: 为精英跑者设计的高性能鞋，专为速度打造，轻便且反应迅速。
+React Infinity: 以柔软的缓震和稳定性著称，适合预防伤害。
+Wildhorse: 具有耐用鞋面和攻击性花纹的越野跑鞋，适合越野冒险。
 
 <u>On<u>
 
-Cloudrunner: Designed for comfort and support, offering a smooth, cushioned ride for daily runs.
-Cloudflow: Lightweight and responsive, built for runners who want speed and agility on their runs.
-Cloudboom: Performance-oriented shoes focused on long-distance races and marathons with added propulsion.
-Cloudultra: A trail running shoe offering maximum cushioning and durability for tough outdoor runs.
+Cloudrunner: 设计注重舒适性和支撑性，提供平稳缓震的跑步体验，适合日常跑步。
+Cloudflow: 轻便且具有响应性，适合寻求速度和灵活性的跑者。
+Cloudboom: 面向性能的鞋款，专注于长跑比赛和马拉松，提供额外推进力。
+Cloudultra: 越野跑鞋，提供最大缓震和耐用性，适合艰难户外跑步。
 
-<u>Asics<u>
+<u>亚瑟士 (Asics)<u>
 
-Gel-Kayano: Stability shoes with gel cushioning for a smooth, supportive ride, ideal for overpronators.
-Gel-Nimbus: Known for its plush cushioning and neutral support, great for long-distance road runners.
-GT-2000: Stability shoes with a focus on support and durability for long-term performance.
-Gel-Venture: Affordable trail shoes with excellent grip and protection for off-road running.
+Gel-Kayano: 稳定性鞋款，配有凝胶缓震，提供平稳的支撑感，适合过度内旋的跑者。
+Gel-Nimbus: 以柔软缓震和中性支撑著称，适合长途路跑者。
+GT-2000: 稳定性鞋款，注重支撑和耐用性，适合长期表现。
+Gel-Venture: 经济实惠的越野鞋，提供卓越抓地力和保护，适合越野跑步。
 
-<u>New Balance<u>
+<u>新百伦 (New Balance)<u>
 
-Fresh Foam 1080: Provides superior cushioning for long runs, ideal for runners seeking comfort and protection.
-FuelCell: A performance-focused shoe with responsive cushioning, designed for speed and agility.
-Fresh Foam More: Maximalist cushioning for a plush, soft feel on long runs or recovery days.
-Hierro: A durable trail shoe with aggressive tread and superior cushioning for rough terrain.
+Fresh Foam 1080: 提供卓越的缓震，适合长跑，专为寻求舒适和保护的跑者设计。
+FuelCell: 注重性能的鞋款，提供响应性缓震，设计适合速度和灵活性。
+Fresh Foam More: 最大化的缓震，适合长跑或恢复日，提供舒适柔软感。
+Hierro: 具有攻击性花纹和卓越缓震的耐用越野鞋，适合崎岖地形。
 
-<u>Brooks<u>
+<u>布鲁克斯 (Brooks)<u>
 
-Ghost: Neutral running shoes with balanced cushioning, ideal for both beginners and experienced runners.
-Adrenaline GTS: Stability shoes that offer reliable support and cushioning for runners with mild to moderate overpronation.
-Glycerin: Offers plush cushioning for a soft, comfortable ride, great for long runs or recovery days.
-Cascadia: A trail shoe with a rugged design, providing traction and stability for off-road adventures.
+Ghost: 中性跑步鞋，提供均衡的缓震，适合初学者和有经验的跑者。
+Adrenaline GTS: 稳定性鞋款，为轻度至中度过度内旋的跑者提供可靠的支撑和缓震。
+Glycerin: 提供奢华的缓震体验，适合长跑或恢复日。
+Cascadia: 越野跑鞋，采用坚固的设计，提供抓地力和稳定性，适合越野冒险。
 
-### Best running shoes ranked
+### 在新加坡哪里可以买到跑步鞋？
 
-Based on our criteria - 
+在新加坡，有多个优质的跑步鞋购买地点，满足不同的需求和预算。以下是一些推荐的地方：
 
-1. Nike ZoomX Vaporfly Next%
+<u>Nike 商店（例如，Nike Orchard）</u>
+提供多种Nike跑步鞋，包括专注于性能的款式，如Nike ZoomX Vaporfly和Nike Air Zoom Pegasus。
 
-Pro: Exceptional speed and energy return, perfect for elite runners.
-Con: Expensive and not as durable for everyday use.
+<u>adidas 商店（例如，adidas Suntec City）</u>
 
-2. Hoka One One Clifton 9
+以Ultraboost和Adizero等跑步鞋闻名，适合休闲跑者和精英运动员。
 
-Pro: Maximal cushioning offers a soft, comfortable ride for long runs.
-Con: Can feel bulky for those preferring a lighter shoe.
+<u>Hoka 商店（例如，Hoka VivoCity）</u>
 
-3. Adidas Ultraboost 23
+专注于缓震鞋款，如Clifton和Bondi，适合追求舒适和支撑的跑者。
 
-Pro: Superior comfort with responsive Boost cushioning for daily use.
-Con: Slightly heavier than other neutral shoes.
+<u>Tangs（例如，Tangs Orchard）</u>
 
-4. Brooks Ghost 15
+一家百货商店，销售Asics、Nike和New Balance等大品牌的跑步鞋，并经常提供季节性折扣。
 
-Pro: Well-balanced cushioning and responsiveness for a smooth run.
-Con: Lacks the extreme cushioning some runners prefer for long-distance events.
+<u>Decathlon（多个地点）</u>
 
-5. Asics Gel-Nimbus 25
+提供价格实惠的跑步鞋，适合初学者和休闲跑者，品牌包括Kalenji和Domyos。
 
-Pro: Excellent cushioning and support for long runs and marathons.
-Con: Can feel stiff for some users out of the box.
+<u>Running Lab</u>
 
-6. New Balance Fresh Foam 1080v12
+新开的高端跑步鞋店，提供专家推荐和专业配鞋服务。
 
-Pro: Soft, cushioned feel perfect for long distances.
-Con: Less responsive than some lighter, faster models.
-
-7. Hoka One One Speedgoat 5
-
-Pro: Excellent traction and durability for trail runners.
-Con: Heavier and less flexible compared to road shoes.
-
-8. On Cloudflow
-
-Pro: Lightweight and responsive, ideal for speed and short runs.
-Con: Not as cushioned for long-distance or recovery runs.
-
-9. Adidas Adizero Adios Pro 3
-
-Pro: Designed for performance, offering a quick and responsive ride for race days.
-Con: Expensive and not ideal for daily or recovery runs.
-
-10. Brooks Adrenaline GTS 23
-
-Pro: Great stability shoe for overpronators with reliable support.
-Con: Can feel too firm for those seeking plush cushioning.
-
-### Where do you buy running shoes in Singapore?
-
-In Singapore, there are several great places to buy running shoes, catering to different preferences and budgets. Here are some top spots:
-
-<u>Nike Stores (e.g., Nike Orchard)<u>
-
-Offers a wide variety of Nike running shoes, including performance-focused models like the Nike ZoomX Vaporfly and the Nike Air Zoom Pegasus.
-
-<u>adidas Stores (e.g., adidas Suntec City)<u>
-
-Known for shoes like Ultraboost and Adizero, adidas provides great options for both casual runners and elite athletes.
-
-<u>Hoka Store (e.g., Hoka at VivoCity)<u>
-
-Specializes in maximalist shoes like Clifton and Bondi, perfect for runners seeking comfort and cushioning.
-
-<u>Tangs (e.g., Tangs Orchard)<u>
-
-A department store that carries running shoes from major brands like Asics, Nike, and New Balance, often with seasonal discounts.
-
-<u>Decathlon (multiple locations)<u>
-
-Budget-friendly options with a wide range of running shoes for beginners and casual runners, featuring brands like Kalenji and Domyos.
-
-<u>Running Lab<u>
-The new fancy place with expert recommendations
-
-Each of these stores usually offers personalized fitting services to help you find the right pair based on your running style and preferences.
-
-Remember, comfort is key. What’s your favourite running pair? Let me know!
+这些商店通常提供个性化的配件服务，帮助您根据跑步风格和个人需求找到最适合的跑鞋。 记住，舒适最重要。你最喜欢的跑步鞋是哪一款？告诉我吧！
 
