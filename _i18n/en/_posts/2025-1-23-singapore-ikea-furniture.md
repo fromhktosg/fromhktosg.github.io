@@ -98,7 +98,7 @@ These dishes provide a variety of options, from quick bites to indulgent meals, 
 
 ### What are the alternatives to Ikea?
 
-Here’s a list of alternatives to IKEA in Singapore for when you want something different or simply want to explore other furniture and homeware options:
+Here’s a list of alternatives to IKEA in Singapore for when you want something different or simply want to explore [other furniture](https://fromhktosg.github.io/furniture/) and homeware options:
 
 + Castlery – A local brand offering stylish, mid-century modern furniture with a focus on quality and design.
 + HipVan – An online furniture store with affordable, trendy pieces and free delivery above a certain amount.

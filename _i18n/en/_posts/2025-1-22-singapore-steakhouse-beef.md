@@ -246,4 +246,4 @@ For a more American-style steakhouse experience, Morton’s at the Fullerton Hot
 
 Famous for its prime rib cuts, Lawry’s in Mandarin Gallery is a classic choice for steak lovers. With its elegant interiors and rich tradition of perfectly cooked meats, it’s an iconic destination for those looking to indulge in tender cuts with hearty sides.
 
-What’s your favourite steak place? Let me know!
+What’s your favourite steak place or [restaurant](https://fromhktosg.github.io/singapore-top-restaurants-by-cuisine)? Let me know!

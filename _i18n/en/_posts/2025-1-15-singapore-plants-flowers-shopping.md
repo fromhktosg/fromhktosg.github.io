@@ -154,7 +154,7 @@ Known for their delicate pink flowers, peach blossoms represent romance and new 
 
 9. Narcissus (水仙)
 
-Narcissus, or water fairy flowers, are highly regarded during Chinese New Year for their beauty and fragrance. They symbolize purity, good luck, and prosperity, and are believed to bring blessings for the year ahead. When they bloom, it’s considered an auspicious sign of a fortunate year to come.
+Narcissus, or water fairy flowers, are highly regarded during [Chinese New Year](https://fromhktosg.github.io/singapore-chinese-new-year-2025-CNY/) for their beauty and fragrance. They symbolize purity, good luck, and prosperity, and are believed to bring blessings for the year ahead. When they bloom, it’s considered an auspicious sign of a fortunate year to come.
 
 Whether you’re after financial blessings, romance, or simply a stunning decorative display, these plants carry meaningful symbolism to start the New Year right.
 

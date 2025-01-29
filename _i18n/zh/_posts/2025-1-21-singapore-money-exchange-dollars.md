@@ -66,5 +66,5 @@ image: assets/images/sgd.jpg
 + 幸运广场的兑换商（Money Changers at Lucky Plaza）：位于乌节路304号，幸运广场有多个提供有竞争力汇率的兑换商。这里是本地人和游客的热门兑换地点。
 + 半岛广场（Peninsula Plaza）：位于北桥路111号，半岛广场内有几家可靠的兑换商，尤其对区域货币提供优惠的汇率。
 
-无论你是在市区还是靠近机场，这些地点都会满足你出发前的所有货币兑换需求。
+无论你是在市区还是靠近机场，这些地点都会满足你[出发](https://fromhktosg.github.io/zh/singapore-flights/)前的所有货币兑换需求。
 

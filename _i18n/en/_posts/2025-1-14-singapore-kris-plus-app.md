@@ -100,6 +100,6 @@ Asia Miles: Asia Miles, the loyalty program of Cathay Pacific and its partner ai
 
 Emirates Skywards: Emirates Skywards is the loyalty program of Emirates Airline, offering members a chance to earn miles through flights and various lifestyle partners such as hotels, car rentals, and retail outlets. These miles can be redeemed for flight upgrades, hotel stays, car rentals, and even unique luxury experiences, such as private jet tours or high-end vacation packages. Skywards also gives members access to exclusive events, further enhancing the lifestyle aspect of the program. With a wide array of partners and premium offerings, Emirates Skywards caters to both travel enthusiasts and those seeking exclusive lifestyle rewards.
 
-Both Asia Miles and Emirates Skywards offer excellent lifestyle-related benefits alongside travel perks, providing flexibility for members to redeem their miles for a range of experiences beyond just flights.
+Both Asia Miles and Emirates Skywards offer excellent lifestyle-related benefits alongside travel perks, providing flexibility for members to redeem their miles for a range of experiences beyond just [flights](https://fromhktosg.github.io/singapore-flights/).
 
 What other similar loyalty programs are you aware of? Let me know!

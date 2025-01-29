@@ -163,7 +163,7 @@ Here’s the updated list with the addition of Make Something Yourself as a thou
 
 <u>Fresh Flowers<u>
 
-+ Floral Garage Singapore – A bouquet of fresh, seasonal flowers with custom arrangements or even dried flowers to preserve the memory.
++ Floral Garage Singapore – A bouquet of fresh, seasonal [flowers](https://fromhktosg.github.io/singapore-plants-flowers-shopping/) with custom arrangements or even dried flowers to preserve the memory.
 + The Bloom Box – Send a box of luxurious roses or an elegant arrangement, perfect for a lasting impact.
 
 <u>Luxury Handbags<u>

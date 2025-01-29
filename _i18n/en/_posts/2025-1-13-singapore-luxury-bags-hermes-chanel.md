@@ -190,6 +190,8 @@ In Singapore, there are several places where you can buy luxury bags, ranging fr
 + Ion Orchard – Known for its collection of high-end stores, Ion Orchard Shopping Mall has flagship stores for luxury brands like Chanel, Hermès, Louis Vuitton, and more.
 + Paragon Shopping Mall – Another luxury shopping mall located on Orchard Road that carries luxury brands such as Prada, Saint Laurent, and Gucci.
 
+[Guide](https://fromhktosg.github.io/shopping-in-singapore/) for best malls in Singapore in case you need one.
+
 4. Online Shopping
 
 + Farfetch – Offers a wide selection of luxury bags from global designers, delivered to Singapore.

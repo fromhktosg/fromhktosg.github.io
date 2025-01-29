@@ -17,7 +17,7 @@ Here’s a list of different types of venues where you can play tennis in Singap
 + Public Tennis Centres (e.g., Kallang Tennis Centre, Queenstown Tennis Centre) – Managed by Sport Singapore, these are budget-friendly options with a variety of courts.
 + Private Condominiums – Many upscale condos in Singapore feature their own tennis courts, offering convenient access for residents.
 + Country Clubs (e.g., Singapore Island Country Club, Tanah Merah Country Club) – For those looking for a more exclusive experience, country clubs provide top-notch facilities and services.
-+ Sports Complexes (e.g., Singapore Sports Hub) – These large, multi-sport venues often have a range of tennis courts available for booking.
++ Sports Complexes (e.g., Singapore Sports Hub) – These large, [multi-sport venues](https://fromhktosg.github.io/sports-singapore/) often have a range of tennis courts available for booking.
 + Resorts and Hotels (e.g., Sentosa Resorts, The Fullerton Bay Hotel) – High-end resorts and hotels also feature tennis courts, typically available to guests or members.
 + ActiveSG Tennis Centres – These government-managed venues are spread throughout Singapore, offering affordable tennis facilities for everyone.
 + Private Clubs (e.g., The Tanglin Club, The British Club) – These membership-based clubs offer private and well-maintained courts for tennis lovers.

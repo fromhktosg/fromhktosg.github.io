@@ -161,7 +161,7 @@ image: assets/images/val.jpg
 <u>新鲜花卉<u>
 
 + Floral Garage Singapore – 新鲜季节性花卉的花束，可定制花艺或干花，保存美好的回忆。
-+ The Bloom Box – 送上一盒奢华的玫瑰或优雅的花卉排列，留下深刻的印象。
++ The Bloom Box – 送上一盒奢华的玫瑰或优雅的[花卉](https://fromhktosg.github.io/zh/singapore-plants-flowers-shopping/)排列，留下深刻的印象。
 
 <u>奢华手袋<u>
 + Louis Vuitton – 经典的礼物，如Monogram Canvas手袋，为伴侣的衣橱增添一些奢华感。

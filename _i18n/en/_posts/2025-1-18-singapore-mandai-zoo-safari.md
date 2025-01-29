@@ -5,7 +5,7 @@ categories: [Singapore, zoo, wildlife, safari]
 image: assets/images/zoo.jpg
 ---
 
-Mandai, Singapore’s self-proclaimed gateway to the wild, offers more than just a peek at animals lounging in their curated habitats—it’s a full-blown attempt to turn conservation into a lifestyle. From its storied beginnings as the modest Singapore Zoo to the ambitious transformation of the entire precinct, Mandai now houses attractions like the River Safari and the newly relocated Bird Paradise, all while dreaming up even more ways to lure you into nature (or what’s left of it). Beyond the flashy facelifts, Mandai's history and evolving blueprint reveal a curious mix of nostalgia and innovation, proving that even wildlife has to adapt to Singapore’s knack for reinvention.
+Mandai, Singapore’s self-proclaimed gateway to the wild, offers more than just a peek at animals lounging in their curated habitats—it’s a full-blown attempt to turn conservation into a lifestyle. From its storied beginnings as the modest Singapore Zoo to the ambitious transformation of the entire precinct, Mandai now houses [attractions](https://fromhktosg.github.io/singapore-travel-itinerary/) like the River Safari and the newly relocated Bird Paradise, all while dreaming up even more ways to lure you into nature (or what’s left of it). Beyond the flashy facelifts, Mandai's history and evolving blueprint reveal a curious mix of nostalgia and innovation, proving that even wildlife has to adapt to Singapore’s knack for reinvention.
 
 ### What is Mandai Singapore?
 

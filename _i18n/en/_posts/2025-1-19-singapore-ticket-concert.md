@@ -5,7 +5,7 @@ categories: [Singapore, ticketing, concert, shopping]
 image: assets/images/ticket.jpg
 ---
 
-We talked about concerts in an earlier post. In the ever-evolving world of ticketing websites in Singapore, it's hard to know where to start when looking for tickets to events, concerts, or even that must-see theme park attraction. From navigating the labyrinth of sites offering everything from theatre shows to flights, it’s important to know what you’re buying, what pitfalls to avoid, and how to spot those sneaky scalpers looking to make a profit. Let’s dive into the ticketing game, where discounts are often a mirage and every click seems to come with a hidden agenda.
+We talked about concerts in an earlier [post](https://fromhktosg.github.io/singapore-concerts/). In the ever-evolving world of ticketing websites in Singapore, it's hard to know where to start when looking for tickets to events, concerts, or even that must-see theme park attraction. From navigating the labyrinth of sites offering everything from theatre shows to flights, it’s important to know what you’re buying, what pitfalls to avoid, and how to spot those sneaky scalpers looking to make a profit. Let’s dive into the ticketing game, where discounts are often a mirage and every click seems to come with a hidden agenda.
 
 ### What ticketing websites are there in Singapore?
 

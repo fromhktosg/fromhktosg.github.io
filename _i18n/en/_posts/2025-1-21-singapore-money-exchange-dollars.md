@@ -54,7 +54,7 @@ But if you’re thinking globally, the USD still reigns supreme. As the world’
 
 ### Where can you exchange your money in Singapore before traveling abroad?
 
-Here are more specific places in Singapore where you can exchange your money before heading abroad:
+Here are more specific places in Singapore where you can exchange your money before [heading abroad](https://fromhktosg.github.io/zh/singapore-flights/):
 
 + The Arcade at Raffles: Located at 11 Collyer Quay, this spot has several currency exchange services with competitive rates. It's right near Raffles Place MRT, making it super convenient for those in the CBD area.
 

@@ -112,6 +112,6 @@ At The St. Regis, high tea takes on a luxurious and refined atmosphere with eleg
 
 Signature Item: St. Regis Signature Scones with Clotted Cream – Light, flaky scones served warm with fresh clotted cream and strawberry jam, a classic that never disappoints.
 
-Each of these locations offers a distinctive high tea experience, combining unique settings, exquisite teas, and indulgent food to create an unforgettable afternoon of luxury in Singapore.
+Each of these locations offers a distinctive high tea experience, combining unique settings, exquisite teas, and indulgent food to create an unforgettable afternoon of luxury in Singapore. If you want more restaurant options, [here](https://fromhktosg.github.io/singapore-top-restaurants-by-cuisine/) you go!
 
 Happy tea-ing!

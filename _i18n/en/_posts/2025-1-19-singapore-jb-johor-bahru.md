@@ -84,4 +84,4 @@ Here’s a list of things to do in Johor Bahru (JB):
 + Golf at Eco Botanic: Tee off at one of JB’s scenic golf courses, such as the Eco Botanic Golf Course, for a relaxing day on the greens.
 + Visit Taman Negara Johor: For nature lovers, this national park offers hiking trails, wildlife spotting, and the chance to explore Malaysia’s natural beauty.
 
-To be frank, I’m not personally a favourite of going to JB. The queue across the causeway can be long and I find it to be a bit tacky. Let me know if you think otherwise. Till next time
+To be frank, I’m not personally a favourite of going to JB. The queue across the causeway can be long and I find it to be a bit tacky. I prefer these [other countries](https://fromhktosg.github.io/singapore-flights/) to travel to. Let me know if you think otherwise. Till next time
