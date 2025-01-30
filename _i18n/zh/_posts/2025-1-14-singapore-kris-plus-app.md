@@ -35,31 +35,31 @@ KrisPay到Kris+的转型体现了新加坡航空在应对消费者习惯和需�
 
 + The Dining Room
 位置：Sheraton Towers Hotel (39 Scotts Rd.), 228230
-提供：自助餐，包括本地和国际美食。
+提供：自助餐，包括本地和国际美食
 
 + The Spot
 位置：Marina One The Heart (5 Straits View), 018935
-提供：融合亚洲和西方风味的菜单。
+提供：融合亚洲和西方风味的菜单
 
 + The Stamford Brasserie
 位置：2 Stamford Rd, 178882
-提供：西式和亚洲菜肴，环境轻松。
+提供：西式和亚洲菜肴，环境轻松
 
 + Prego
 位置：1F, Fairmont Singapore (80 Bras Basah Rd), 189560
-提供：正宗的意大利意面和比萨。
+提供：正宗的意大利意面和比萨
 
 + Restaurant JAG
 位置：76 Duxton Rd, 089534
-提供：法国高级餐厅，注重季节性食材。
+提供：法国高级餐厅，注重季节性食材
 
 + Si Chuan Dou Hua Restaurant
 位置：UOB Plaza 1 (80 Raffles Place), 048624
-提供：四川和粤菜。
+提供：四川和粤菜
 
 + SKAI
 位置：Level 70, Swissotel The Stamford (2 Stamford Rd), 178882
-提供：现代澳大利亚菜肴，注重新鲜、季节性食材。
+提供：现代澳大利亚菜肴，注重新鲜、季节性食材
 
 这个列表概述了通过Kris+计划可以享受的餐饮选择。欲了解完整列表和更新信息，你可以查看Kris+官方网站或应用程序。
 
