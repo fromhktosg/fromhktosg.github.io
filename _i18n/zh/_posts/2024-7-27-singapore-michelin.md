@@ -89,7 +89,7 @@ image: assets/images/beni.jpg
 
 這家提供高級韓式料理,熟悉的口味卻以全新的方式呈現,非常值得一試
 
-| ![naeum]({{ site.baseurl }}/assets/images/naeum.jpg)
+| ![naeum]({{ site.baseurl }}/assets/images/nae.jpg)
 |:--:| 
 |  *Naeum*  |
 
