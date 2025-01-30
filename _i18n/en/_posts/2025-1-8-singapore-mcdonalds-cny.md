@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guide to McDonalds in 2025 and McDonalds Chinese New Year"
+title:  "Guide to McDonalds in 2025 and Chinese New Year"
 categories: [Singapore, McDonalds, fast food, restaurants]
 image: assets/images/mcdcny.jpg
 ---

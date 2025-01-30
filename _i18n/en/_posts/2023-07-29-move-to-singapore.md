@@ -5,7 +5,9 @@ categories: [Immigration, move, relocation, Singapore]
 image: assets/images/movetosg.jpg
 ---
 
-I have been asked many times what the main reasons are for moving to Singapore. I discussed my personal reasons in an earlier post, but that was based on my pre-move conception of the country. Now, after residing here for 5 years and witnessing the experiences of expats in Singapore, as well as interacting with locals, I can confidently state that there are clear-cut reasons for choosing to move to Singapore. With that in mind, I present to you my top ten reasons for living in Singapore.
+I have been asked many times what the main reasons are for moving to Singapore. I discussed my personal reasons in an earlier post, but that was based on my pre-move conception of the country. 
+
+Now, after residing here for 5 years and witnessing the experiences of expats in Singapore, as well as interacting with locals, I can confidently state that there are clear-cut reasons for choosing to move to Singapore. With that in mind, I present to you my top ten reasons for living in Singapore.
 
 1. Strong Economy: Singapore's robust and thriving economy is one of the key reasons why many people choose to move here. As a global financial hub, the city-state provides abundant [job opportunities](https://fromhktosg.github.io/singapore-job-landscape/) in sectors such as finance, technology, healthcare, and logistics. Its business-friendly environment and supportive infrastructure make it an attractive destination for professionals seeking career growth. Singapore is also a stable nation that many value. The job opportunity I’ve had here parallels that of the US and is stronger than that of Hong Kong.
 

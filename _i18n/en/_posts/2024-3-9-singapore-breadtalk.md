@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Comprehensive Guide to Breadtalk - Singapore’s local bakery"
+title:  "Guide to Breadtalk - Singapore’s local bakery"
 categories: [Singapore, breadtalk, bread, food]
 image: assets/images/breadtalk.jpg
 ---

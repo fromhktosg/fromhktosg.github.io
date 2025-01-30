@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Guide to Singapore's healthcare system: Public vs Private"
+title:  "Guide to Singapore's healthcare system"
 categories: [Healthcare, hospitals, cost of living, Hong Kong, Singapore]
 image: assets/images/supportsystems.jpg
 ---
-The pandemic’s over. Wahoo! Singapore’s healthcare system, renowned for its efficiency, quality, and accessibility, was put under the spotlight during the past 3 years of COVID. This post explores the distinctions between private and public healthcare in Singapore, examining factors such as cost, accessibility, and quality of care. Additionally, it delves into the remuneration of doctors in Singapore, shedding light on their earning potential and the considerations surrounding their salaries. Oh, you'll also find out about the best hospitals and where you can find them. By understanding the dynamics of Singapore's healthcare landscape, we gain insights into the complex interplay between private and public sectors and the compensation structures that shape the medical profession in the country. We won’t be covering insurance in-depth in this post (especially cheap health insurance). We’ll save that for another time.
+The pandemic’s over. Wahoo! Singapore’s healthcare system, renowned for its efficiency, quality, and accessibility, was put under the spotlight during the past 3 years of COVID.
+
+This post explores the distinctions between private and public healthcare in Singapore, examining factors such as cost, accessibility, and quality of care. Additionally, it delves into the remuneration of doctors in Singapore, shedding light on their earning potential and the considerations surrounding their salaries. Oh, you'll also find out about the best hospitals and where you can find them. By understanding the dynamics of Singapore's healthcare landscape, we gain insights into the complex interplay between private and public sectors and the compensation structures that shape the medical profession in the country. We won’t be covering insurance in-depth in this post (especially cheap health insurance). We’ll save that for another time.
 
 #### HK vs Singapore - a little on their healthcare systems
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guide to Singapore tennis shopping - rackets and strings"
+title:  "Guide to Singapore tennis shopping"
 categories: [Singapore, tennis, rackets, shopping, malls]
 image: assets/images/ten.jpg
 ---

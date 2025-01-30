@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guide to Singapore Mahjong for Chinese New Year and all year round"
+title:  "Guide to Singapore Mahjong for all year round"
 categories: [Singapore, games, Mahjong, Chinese New Year]
 image: assets/images/mahjong.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pizza Hut Singapore: CNY Specials, Local Favorites, and the Fight to Stay Relevant in 2025"
+title:  "Guide to Pizza Hut Singapore"
 categories: [Singapore, restaurants, fast food, pizza]
 image: assets/images/ph.jpg
 ---

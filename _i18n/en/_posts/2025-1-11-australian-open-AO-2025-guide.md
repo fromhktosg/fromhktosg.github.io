@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guide to Australian Open (AO) 2025 including where to watch in Singapore"
+title:  "Guide to Australian Open (AO) 2025 in Singapore"
 categories: [Singapore, Australian Open, AO, tennis, sports, TV]
 image: assets/images/ao.jpg
 ---

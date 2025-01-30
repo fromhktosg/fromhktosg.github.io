@@ -4,9 +4,9 @@ title:  "Singapore KFC - recommendations, pricing and surprises"
 categories: [Singapore, fast food, kfc, food]
 image: assets/images/kfc.jpg
 ---
-Welcome back to our blog! Following the success of our article on McDonald's in Singapore, we're now turning our attention to another fast food favorite - Kentucky Fried Chicken (KFC). In this article, we'll be exploring the history of KFC in Singapore, discussing what makes it unique, and highlighting the must-try items on the menu.
+WWe're now turning our attention to another fast food favorite in Singapore - Kentucky Fried Chicken (KFC).
 
-This piece promises to be as engaging and informative as our previous one, offering a closer look at why KFC has become a staple in Singapore's fast food scene. Let's dive in.
+In this article, we'll be exploring the history of KFC in Singapore, discussing what makes it unique, and highlighting the must-try items on the menu. This piece promises to be as engaging and informative as our previous one, offering a closer look at why KFC has become a staple in Singapore's fast food scene. Let's dive in.
 
 #### History of KFC in Singapore
 

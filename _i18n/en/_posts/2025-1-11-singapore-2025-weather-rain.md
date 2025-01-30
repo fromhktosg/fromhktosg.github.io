@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guide to Singapore rainy weather and Global weather changes 2025"
+title:  "Guide to Singapore rainy weather 2025"
 categories: [Singapore, weather, rain, fires]
 image: assets/images/rain2.jpg
 ---
