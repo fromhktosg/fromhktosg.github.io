@@ -4,7 +4,7 @@ title:  "Guide to Airline Alliances in Singapore"
 categories: [Singapore, airline, loyalty, miles]
 image: assets/images/alliance.webp
 ---
-If you’ve ever stared at your frequent flyer miles and wondered if you’re actually getting anything out of them, welcome to the world of airline alliances.
+If you’ve ever stared at your frequent flyer miles and wondered if you’re actually getting anything out of them, welcome to the world of airline alliances. This is a must-know for your upcoming [vacations](https://fromhktosg.github.io/singapore-flights/)!
 
 In Singapore, where Changi Airport is basically a five-star hotel with runways, picking the right airline alliance can make or break your travel perks. The big three—Star Alliance, Oneworld, and SkyTeam—each promise elite treatment, but only if you’re loyal enough (or fly enough to justify your existence to them). We’ll break down what each alliance offers, from lounge access to priority boarding, and whether they’re actually worth your commitment. And, of course, we’ll answer the golden question: which airline alliance should you really be pledging your miles to in Singapore?
 
