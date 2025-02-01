@@ -2,7 +2,7 @@
 layout: post
 title:  "Guide to Singapore Uniqlo shopping"
 categories: [Singapore, clothing, shopping, malls]
-image: assets/images/.webp
+image: assets/images/uniqlo.webp
 ---
 
 In a country where shopping malls multiply faster than your laundry pile, Uniqlo has somehow managed to colonize virtually every major retail space in Singapore with its minimalist Japanese fashion empire.
