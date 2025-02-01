@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Guide to Singapore Uniqlo shopping"
-categories: [Singapore, clothing, shopping, malls]
+title:  "新加坡Uniqlo优衣库购物指南"
+categories: [新加坡, 服装, 购物, 商场]
 image: assets/images/uniqlo.webp
 ---
 
