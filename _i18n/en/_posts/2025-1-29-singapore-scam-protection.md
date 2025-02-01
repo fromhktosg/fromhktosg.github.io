@@ -5,7 +5,9 @@ categories: [Singapore, tech, apps, scam]
 image: assets/images/scam.webp
 ---
 
-Welcome to Singapore, where scammers are working harder than most of us do at our day jobs, turning our little red dot into what feels like a master class in creative criminal enterprises. While Thailand's recent surge in tourist-targeting scams has travelers clutching their passports a little tighter, Singapore's scammers have been keeping themselves just as busy, proving that even our squeaky-clean reputation isn't enough to keep the fraudsters away. In this guide, we'll navigate through the jungle of Singaporean scams (from love scams that'll break your heart and bank account simultaneously, to those suspiciously aggressive bank "officers" who seem more interested in your OTP than your actual banking needs), explore the latest tech-savvy protection measures, and share what to do if you've already sent your life savings to that charming person who totally promises they're a Swedish billionaire (spoiler alert: they're probably not).
+Welcome to Singapore, where scammers are working harder than most of us do at our day jobs, turning our little red dot into what feels like a master class in creative criminal enterprises.
+
+While Thailand's recent surge in tourist-targeting scams has travelers clutching their passports a little tighter, Singapore's scammers have been keeping themselves just as busy, proving that even our squeaky-clean reputation isn't enough to keep the fraudsters away. In this guide, we'll navigate through the jungle of Singaporean scams (from love scams that'll break your heart and bank account simultaneously, to those suspiciously aggressive bank "officers" who seem more interested in your OTP than your actual banking needs), explore the latest tech-savvy protection measures, and share what to do if you've already sent your life savings to that charming person who totally promises they're a Swedish billionaire (spoiler alert: they're probably not).
 
 ### Why are people avoiding travel to Thailand?
 

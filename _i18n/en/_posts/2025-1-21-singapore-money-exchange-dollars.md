@@ -5,7 +5,9 @@ categories: [Singapore, SGD, money exchange]
 image: assets/images/sgd.jpg
 ---
 
-The Singapore dollar, or SGD if you’re feeling fancy, might not be the flashiest currency, but it’s one that quietly punches above its weight. From its fascinating history rooted in independence to its current status as a reliable regional heavyweight, the SGD is the unsung hero of Southeast Asia’s financial world. Whether you’re wondering where to flash those crisp notes, how it stacks up against global giants like the USD or Euro, or if you should even bother keeping some in your wallet, we’ve got you covered—plus a few tips on where to get the best deal when exchanging your hard-earned cash.
+The Singapore dollar, or SGD if you’re feeling fancy, might not be the flashiest currency, but it’s one that quietly punches above its weight.
+
+From its fascinating history rooted in independence to its current status as a reliable regional heavyweight, the SGD is the unsung hero of Southeast Asia’s financial world. Whether you’re wondering where to flash those crisp notes, how it stacks up against global giants like the USD or Euro, or if you should even bother keeping some in your wallet, we’ve got you covered—plus a few tips on where to get the best deal when exchanging your hard-earned cash.
 
 ### History of Singapore’s currency
 

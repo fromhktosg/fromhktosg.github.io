@@ -5,7 +5,9 @@ categories: [Singapore, ikea, furniture, shopping]
 image: assets/images/ike.jpg
 ---
 
-IKEA – the Swedish furniture giant that somehow convinces us flat-packed chaos is a life skill we all need. With its maze-like stores, budget-friendly meatballs, and those adorable blue-and-yellow tote bags, IKEA has built an empire in Singapore that’s as iconic as the MRT. But how did this furniture juggernaut make its way here, and more importantly, why do we willingly brave crowds to snag a BILLY bookcase or a FÖRNUFTIG air purifier? In this guide, we’ll dive into IKEA’s quirky history, the locations in Singapore, what’s worth tossing into your oversized shopping bag, and which seasonal treats make it all the more tempting. Plus, we’ll throw in some alternatives for those rare moments when you decide to cheat on IKEA.
+IKEA – the Swedish furniture giant that somehow convinces us flat-packed chaos is a life skill we all need. With its maze-like stores, budget-friendly meatballs, and those adorable blue-and-yellow tote bags, IKEA has built an empire in Singapore that’s as iconic as the MRT.
+
+But how did this furniture juggernaut make its way here, and more importantly, why do we willingly brave crowds to snag a BILLY bookcase or a FÖRNUFTIG air purifier? In this guide, we’ll dive into IKEA’s quirky history, the locations in Singapore, what’s worth tossing into your oversized shopping bag, and which seasonal treats make it all the more tempting. Plus, we’ll throw in some alternatives for those rare moments when you decide to cheat on IKEA.
 
 ### What is Ikea?
 

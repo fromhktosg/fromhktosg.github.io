@@ -5,7 +5,9 @@ categories: [Singapore, shopping, running, shoes]
 image: assets/images/run.jpg
 ---
 
-Running: the activity we love to hate but can’t seem to quit, especially when it comes to sweating through Singapore’s tropical heat. Whether you’re chasing [fitness goals](https://fromhktosg.github.io/sports-singapore/), a personal best, or just running away from your problems (figuratively, of course), it turns out this daily grind does wonders for your body—science says so. But let’s not forget the unsung heroes of every runner’s journey: the shoes that take the pounding. From cross-country terrains to casual park jogs, there’s a dizzying array of running shoes tailored for every style and purpose. And with brands like Adidas, Hoka, Nike, and Brooks battling it out, picking the best pair might just be the most exhausting part of your fitness journey.
+Running: the activity we love to hate but can’t seem to quit, especially when it comes to sweating through Singapore’s tropical heat.
+
+Whether you’re chasing [fitness goals](https://fromhktosg.github.io/sports-singapore/), a personal best, or just running away from your problems (figuratively, of course), it turns out this daily grind does wonders for your body—science says so. But let’s not forget the unsung heroes of every runner’s journey: the shoes that take the pounding. From cross-country terrains to casual park jogs, there’s a dizzying array of running shoes tailored for every style and purpose. And with brands like Adidas, Hoka, Nike, and Brooks battling it out, picking the best pair might just be the most exhausting part of your fitness journey.
 
 ### Why do people like running in Singapore?
 

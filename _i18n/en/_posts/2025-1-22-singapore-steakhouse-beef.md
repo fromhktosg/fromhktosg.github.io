@@ -5,7 +5,9 @@ categories: [Singapore, beef, steakhouse, restaurants, food, dining]
 image: assets/images/steak.jpg
 ---
 
-Looking for the perfect steak in Singapore? Whether you're a ribeye romantic, a sirloin supporter, or someone who thinks wagyu is just an overpriced slab of hype, this guide will slice through the juicy details of steak culture. We’ll explore the art of pairing your perfectly grilled steak with the right sides (hint: it's not coleslaw and fries), the unspoken criteria that make a steak unforgettable, and why this is one meat where your wallet truly speaks. And yes, while we’ll talk about the best steakhouses to indulge your carnivorous cravings, let’s clear this up: Astons isn’t making the cut (although it fits a specific type of user at a particular price point). So, grab your steak knives and let’s dig into the sizzling world of premium beef in Singapore.
+Looking for the perfect steak in Singapore? Whether you're a ribeye romantic, a sirloin supporter, or someone who thinks wagyu is just an overpriced slab of hype, this guide will slice through the juicy details of steak culture.
+
+We’ll explore the art of pairing your perfectly grilled steak with the right sides (hint: it's not coleslaw and fries), the unspoken criteria that make a steak unforgettable, and why this is one meat where your wallet truly speaks. And yes, while we’ll talk about the best steakhouses to indulge your carnivorous cravings, let’s clear this up: Astons isn’t making the cut (although it fits a specific type of user at a particular price point). So, grab your steak knives and let’s dig into the sizzling world of premium beef in Singapore.
 
 ### What different cuts of steak are there?
 

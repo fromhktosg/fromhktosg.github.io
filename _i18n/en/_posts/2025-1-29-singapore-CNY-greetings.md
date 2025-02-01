@@ -5,7 +5,9 @@ categories: [Singapore, CNY, Chinese New Year]
 image: assets/images/greet.jpg
 ---
 
-This week in Chinese new year - we wrote about it in an earlier article. Chinese New Year in Singapore isn’t just about feasting and collecting ang baos—it’s also the season of bai nian (拜年), where you visit relatives, exchange auspicious greetings, and try to remember who’s who in the extended family. It’s a time-honored tradition where people make the rounds, armed with well-rehearsed blessings, hoping for good fortune (or at least a bigger red packet). But what exactly do you say when bai nian? What should you be eating to keep the festive spirit alive? And, most importantly, what unwritten rules should you absolutely not break? This guide will take you through the art of bai nian—from the greetings to the food and customs—so you can navigate the season like a pro (or at least not embarrass yourself).
+This week in Chinese new year - we wrote about it in an earlier article. Chinese New Year in Singapore isn’t just about feasting and collecting ang baos—it’s also the season of bai nian (拜年), where you visit relatives, exchange auspicious greetings, and try to remember who’s who in the extended family.
+
+It’s a time-honored tradition where people make the rounds, armed with well-rehearsed blessings, hoping for good fortune (or at least a bigger red packet). But what exactly do you say when bai nian? What should you be eating to keep the festive spirit alive? And, most importantly, what unwritten rules should you absolutely not break? This guide will take you through the art of bai nian—from the greetings to the food and customs—so you can navigate the season like a pro (or at least not embarrass yourself).
 
 ### Why do people ‘bai nian’拜年?
 
