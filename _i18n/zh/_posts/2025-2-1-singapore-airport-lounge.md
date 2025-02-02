@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "新加坡机场休息室指南"
+title:  "新加坡机场休息室/贵宾室指南"
 categories: [新加坡, 机场, 休息室, 旅行]
 image: assets/images/lounge.webp
 ---

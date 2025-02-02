@@ -5,7 +5,7 @@ categories: [Singapore, Japan, travel]
 image: assets/images/onsen.webp
 ---
 
-We know Singaporeans love going to Japan. If you've ever dreamed of soaking in a hot spring or onsen while pretending you're in a serene Japanese ryokan, you're not alone.
+We know Singaporeans love going to Japan for [vacation](https://fromhktosg.github.io/singapore-flights/). If you've ever dreamed of soaking in a hot spring or onsen while pretending you're in a serene Japanese ryokan, you're not alone.
 
 Onsens, Japan's natural hot springs, aren't just for relaxation; they’re practically a cultural experience, offering everything from therapeutic benefits to a great excuse to let your mind wander while you sit in glorified boiling water. Whether you’re opting for the traditional full experience in a ryokan or just day-tripping to a local onsen, there's something about those steamy waters that make you feel like you're doing something good for your body—even if all you're really doing is sitting there. From health benefits like improved circulation to the variety of onsens—from public baths to luxurious resort-style ones—there’s something to suit every mood, day or night. So, are there any onsens in Singapore that can compare to Japan's? Well, let’s just say we might not have Mount Fuji nearby, but there’s always a chance to dip your toes into a little hot water.
 

@@ -5,7 +5,7 @@ categories: [Singapore, airport, lounge, travel]
 image: assets/images/lounge.webp
 ---
 
-Airport lounges are the magical sanctuaries that separate the well-prepared traveler from the unfortunate souls battling for a seat near the boarding gate, especially in Singapore.
+Airport lounges are the magical sanctuaries that separate the well-prepared [traveler](https://fromhktosg.github.io/singapore-flights/) from the unfortunate souls battling for a seat near the boarding gate, especially in Singapore.
 
 These exclusive spaces offer everything from plush seating and free-flowing snacks to showers and even nap pods—because nothing says "I'm winning at travel" like dozing off in a private suite while others scramble for overpriced coffee. But not all lounges are created equal; some require a premium credit card, an expensive membership, or simply flying in business class (which, let’s be honest, most of us dream about but rarely book). Of course, there’s also a hierarchy within lounges—economy class travelers with access get the basics, while business class lounges serve up gourmet meals and champagne, just to remind you that there’s a whole other world beyond economy. In this guide, we’ll explore how to get into these lounges, the different memberships available, a list of Changi Airport’s best options, the top airport lounges globally, and a few truly special ones that take luxury to another level.
 
