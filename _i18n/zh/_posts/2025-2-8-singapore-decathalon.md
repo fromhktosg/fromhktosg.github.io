@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Decathlon Singapore Guide: Best Stores, Deals & What to Buy"
-categories: [Singapore, Decathalon, sports]
+title:  "新加坡迪卡侬指南：最佳门店、优惠与推荐购买"
+categories: [新加坡，迪卡侬，运动]
 image: assets/images/dec.webp
 ---
 
