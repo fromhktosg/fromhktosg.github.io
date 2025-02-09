@@ -5,7 +5,9 @@ categories: [Singapore, shopping, clothes]
 image: assets/images/arc.webp
 ---
 
-Arcteryx, for those who haven’t yet been indoctrinated, is that Canadian brand that’s become synonymous with outdoor adventure and overpriced jackets—because who wouldn’t want to look like they’re about to scale a mountain, even if they’re just strolling down Orchard Road? In Singapore, it’s all the rage, with people swearing by their stylish yet functional gear, making you wonder if it’s more about their performance or the ability to wear a brand that screams “I’m an explorer” while sipping a flat white. From their iconic jackets to those 'essential' pants, there’s no denying the appeal, though the hefty price tag might have you questioning whether it’s worth the investment for your next nature hike or Instagram post. But don’t worry, I’ll break down why Arcteryx has earned its lofty reputation (and cost), and more importantly, where you can snag it for a price that won’t require you to sell a kidney. And for those not ready to commit to this outdoor fashion empire, stick around for some alternatives that might just let you look the part without the wallet shock.
+Arcteryx, for those who haven’t yet been indoctrinated, is that Canadian brand that’s become synonymous with outdoor adventure and overpriced jackets—because who wouldn’t want to look like they’re about to scale a mountain, even if they’re just strolling down Orchard Road?
+
+In Singapore, it’s all the rage, with people swearing by their stylish yet functional gear, making you wonder if it’s more about their performance or the ability to wear a brand that screams “I’m an explorer” while sipping a flat white. From their iconic jackets to those 'essential' pants, there’s no denying the appeal, though the hefty price tag might have you questioning whether it’s worth the investment for your next nature hike or Instagram post. But don’t worry, I’ll break down why Arcteryx has earned its lofty reputation (and cost), and more importantly, where you can snag it for a price that won’t require you to sell a kidney. And for those not ready to commit to this outdoor fashion empire, stick around for some alternatives that might just let you look the part without the wallet shock.
 
 ### What is Arc'teryx?
 
@@ -49,6 +51,8 @@ Arc'teryx Alpha SV Jacket: Known as one of the brand's most iconic pieces, this 
 + Specialized Designs: Many of their products, such as jackets for mountaineering, skiing, or urban wear, are highly specialized for specific activities. The tailored functionality of each piece justifies the higher price point for those who need gear that performs under specific conditions.
 
 ### Where can you buy Arcteryx in Singapore at the best price?
+
+Surprise - it won't be in any typical [mall](https://fromhktosg.github.io/shopping-in-singapore/).
 
 Campus Corner (Bugis) is one of the top places in Singapore to find Arcteryx products at competitive prices. This specialty store is a hidden gem for outdoor enthusiasts, offering a curated selection of high-quality outdoor gear from premium brands like Arcteryx. What makes it amazing is not just the extensive product range but the exceptional customer service and knowledgeable staff, who can help you choose the perfect gear based on your specific needs. Whether you’re prepping for a hiking trip or braving Singapore’s unpredictable weather, Campus Corner’s offerings are designed to cater to both functionality and style.
 

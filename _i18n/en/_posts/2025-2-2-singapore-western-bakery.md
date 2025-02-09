@@ -5,7 +5,9 @@ categories: [Singapore, bakery, restaurants]
 image: assets/images/bake.webp
 ---
 
-Singaporeans take their bread and pastries seriously—so seriously that every bakery here seems to have its own specialty. From a bakery near me (cough, the OG Tiong Bahru bakery) serving up flaky croissants to Japanese patisseries crafting impossibly delicate strawberry shortcakes, there’s no shortage of options. Western-style bakeries dazzle with buttery pastries, while Asian bakeries stick to soft milk buns and classic egg tarts. But what exactly sets these bakeries apart, and what makes a good one worth the calories? Whether you're after a traditional treat or the latest trendy bake, Singapore’s bakery scene has something for everyone. We’ll cover bread 101 in separate posts later.
+Singaporeans take their bread and pastries seriously—so seriously that every bakery here seems to have its own specialty.
+
+From a bakery near me (cough, the OG Tiong Bahru bakery) serving up flaky croissants to Japanese patisseries crafting impossibly delicate strawberry shortcakes, there’s no shortage of options. Western-style bakeries dazzle with buttery pastries, while Asian bakeries stick to soft milk buns and classic egg tarts. But what exactly sets these bakeries apart, and what makes a good one worth the calories? Whether you're after a traditional treat or the latest trendy bake, Singapore’s bakery scene has something for everyone. We’ll cover bread 101 in separate posts later.
 
 ### What are Western bakeries?
 
@@ -145,4 +147,4 @@ A go-to spot for healthy Japanese-style bread made with brown rice, black sesame
 
 Each of these bakeries brings something uniquely Japanese to the table, from flawless textures to premium ingredients. And yes, you’ll probably walk out with way more than just one pastry.
 
-Writing this makes me hungry. What are your favourite bakeries?
+Writing this makes me hungry. What are your favourite bakeries? [Here's](https://fromhktosg.github.io/singapore-chinese-bakery/) a list of the Chinese ones!

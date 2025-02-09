@@ -5,7 +5,9 @@ categories: [Singapore, bakery, restaurants]
 image: assets/images/bakec.webp
 ---
 
-Chinese bakeries are where tradition meets indulgence, offering everything from flaky egg tarts to pillowy soft buns stuffed with sweet or savory fillings. Unlike their Western counterparts, these bakeries favor buttery crusts, dense flavors, and just the right amount of sweetness—because who needs frosting when you have perfectly caramelized pastry? From wife cakes (老婆饼) to char siu buns (叉烧包), the sheer variety is enough to make you rethink your usual morning toast. But not all Chinese bakeries are created equal—some master the art of crisp, golden crusts and silky custards, while others leave you wondering if they accidentally swapped sugar for salt. In Singapore, you don’t have to look far for legendary egg tarts, nostalgic old-school cakes, and buns so soft they defy physics—but choosing the right bakery? That’s where things get interesting.
+Chinese bakeries are where tradition meets indulgence, offering everything from flaky egg tarts to pillowy soft buns stuffed with sweet or savory fillings.
+
+Unlike their Western counterparts, these bakeries favor buttery crusts, dense flavors, and just the right amount of sweetness—because who needs frosting when you have perfectly caramelized pastry? From wife cakes (老婆饼) to char siu buns (叉烧包), the sheer variety is enough to make you rethink your usual morning toast. But not all Chinese bakeries are created equal—some master the art of crisp, golden crusts and silky custards, while others leave you wondering if they accidentally swapped sugar for salt. In Singapore, you don’t have to look far for legendary egg tarts, nostalgic old-school cakes, and buns so soft they defy physics—but choosing the right bakery? That’s where things get interesting.
 
 ### What are Chinese bakeries?
 
@@ -97,4 +99,4 @@ Famous for its spherical pineapple tarts, which are buttery, crumbly, and filled
 
 These bakeries bring the best of Hong Kong-style and traditional Chinese baking to Singapore, offering everything from flaky egg tarts to soft ang ku kueh. Whether you’re after something nostalgic or just a really good pastry, these spots won’t disappoint!
 
-Am i missing anything on this list? Let me know!
+Am I missing anything on this list? Let me know![Here's](https://fromhktosg.github.io/singapore-western-bakery/) a list of the Weestern ones!
