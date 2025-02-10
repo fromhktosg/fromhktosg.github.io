@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Decathlon Singapore Guide: Best Stores, Deals & What to Buy"
-categories: [Singapore, Decathalon, sports]
+categories: [Singapore, Decathlon, sports]
 image: assets/images/dec.webp
 ---
 
 Decathlon is the go-to store in Singapore if you suddenly decide you’re an athlete—or at least want to look like one.
 
-Founded in France in 1976, Decathlon made its way to Singapore in 2016 and has since expanded faster than your list of abandoned fitness goals. With multiple locations across the island, from sprawling warehouses to compact urban stores, it’s almost too easy to convince yourself you need another pair of running shoes. The brand is famous for its shockingly low prices, making you wonder if they’ve cracked some secret formula for cheap sports gear (spoiler: they have). But is their quality good enough to survive your ambitious workout plans, and what are the best things to buy? Let’s find out.
+Founded in France in 1976, Decathlon (not Decathalon although who cares about spelling) made its way to Singapore in 2016 and has since expanded faster than your list of abandoned fitness goals. With multiple locations across the island, from sprawling warehouses to compact urban stores, it’s almost too easy to convince yourself you need another pair of running shoes. The brand is famous for its shockingly low prices, making you wonder if they’ve cracked some secret formula for cheap sports gear (spoiler: they have). But is their quality good enough to survive your ambitious workout plans, and what are the best things to buy? Let’s find out.
 
 ### What is Decathlon?
 
