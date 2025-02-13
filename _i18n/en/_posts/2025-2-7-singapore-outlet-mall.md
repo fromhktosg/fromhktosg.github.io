@@ -7,7 +7,7 @@ image: assets/images/outlet.webp
 
 If you love scoring a good deal, convincing yourself you're "saving" money while spending more, or simply enjoy browsing endless discount racks, outlet malls might be your happy place. These shopping destinations promise luxury brands at unbeatable prices—because who doesn’t want last season’s fashion for a fraction of the cost?
 
-In Singapore, IMM Outlet Mall is the largest and most well-known, packed with factory outlets and clearance stores. But why are outlet malls cheaper in the first place? Are they really offering huge savings, or is it just a clever marketing trick? And if IMM isn’t enough, just hop across the border to Johor Premium Outlets (JPO) and other JB outlet malls, where even bigger discounts await.
+In Singapore, IMM Outlet Mall is the largest and most well-known, packed with factory outlets and clearance stores. But why are outlet malls cheaper in the first place? Are they really offering huge savings, or is it just a clever marketing trick? And if IMM isn’t enough, just hop across the border to Johor Premium Outlets (JPO) and other JB outlet malls, where even bigger discounts await. You won't get these deals in [Ion Orchard](https://fromhktosg.github.io/shopping-in-singapore/)!
 
 ### What Are Outlet Malls?
 Outlet malls are shopping centers that sell discounted goods, often from factory outlets, clearance stores, and past-season collections. Unlike regular malls, which offer the latest trends at full price, outlet malls focus on lower-cost alternatives.

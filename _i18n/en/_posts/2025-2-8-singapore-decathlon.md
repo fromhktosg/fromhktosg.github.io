@@ -15,7 +15,7 @@ Decathlon is a French sporting goods retailer founded in 1976 in Lille with a si
 
 ### Where are Decathlon stores in Singapore?
 
-Decathlon has made sure you’re never too far from affordable sports gear by planting stores all over Singapore’s malls. Their megastores—like the ones in Kallang and Bedok—are massive playgrounds where you can test everything from bicycles to trampolines before buying. For those who prefer convenience over adventure, Decathlon also has smaller city outlets in malls like Orchard, City Square, and Northshore Plaza. They’ve even gone futuristic with self-service stores like Decathlon Click & Collect, where you can pick up your online orders without dealing with human interaction (perfect for introverts). Whether you want the full Decathlon experience or just a quick grab-and-go, there’s likely a store near you.
+Decathlon has made sure you’re never too far from affordable sports gear by planting stores all over [Singapore’s malls](https://fromhktosg.github.io/shopping-in-singapore/). Their megastores—like the ones in Kallang and Bedok—are massive playgrounds where you can test everything from bicycles to trampolines before buying. For those who prefer convenience over adventure, Decathlon also has smaller city outlets in malls like Orchard, City Square, and Northshore Plaza. They’ve even gone futuristic with self-service stores like Decathlon Click & Collect, where you can pick up your online orders without dealing with human interaction (perfect for introverts). Whether you want the full Decathlon experience or just a quick grab-and-go, there’s likely a store near you.
 
 ### Why buy from Decathlon?
 

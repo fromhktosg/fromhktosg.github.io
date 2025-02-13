@@ -76,4 +76,4 @@ Preheat your oven with a Dutch oven or baking stone inside to about 250°C. Once
 
 Allow your sourdough bread to cool on a wire rack before slicing. This step is key for the best sourdough texture and flavor. Enjoy your homemade sourdough bread, perfect for sandwiches or as a side to any meal!
 
-If you think it’s too much effort or you don’t like sourdough itself, check out these other western or chinese breadstores!
+If you think it’s too much effort or you don’t like sourdough itself, check out these other [western](https://fromhktosg.github.io/singapore-western-bakery/) or chinese breadstores!

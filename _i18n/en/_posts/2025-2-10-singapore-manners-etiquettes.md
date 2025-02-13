@@ -55,7 +55,7 @@ Singapore is often praised for its clean streets, efficiency, and strict laws, b
 
 Whether at hawker centres, MRT stations, or bubble tea shops, Singaporeans take queueing seriously—cutting the line is a guaranteed way to earn some disapproving stares.
 
-+ Returning Trays at Hawker Centres
++ Returning Trays at [Hawker Centres'(https://fromhktosg.github.io/hk-versus-sg-food/)
 
 The tray return policy in Singapore is now enforced, so diners are expected to clear their tables after eating. Not doing so isn’t just rude—it might get you a fine.
 

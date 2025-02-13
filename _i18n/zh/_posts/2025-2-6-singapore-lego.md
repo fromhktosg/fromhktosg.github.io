@@ -92,7 +92,7 @@ NEX
 
 4. 百货公司
 
-+ 高岛屋（Takashimaya, Ngee Ann City） – 设有专门的乐高专区，出售各种套装，包括季节限定和独家商品。
++ 高岛屋（[Takashimaya](https://fromhktosg.github.io/zh/shopping-in-singapore/), Ngee Ann City） – 设有专门的乐高专区，出售各种套装，包括季节限定和独家商品。
 + 伊势丹（Isetan） & 美罗（Metro） – 两大百货公司均有乐高销售，偶尔会有折扣和促销。
 
 5. 兴趣与收藏店

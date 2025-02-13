@@ -87,7 +87,7 @@ Lego Certified Store (JEM) – Operated by The Brick Shop, this store offers sim
 
 3. Department Stores
 
-+ Takashimaya (Ngee Ann City) – Offers a dedicated Lego section with a variety of sets, including seasonal and exclusive releases.
++ [Takashimaya](https://fromhktosg.github.io/shopping-in-singapore/) (Ngee Ann City) – Offers a dedicated Lego section with a variety of sets, including seasonal and exclusive releases.
 + Isetan & Metro – Both department stores stock Lego, with occasional discounts and promotions.
 
 4. Hobby & Collector Stores

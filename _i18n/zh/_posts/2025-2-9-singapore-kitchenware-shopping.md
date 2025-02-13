@@ -85,7 +85,7 @@ image: assets/images/kitchen.webp
 
 <u>乌节 & 中央区<u>
 
-+ Takashimaya（仁安城市） – 奢华炊具品牌，如Le Creuset、Staub、Zwilling 和Mauviel。
++ Takashimaya（[仁安城市](https://fromhktosg.github.io/zh/shopping-in-singapore/)） – 奢华炊具品牌，如Le Creuset、Staub、Zwilling 和Mauviel。
 + Tangs（大厦广场） – 高端和中档厨房用品，包括WMF、KitchenAid 和Cuisinart。
 + Robinsons Online（前Heeren，现在仅提供线上购物） – 提供高端和中档炊具。
 + Crate & Barrel（ION Orchard） – 高品质的烘焙器具、餐具和餐具。

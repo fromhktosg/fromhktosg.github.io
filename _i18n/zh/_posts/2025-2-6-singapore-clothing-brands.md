@@ -23,7 +23,7 @@ image: assets/images/clot.webp
 
 价格大约为 SGD 50–120，适合各种流行但经典的款式。
 
-购买地点：ION Orchard、Funan、313@Somerset、Jem 以及线上 lovebonito.com
+购买地点：[ION Orchard](https://fromhktosg.github.io/zh/shopping-in-singapore/)、Funan、313@Somerset、Jem 以及线上 lovebonito.com
 
 <u>The Editor’s Market<u>
 

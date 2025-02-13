@@ -25,7 +25,7 @@ The reigning queen of Singaporean fashion, offering chic, everyday wear that’s
 
 Expect to pay around SGD 50–120 for dresses, blouses, and pants. They often have mid-range pricing for trendy yet timeless pieces.
 
-Where to buy: ION Orchard, Funan, 313@Somerset, Jem, and online at lovebonito.com
+Where to buy: [ION Orchard](https://fromhktosg.github.io/shopping-in-singapore/), Funan, 313@Somerset, Jem, and online at lovebonito.com
 
 <u>The Editor’s Market<u>
 

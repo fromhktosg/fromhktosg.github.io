@@ -138,5 +138,5 @@ How to handle MRT delays in Singapore like a pro.
 + Charge your phone & keep entertained: If you're stuck, use the time to clear emails, scroll social media, or read an e-book (or just enjoy some people-watching).
 + Help others if needed: If you see elderly passengers, pregnant women, or tourists confused about the delay, lend a hand. A little kindness goes a long way!
 
-Happy commuting! Or you can drive instead.
+Happy commuting! Or you can [drive](https://fromhktosg.github.io/driving/) instead.
 

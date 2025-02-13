@@ -86,7 +86,7 @@ Here’s a location-based guide to where you can buy kitchenware in Singapore, a
 
 <u>Orchard & Central<u>
 
-+ Takashimaya (Ngee Ann City) – Luxury cookware brands like Le Creuset, Staub, Zwilling, and Mauviel.
++ [Takashimaya](https://fromhktosg.github.io/shopping-in-singapore/) (Ngee Ann City) – Luxury cookware brands like Le Creuset, Staub, Zwilling, and Mauviel.
 + Tangs (Tang Plaza) – Premium and mid-range kitchenware, including WMF, KitchenAid, and Cuisinart.
 + Robinsons Online (Previously Heeren, now online-only) – Carries high-end and mid-range cookware.
 + Crate & Barrel (ION Orchard) – High-quality bakeware, utensils, and dinnerware.
