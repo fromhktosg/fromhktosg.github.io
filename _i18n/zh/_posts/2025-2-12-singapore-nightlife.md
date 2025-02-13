@@ -20,7 +20,7 @@ image: assets/images/night.webp
 + 深夜美食（Late-night Restaurants）——在**Lau Pa Sat、牛顿熟食中心（Newton Food Centre）**等夜宵圣地，品尝本地小贩美食，填饱深夜的胃。
 + 夜市逛街（Night Markets）——在牛车水夜市（Chinatown Night Market），悠闲漫步，挑选本地特色小吃和纪念品。
 + 现场音乐（Live Music Venues）——在滨海艺术中心（Esplanade）、Crazy Elephant等音乐现场，享受不一样的夜间氛围。
-+ 夜间野生动物园（Night Safari）——在**新加坡动物园（Singapore Zoo）**夜间探险，感受夜幕下的野生动物世界。
++ [夜间野生动物园](https://fromhktosg.github.io/zh/singapore-top-restaurants-by-cuisine/)（Night Safari）——在**新加坡动物园（Singapore Zoo）**夜间探险，感受夜幕下的野生动物世界。
 + 主题酒吧与秘境酒吧（Themed Bars & Speakeasies）——探索Operation Dagger、The Secret Mermaid等隐藏版酒吧，体验低调又神秘的夜晚。
 
 ### 夜生活对国家经济的重要性
@@ -89,6 +89,6 @@ image: assets/images/night.webp
 + OverEasy (Fullerton Bay) – 新加坡一家深夜美式餐厅，提供多汁的汉堡、芝士通心粉、辣翅和奶昔，拥有滨海湾的美丽景观。
 + 麦当劳 – 该说法不言而喻。
 
-无论你是想吃点心、火锅、木卡塔还是经典的芝士汉堡，这些新加坡最佳的深夜餐厅都能满足你午夜的美食欲望！如果你还需要一些经典餐厅推荐，下面是一些选择！
+无论你是想吃点心、火锅、木卡塔还是经典的芝士汉堡，这些新加坡最佳的深夜餐厅都能满足你午夜的美食欲望！如果你还需要一些经典餐厅推荐，[下面是一些选择](https://fromhktosg.github.io/zh/singapore-top-restaurants-by-cuisine/)！
 
 
