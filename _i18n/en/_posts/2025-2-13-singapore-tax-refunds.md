@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tax Refunds: How to Claim GST & VAT in Singapore & Worldwidee"
+title:  "Tax Refunds: How to Claim GST & VAT in Singapore & Worldwide"
 categories: [Singapore, tax, travel, shopping]
 image: assets/images/tax.webp
 ---
