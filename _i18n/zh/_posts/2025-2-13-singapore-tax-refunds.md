@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "如何在新加坡及全球退税（GST + VAT）"
-categories: [Singapore, tax, travel, shopping]
+categories: [新加坡、税务、旅行、购物]
 image: assets/images/tax.webp
 ---
 
