@@ -17,7 +17,7 @@ image: assets/images/ten.jpg
 + 公共网球中心（如Kallang Tennis Centre, Queenstown Tennis Centre） – 由Sport Singapore管理，提供多种类型球场，是经济实惠的选择。
 + 私人公寓 – 许多高档公寓都配备自己的网球场，方便居民使用。
 + 乡村俱乐部（如Singapore Island Country Club, Tanah Merah Country Club） – 对于寻求更高端体验的人来说，乡村俱乐部提供顶级设施和服务。
-+ 体育综合体（如Singapore Sports Hub） – 这些大型多功能[体育场馆](https://fromhktosg.github.io/zh/sports-singapore/)通常有多种网球场地可供预订。
++ 体育综合体（如Singapore Sports Hub） – 这些大型多功能体育场馆通常有多种网球场地可供预订。
 + 度假村和酒店（如Sentosa Resorts, The Fullerton Bay Hotel） – 高端度假村和酒店也提供网球场，通常仅供住客或会员使用。
 + ActiveSG网球中心 – 这些由政府管理的场地遍布新加坡，为大众提供负担得起的网球设施。
 + 私人俱乐部（如The Tanglin Club, The British Club） – 这些基于会员制的俱乐部为网球爱好者提供私人且维护良好的球场。

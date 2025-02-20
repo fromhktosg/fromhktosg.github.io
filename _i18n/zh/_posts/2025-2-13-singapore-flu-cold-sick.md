@@ -40,7 +40,7 @@ image: assets/images/flu.webp
 
 在新加坡，可以在多个方便的地点接种流感疫苗：
 
-+ [全科医生诊所](https://fromhktosg.github.io/zh/best-doctor-singapore)（GPs）：全岛各地的全科医生诊所全年提供流感疫苗接种服务。
++ 全科医生诊所（GPs）：全岛各地的全科医生诊所全年提供流感疫苗接种服务。
 + 综合诊所（Polyclinics）：新加坡的公共医疗机构以实惠价格提供流感疫苗，部分群体可享受补贴。
 + 医院（Hospitals）：新加坡的公立和私立医院均提供流感疫苗接种，部分医院还会提供健康检查服务。
 + 药房（Pharmacies）：部分大型药房，如 Guardian 和 Watsons，在特定门店提供流感疫苗接种服务。
