@@ -2,7 +2,7 @@
 layout: post
 title:  "新加坡的板球：在哪里玩、观看和加入"
 categories: [新加坡，假期]
-image: assets/cricket/easter.webp
+image: assets/images/cricket.webp
 ---
 
 新加坡的板球可能没有足球那么受欢迎，但它仍然是一项备受一群忠实爱好者喜爱的运动，尤其是当你谈到新加坡板球协会（Singapore Cricket Association）和新加坡板球队（Singapore Cricket Team）时。

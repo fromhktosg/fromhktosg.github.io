@@ -2,7 +2,7 @@
 layout: post
 title:  "Cricket in Singapore: Where to Play, Watch & Join"
 categories: [Singapore, holiday]
-image: assets/cricket/easter.webp
+image: assets/images/cricket.webp
 ---
 
 Cricket in Singapore might not be as popular as football, but it's still quite the sport for a dedicated group, especially when you're talking about the Singapore Cricket Association and the Singapore cricket team
