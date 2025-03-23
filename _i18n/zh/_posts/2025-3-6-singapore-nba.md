@@ -87,6 +87,8 @@ NBA全明星赛通常在2月中旬的NBA赛季休赛期间举行。2025年的全
 + NBA杯赛（赛季中锦标赛） – 一项较新的比赛，在常规赛期间以杯赛形式进行，为中期对决增添额外看点。
 + FIBA赛事 & 奥运会 – 虽非NBA独有，但许多NBA球星都会参加这些国际赛事。
 
+NBA Rising Stars invitational will also be in Singapore!
+
 ### 在新加坡哪里可以打篮球？
 
 <u>公共篮球场（免费且方便）<u>

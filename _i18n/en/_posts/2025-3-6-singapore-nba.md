@@ -93,6 +93,8 @@ Beyond the regular NBA season, there are several special events and formats that
 + NBA Cup (In-Season Tournament) – A newer competition with a cup-style format during the regular season, adding extra excitement to mid-season matchups.
 + FIBA Events & Olympic Games – While not NBA-exclusive, many NBA stars compete internationally in these tournaments.
 
+NBA Rising Stars invitational will also be in Singapore!
+
 ### Where can you play basketball in Singapore?
 
 <u>Public Courts (Free & Accessible)<u>
