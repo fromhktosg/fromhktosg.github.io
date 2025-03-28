@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Grab vs Gojek vs taxi in Singapore: Cheapest Rides & How to Chooses"
+title:  "Grab vs Gojek vs taxi in Singapore: Cheapest Rides & How to Choose"
 categories: [Singapore, taxi]
 image: assets/images/taxi.webp
 ---
