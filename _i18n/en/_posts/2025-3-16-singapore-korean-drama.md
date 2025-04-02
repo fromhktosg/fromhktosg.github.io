@@ -88,40 +88,52 @@ These dramas showcase the diversity and creativity of Korean television in 2025,
 ### Types of korean drama genres
 
 <u>Romance<u>
+
 This is perhaps the most beloved genre, often mixing heartwarming and tear-jerking love stories. These dramas typically revolve around complicated relationships, unrequited love, love triangles, or the evolution of love. Examples include Boys Over Flowers and Crash Landing on You.
 
 
 <u>Comedy<u>
+
 Light-hearted and full of laughs, comedy K-dramas focus on humorous situations and quirky characters. They often blend with romance, making them even more enjoyable. My Love from the Star and Strong Woman Do Bong-soon are classic examples.
 
 <u>Thriller/Suspense<u>
+
 These dramas keep you on the edge of your seat with intense plots, mysteries, and high-stakes situations. Vincenzo and Signal are notable thrillers that keep viewers guessing.
 
 <u>Fantasy<u>
+
 This genre incorporates supernatural elements like time travel, ghosts, or mythical creatures. K-dramas like Goblin and The Legend of the Blue Sea have fascinated audiences with their otherworldly themes.
 
 <u>Historical (Sageuk)<u>
+
 Set in Korea’s past, these dramas explore historical events, figures, or fictionalized stories in ancient times. The Moon Embracing the Sun and Scarlet Heart Ryeo are popular historical K-dramas.
 
 <u>Action/Crime<u>
+
 Action-packed and filled with suspense, these dramas focus on crime, law enforcement, and often, revenge. Healer and Signal offer a mix of thrilling action and mystery.
 
 <u>Family<u>
+
 Centering around family relationships, these dramas explore generational dynamics, sibling rivalry, or parental love. Reply 1988 and My Father is Strange are examples of heartwarming family-oriented series.
 
 <u>Melodrama<u>
+
 Known for its emotional depth, melodramas often delve into tragic stories of love, sacrifice, and loss. Stairway to Heaven and Autumn in My Heart are iconic melodramas that bring tears to viewers.
 
 <u>Medical<u>
+
 These K-dramas take place in hospitals or medical settings, focusing on doctors, nurses, and medical cases. Popular series like Hospital Playlist and Dr. Romantic are known for mixing medicine with heartwarming moments.
 
 <u>Sci-Fi<u>
+
 Sci-Fi K-dramas explore futuristic worlds, advanced technology, or alien life, blending these themes with other genres like romance or action. Memorist and The Silent Sea offer exciting narratives from the sci-fi realm.
 
 <u>Romantic Comedy (Rom-Com)<u>
+
 A sub-genre that combines romance and comedy, romantic comedies are known for their charming leads, hilarious misunderstandings, and cute moments. What's Wrong with Secretary Kim? and Playful Kiss are popular rom-coms.
 
 <u>School<u>
+
 These K-dramas are set in high schools or universities, focusing on students and their personal growth, relationships, and struggles. Who Are You: School 2015 and Weightlifting Fairy Kim Bok-Joo are beloved school dramas.
 
 ### How is korean drama different from Chinese drama?
