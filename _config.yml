@@ -9,7 +9,7 @@ permalink: "/:title/"
 # permalink: "/:lang/:categories/:year/:month/:day/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-paginate: 30
+paginate: 20
 locale: en_sg
 # lang: en_us
 feed_items: 10
