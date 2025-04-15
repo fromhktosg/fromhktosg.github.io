@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "新加坡租车与共享汽车：费用、选择，值得吗？"
+title:  "新加坡租车与共享汽车：费用,选择,值得吗？"
 categories: [新加坡，社会]
 image: assets/images/carshare.webp
 ---
