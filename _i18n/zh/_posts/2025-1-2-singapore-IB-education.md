@@ -2,7 +2,7 @@
 layout: post
 title:  "新加坡 IB（国际文凭）教育指南"
 categories: [新加坡, 教育, IB, 国际文凭]
-image: assets/images/ib.jpg
+image: assets/images/ib.webp
 ---
 
 在之前的一篇文章中，我们讨论了[新加坡教育体系](https://fromhktosg.github.io/zh/education/)与香港教育体系的对比。在今天的文章中，我们将重点探讨国际文凭（IB）课程。这是一项为期两年的严格文凭课程，强调批判性思维和全球视角，目前已在顶尖学府如英华自主中学（Anglo-Chinese School Independent）和圣若瑟国际学校（St. Joseph's Institution International）提供。 虽然 IB 的探究式学习方法与新加坡本地教育体系的结构化方式有所不同，两者都提供了独特的挑战和学术卓越的机会。因此，选择哪一种路径更多是关于找到合适的教育模式，而非单纯的难易程度比较。让我们深入了解一下吧。
