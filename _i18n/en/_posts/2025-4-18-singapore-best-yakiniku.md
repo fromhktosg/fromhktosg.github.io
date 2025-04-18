@@ -2,7 +2,7 @@
 layout: post
 title:  "Best Yakiniku in Singapore: Top Buffets, Wagyu BBQ & Halal Japanese Grills"
 categories: [Singapore, restaurant, food]
-image: assets/images/yaki.webp
+image: assets/images/yakii.webp
 ---
 
 Singaporeans love their grilled meats, and yakiniku in Singapore is no exception. 

@@ -2,7 +2,7 @@
 layout: post
 title:  "新加坡烧肉推荐：精选自助餐、和牛与清真日式烤肉"
 categories: [新加坡, 餐厅, 美食]
-image: assets/images/yaki.webp
+image: assets/images/yakii.webp
 ---
 
 新加坡人对烤肉情有独钟，烧肉当然也不例外。
