@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "22025必看中国恋爱综艺：新加坡观看指南"
-categories: [新加坡、电视、恋爱综艺]
+categories: [新加坡,电视,恋爱综艺]
 image: assets/images/cdate.webp
 ---
 
