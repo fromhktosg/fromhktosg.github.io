@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Singlish in Singapore: Top Words and Phrases Explained"
-categories: [Singapore, education, society]
+title:  "Should You Split the Bill? Best Etiquette and Apps in Singapore 2025"
+categories: [Singapore, society]
 image: assets/images/bill.webp
 ---
 
