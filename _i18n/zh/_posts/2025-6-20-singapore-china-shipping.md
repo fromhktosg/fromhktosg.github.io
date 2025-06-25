@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "How to Ship from China to Singapore: 2025 Guide"
-categories: [Singapore, china, logistics]
+title:  "如何从中国运货到新加坡：2025全攻略"
+categories: [新加坡, 中国, 物流]
 image: assets/images/ship.webp
 ---
 
